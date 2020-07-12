@@ -1,0 +1,757 @@
+Title,Movie Rating,Year,Gross Income,Movie Genre,Movie Runtime,IMDb Rating,Votes
+500 Days of Summer,PG-13,2009,32.39,"[['Comedy'], [' Drama'], [' Romance']]",95,7.7,461975.0
+12 Years a Slave,R,2013,56.67,"[['Biography'], [' Drama'], [' History']]",134,8.1,620072.0
+127 Hours,R,2010,18.34,"[['Biography'], [' Drama']]",94,7.6,340542.0
+1917,R,2019,159.23,"[['Drama'], [' War']]",119,8.3,341663.0
+2001: A Space Odyssey,G,1968,56.95,"[['Adventure'], [' Sci-Fi']]",149,8.3,583084.0
+21 Grams,R,2003,16.29,"[['Crime'], [' Drama'], [' Thriller']]",124,7.7,220459.0
+25th Hour,R,2002,13.06,[['Drama']],135,7.6,167272.0
+28 Days Later...,R,2002,45.06,"[['Drama'], [' Horror'], [' Sci-Fi']]",113,7.6,367563.0
+3 Idiots,PG-13,2009,6.53,"[['Comedy'], [' Drama']]",170,8.4,328288.0
+300,R,2006,210.61,"[['Action'], [' Drama']]",117,7.6,719648.0
+3:10 to Yuma,R,2007,53.61,"[['Action'], [' Crime'], [' Drama']]",122,7.7,282093.0
+50/50,R,2011,35.01,"[['Comedy'], [' Drama'], [' Romance']]",100,7.6,310778.0
+A Beautiful Mind,PG-13,2001,170.74,"[['Biography'], [' Drama']]",135,8.2,822105.0
+A Bronx Tale,R,1993,17.27,"[['Crime'], [' Drama'], [' Romance']]",121,7.8,124119.0
+A Christmas Story,PG,1983,20.61,"[['Comedy'], [' Family']]",94,7.9,127429.0
+A Clockwork Orange,R,1971,6.21,"[['Crime'], [' Drama'], [' Sci-Fi']]",136,8.3,735493.0
+A Few Good Men,R,1992,141.34,"[['Drama'], [' Thriller']]",138,7.7,227621.0
+A Hard Day's Night,G,1964,13.78,"[['Comedy'], [' Music'], [' Musical']]",87,7.6,39101.0
+A Little Princess,G,1995,10.02,"[['Drama'], [' Family'], [' Fantasy']]",97,7.7,31246.0
+A Man for All Seasons,G,1966,28.35,"[['Biography'], [' Drama'], [' History']]",120,7.7,30257.0
+A Star Is Born,R,2018,215.29,"[['Drama'], [' Music'], [' Romance']]",136,7.7,313513.0
+A Streetcar Named Desire,PG,1951,8.0,[['Drama']],122,8.0,96592.0
+About Time,R,2013,15.32,"[['Comedy'], [' Drama'], [' Fantasy']]",123,7.8,287461.0
+Open Your Eyes,R,1997,0.37,"[['Drama'], [' Mystery'], [' Sci-Fi']]",117,7.8,62505.0
+Adam's Apples,R,2005,0.0,"[['Comedy'], [' Crime'], [' Drama']]",94,7.8,44231.0
+Adaptation.,R,2002,22.25,"[['Comedy'], [' Drama']]",115,7.7,172961.0
+After Hours,R,1985,10.6,"[['Comedy'], [' Crime'], [' Drama']]",97,7.7,55942.0
+Airplane!,PG,1980,83.4,[['Comedy']],88,7.7,205629.0
+The Man from Nowhere,R,2010,0.01,"[['Action'], [' Drama'], [' Thriller']]",119,7.8,60273.0
+Akira,R,1988,0.55,"[['Animation'], [' Drama'], [' Sci-Fi']]",124,8.0,157790.0
+Aladdin,G,1992,217.35,"[['Animation'], [' Adventure'], [' Comedy']]",90,8.0,361295.0
+Alien,R,1979,78.9,"[['Horror'], [' Sci-Fi']]",117,8.4,763225.0
+Aliens,R,1986,85.16,"[['Action'], [' Adventure'], [' Sci-Fi']]",137,8.3,635442.0
+All That Jazz,R,1979,37.82,"[['Drama'], [' Music'], [' Musical']]",123,7.9,26886.0
+All the President's Men,PG,1976,70.6,"[['Biography'], [' Drama'], [' History']]",138,8.0,99042.0
+Almost Famous,R,2000,32.53,"[['Adventure'], [' Comedy'], [' Drama']]",122,7.9,245879.0
+Amadeus,R,1984,51.97,"[['Biography'], [' Drama'], [' History']]",160,8.3,358665.0
+Amarcord,R,1973,0.0,"[['Comedy'], [' Drama']]",123,7.9,0.0
+American Beauty,R,1999,130.1,[['Drama']],122,8.3,1043542.0
+American Gangster,R,2007,130.16,"[['Biography'], [' Crime'], [' Drama']]",157,7.8,381985.0
+American History X,R,1998,6.72,[['Drama']],119,8.5,1007907.0
+American Psycho,R,2000,15.07,"[['Comedy'], [' Crime'], [' Drama']]",101,7.6,468274.0
+Amores Perros,R,2000,5.38,"[['Drama'], [' Thriller']]",154,8.1,217993.0
+Amour,PG-13,2012,6.74,"[['Drama'], [' Romance']]",127,7.9,90586.0
+And Now for Something Completely Different,PG,1971,0.0,[['Comedy']],88,7.6,0.0
+Andaz Apna Apna,PG,1994,0.0,"[['Action'], [' Comedy'], [' Family']]",160,8.2,0.0
+Andrei Rublev,R,1966,0.1,"[['Biography'], [' Drama'], [' History']]",205,8.1,44179.0
+Annie Hall,PG,1977,39.2,"[['Comedy'], [' Romance']]",93,8.0,247073.0
+Apocalypse Now,R,1979,83.47,"[['Drama'], [' Mystery'], [' War']]",147,8.4,586342.0
+Apocalypto,R,2006,50.87,"[['Action'], [' Adventure'], [' Drama']]",139,7.8,284494.0
+Apollo 13,PG,1995,173.84,"[['Adventure'], [' Drama'], [' History']]",140,7.6,260674.0
+Argo,R,2012,136.03,"[['Biography'], [' Drama'], [' Thriller']]",120,7.7,560569.0
+Arrival,PG-13,2016,100.55,"[['Drama'], [' Mystery'], [' Sci-Fi']]",116,7.9,570187.0
+As Good as It Gets,PG-13,1997,148.48,"[['Comedy'], [' Drama'], [' Romance']]",139,7.7,268492.0
+Atonement,R,2007,50.93,"[['Drama'], [' Mystery'], [' Romance']]",123,7.8,241759.0
+Au Revoir les Enfants,PG,1987,4.54,"[['Drama'], [' War']]",104,8.0,30219.0
+Avatar,PG-13,2009,760.51,"[['Action'], [' Adventure'], [' Fantasy']]",162,7.8,1096495.0
+Avengers: Endgame,PG-13,2019,858.37,"[['Action'], [' Adventure'], [' Drama']]",181,8.4,737698.0
+Avengers: Infinity War,PG-13,2018,678.82,"[['Action'], [' Adventure'], [' Sci-Fi']]",149,8.4,785924.0
+Awakenings,PG-13,1990,52.1,"[['Biography'], [' Drama']]",121,7.8,119676.0
+Baby Driver,R,2017,107.83,"[['Action'], [' Crime'], [' Drama']]",113,7.6,416648.0
+Children of Heaven,PG,1997,0.93,"[['Drama'], [' Family'], [' Sport']]",89,8.3,61402.0
+Back to the Future,PG,1985,210.61,"[['Adventure'], [' Comedy'], [' Sci-Fi']]",116,8.5,1016319.0
+Back to the Future Part II,PG,1989,118.5,"[['Adventure'], [' Comedy'], [' Sci-Fi']]",108,7.8,462864.0
+Badlands,PG,1973,0.0,"[['Action'], [' Crime'], [' Drama']]",94,7.8,0.0
+Barry Lyndon,PG,1975,0.0,"[['Adventure'], [' Drama'], [' History']]",185,8.1,0.0
+Barton Fink,R,1991,6.15,"[['Comedy'], [' Drama'], [' Thriller']]",116,7.7,110127.0
+Batman Begins,PG-13,2005,206.85,"[['Action'], [' Adventure']]",140,8.2,1269675.0
+Batman: Mask of the Phantasm,PG,1993,5.62,"[['Animation'], [' Action'], [' Crime']]",76,7.8,41622.0
+Beauty and the Beast,G,1991,218.97,"[['Animation'], [' Family'], [' Fantasy']]",84,8.0,408775.0
+Before Midnight,R,2013,8.11,"[['Drama'], [' Romance']]",109,7.9,134952.0
+Before Sunrise,R,1995,5.54,"[['Drama'], [' Romance']]",101,8.1,259656.0
+Before Sunset,R,2004,5.82,"[['Drama'], [' Romance']]",80,8.0,226369.0
+Being John Malkovich,R,1999,22.86,"[['Comedy'], [' Drama'], [' Fantasy']]",113,7.7,301886.0
+Being There,PG,1979,30.18,"[['Comedy'], [' Drama']]",130,8.0,63774.0
+Belle de Jour,R,1967,0.03,[['Drama']],100,7.7,38795.0
+Ben-Hur,G,1959,74.7,"[['Adventure'], [' Drama'], [' History']]",212,8.1,213559.0
+Big Fish,PG-13,2003,66.26,"[['Adventure'], [' Drama'], [' Fantasy']]",125,8.0,406186.0
+Big Hero 6,PG,2014,222.53,"[['Animation'], [' Action'], [' Adventure']]",102,7.8,398308.0
+Billy Elliot,R,2000,22.0,"[['Drama'], [' Music']]",110,7.7,123084.0
+3-Iron,R,2004,0.24,"[['Crime'], [' Drama'], [' Romance']]",88,8.0,48285.0
+Birdman or (The Unexpected Virtue of Ignorance),R,2014,42.34,"[['Comedy'], [' Drama']]",119,7.7,562147.0
+Black Hawk Down,R,2001,108.64,"[['Drama'], [' History'], [' War']]",144,7.7,356345.0
+Black Swan,R,2010,106.95,"[['Drama'], [' Thriller']]",108,8.0,682787.0
+Blade Runner,R,1982,32.87,"[['Action'], [' Sci-Fi'], [' Thriller']]",117,8.1,673500.0
+Blade Runner 2049,R,2017,92.05,"[['Action'], [' Drama'], [' Mystery']]",164,8.0,435414.0
+Blazing Saddles,R,1974,119.5,"[['Comedy'], [' Western']]",93,7.7,122564.0
+Blood Diamond,R,2006,57.37,"[['Adventure'], [' Drama'], [' Thriller']]",143,8.0,486898.0
+Blood Simple,R,1984,2.15,"[['Crime'], [' Drama'], [' Thriller']]",99,7.6,84710.0
+Blow,R,2001,52.99,"[['Biography'], [' Crime'], [' Drama']]",124,7.6,235228.0
+Blue Velvet,R,1986,8.55,"[['Drama'], [' Mystery'], [' Thriller']]",120,7.8,174961.0
+Bohemian Rhapsody,PG-13,2018,216.43,"[['Biography'], [' Drama'], [' Music']]",134,8.0,428773.0
+Sympathy for Mr. Vengeance,R,2002,0.05,"[['Crime'], [' Drama'], [' Thriller']]",129,7.6,60525.0
+"Spring, Summer, Fall, Winter... and Spring",R,2003,2.38,"[['Drama'], [' Romance']]",103,8.0,75113.0
+Bonnie and Clyde,R,1967,0.0,"[['Action'], [' Biography'], [' Crime']]",111,7.8,0.0
+Boogie Nights,R,1997,26.4,[['Drama']],155,7.9,232137.0
+"Blood In, Blood Out",R,1993,4.5,"[['Crime'], [' Drama']]",180,8.0,28100.0
+Boy A,R,2007,0.11,[['Drama']],102,7.6,36332.0
+Boyhood,R,2014,25.38,[['Drama']],165,7.9,329188.0
+Boyz n the Hood,R,1991,57.5,"[['Crime'], [' Drama']]",112,7.7,120623.0
+Braveheart,R,1995,75.6,"[['Biography'], [' Drama'], [' History']]",178,8.3,937109.0
+Brazil,R,1985,9.93,"[['Drama'], [' Sci-Fi']]",132,7.9,183437.0
+Breaking the Waves,R,1996,4.04,[['Drama']],159,7.8,60732.0
+Bridge of Spies,PG-13,2015,72.31,"[['Drama'], [' History'], [' Thriller']]",142,7.6,279258.0
+Brokeback Mountain,R,2005,83.04,"[['Drama'], [' Romance']]",134,7.7,315283.0
+Butch Cassidy and the Sundance Kid,PG,1969,102.31,"[['Biography'], [' Crime'], [' Drama']]",110,8.0,198355.0
+Once Upon a Time in the West,PG-13,1968,5.32,[['Western']],165,8.5,292442.0
+Cabaret,PG,1972,42.77,"[['Drama'], [' Musical']]",124,7.8,46837.0
+Call Me by Your Name,R,2017,18.1,"[['Drama'], [' Romance']]",132,7.9,195786.0
+Capharnaüm,R,2018,1.66,[['Drama']],126,8.4,50508.0
+Captain America: Civil War,PG-13,2016,408.08,"[['Action'], [' Adventure'], [' Sci-Fi']]",147,7.8,639179.0
+Captain America: The Winter Soldier,PG-13,2014,259.77,"[['Action'], [' Adventure'], [' Sci-Fi']]",136,7.7,714834.0
+Captain Fantastic,R,2016,5.88,"[['Comedy'], [' Drama']]",118,7.9,179986.0
+Captain Phillips,PG-13,2013,107.1,"[['Biography'], [' Crime'], [' Drama']]",134,7.8,409405.0
+Carlito's Way,R,1993,36.95,"[['Crime'], [' Drama'], [' Thriller']]",144,7.9,195226.0
+Casablanca,PG,1942,1.02,"[['Drama'], [' Romance'], [' War']]",102,8.5,506499.0
+Casino,R,1995,42.44,"[['Crime'], [' Drama']]",178,8.2,448453.0
+Casino Royale,PG-13,2006,167.45,"[['Action'], [' Adventure'], [' Thriller']]",144,8.0,567191.0
+Cast Away,PG-13,2000,233.63,"[['Adventure'], [' Drama'], [' Romance']]",143,7.8,506712.0
+Catch Me If You Can,PG-13,2002,164.62,"[['Biography'], [' Crime'], [' Drama']]",141,8.1,791633.0
+Central Station,R,1998,5.6,[['Drama']],110,8.0,35097.0
+Changeling,R,2008,35.74,"[['Biography'], [' Crime'], [' Drama']]",141,7.7,232145.0
+Children of Men,R,2006,35.55,"[['Drama'], [' Sci-Fi'], [' Thriller']]",109,7.9,452895.0
+Chinatown,R,1974,29.2,"[['Drama'], [' Mystery'], [' Thriller']]",130,8.2,284389.0
+Lady Vengeance,R,2005,0.21,"[['Crime'], [' Drama'], [' Thriller']]",115,7.6,69679.0
+Chungking Express,PG-13,1994,0.6,"[['Comedy'], [' Crime'], [' Drama']]",102,8.1,59197.0
+City of God,R,2002,7.56,"[['Crime'], [' Drama']]",130,8.6,682256.0
+Cinderella Man,PG-13,2005,61.65,"[['Biography'], [' Drama'], [' History']]",144,8.0,172789.0
+Citizen Kane,PG,1941,1.59,"[['Drama'], [' Mystery']]",119,8.3,386471.0
+City Lights,G,1931,0.02,"[['Comedy'], [' Drama'], [' Romance']]",87,8.5,160933.0
+Clerks,R,1994,3.15,[['Comedy']],92,7.7,208537.0
+Close Encounters of the Third Kind,PG,1977,132.09,"[['Drama'], [' Sci-Fi']]",138,7.6,178945.0
+Coco,PG,2017,209.73,"[['Animation'], [' Adventure'], [' Family']]",105,8.4,345777.0
+The Invisible Guest,106 min,2016,0.0,"[['Crime'], [' Mystery'], [' Thriller']]",106,8.1,0.0
+Control,R,2007,0.87,"[['Biography'], [' Drama'], [' Music']]",122,7.7,60403.0
+Coraline,PG,2009,75.29,"[['Animation'], [' Drama'], [' Family']]",100,7.7,189391.0
+Cowboy Bebop: The Movie,115 min,2001,1.0,"[['Animation'], [' Action'], [' Crime']]",115,7.9,41659.0
+Crash,R,2004,54.58,"[['Crime'], [' Drama'], [' Thriller']]",112,7.7,413779.0
+Creed,PG-13,2015,109.77,"[['Drama'], [' Sport']]",133,7.6,240329.0
+Crimes and Misdemeanors,PG-13,1989,18.25,"[['Comedy'], [' Drama']]",104,7.9,53232.0
+"Crna macka, beli macor",R,1998,0.35,"[['Comedy'], [' Crime'], [' Romance']]",127,8.1,49586.0
+Raise the Red Lantern,PG,1991,2.6,"[['Drama'], [' History'], [' Romance']]",125,8.1,28397.0
+Dallas Buyers Club,R,2013,27.3,"[['Biography'], [' Drama']]",117,8.0,427269.0
+Dancer in the Dark,R,2000,4.18,"[['Crime'], [' Drama'], [' Musical']]",140,8.0,99451.0
+Dances with Wolves,PG-13,1990,184.21,"[['Adventure'], [' Drama'], [' Western']]",181,8.0,233668.0
+Dangerous Liaisons,R,1988,34.7,"[['Drama'], [' Romance']]",119,7.6,62825.0
+Dark City,R,1998,14.38,"[['Mystery'], [' Sci-Fi'], [' Thriller']]",100,7.6,184241.0
+Das Boot,R,1981,11.49,"[['Adventure'], [' Drama'], [' Thriller']]",149,8.3,224568.0
+The Experiment,R,2001,0.14,"[['Drama'], [' Thriller']]",120,7.7,89713.0
+The Lives of Others,R,2006,11.29,"[['Drama'], [' Mystery'], [' Thriller']]",137,8.4,346995.0
+The White Ribbon,R,2009,2.22,"[['Drama'], [' History'], [' Mystery']]",144,7.8,66925.0
+Dawn of the Planet of the Apes,PG-13,2014,208.55,"[['Action'], [' Adventure'], [' Drama']]",130,7.6,405040.0
+Days of Heaven,PG,1978,0.0,"[['Drama'], [' Romance']]",94,7.8,0.0
+Dazed and Confused,R,1993,7.99,[['Comedy']],102,7.6,159840.0
+Dead Man,R,1995,1.04,"[['Adventure'], [' Drama'], [' Fantasy']]",121,7.6,88179.0
+Dead Poets Society,PG,1989,95.86,"[['Comedy'], [' Drama']]",128,8.1,407210.0
+Deadpool,R,2016,363.07,"[['Action'], [' Adventure'], [' Comedy']]",108,8.0,876499.0
+Deadpool 2,R,2018,324.59,"[['Action'], [' Adventure'], [' Comedy']]",119,7.7,455606.0
+Delicatessen,R,1991,1.79,"[['Comedy'], [' Crime']]",99,7.6,78751.0
+Deliverance,R,1972,7.06,"[['Adventure'], [' Drama'], [' Thriller']]",109,7.7,96060.0
+Wings of Desire,PG-13,1987,3.33,"[['Drama'], [' Fantasy'], [' Romance']]",128,8.0,62357.0
+The Name of the Rose,R,1986,7.15,"[['Crime'], [' Drama'], [' Mystery']]",130,7.7,98858.0
+Downfall,R,2004,5.51,"[['Biography'], [' Drama'], [' History']]",156,8.2,322809.0
+Despicable Me,PG,2010,251.51,"[['Animation'], [' Comedy'], [' Family']]",95,7.6,488784.0
+Dial M for Murder,PG,1954,0.01,"[['Crime'], [' Thriller']]",105,8.2,151796.0
+The Motorcycle Diaries,R,2004,16.76,"[['Adventure'], [' Biography'], [' Drama']]",126,7.8,94957.0
+Die Hard,R,1988,83.01,"[['Action'], [' Thriller']]",132,8.2,763657.0
+Die Hard with a Vengeance,R,1995,100.01,"[['Action'], [' Adventure'], [' Thriller']]",128,7.6,355578.0
+The Killer,R,1989,0.0,"[['Action'], [' Crime'], [' Drama']]",111,7.8,0.0
+Dirty Harry,R,1971,35.9,"[['Action'], [' Crime'], [' Thriller']]",102,7.7,139657.0
+District 9,R,2009,115.65,"[['Action'], [' Sci-Fi'], [' Thriller']]",112,7.9,627901.0
+Django Unchained,R,2012,162.81,"[['Drama'], [' Western']]",165,8.4,1307874.0
+Do the Right Thing,R,1989,27.55,"[['Comedy'], [' Drama']]",120,7.9,84642.0
+Doctor Zhivago,PG-13,1965,111.72,"[['Drama'], [' Romance'], [' War']]",197,8.0,67838.0
+Dog Day Afternoon,R,1975,50.0,"[['Biography'], [' Crime'], [' Drama']]",125,8.0,229372.0
+Dogville,R,2003,1.53,"[['Crime'], [' Drama']]",178,8.0,134149.0
+Donnie Brasco,R,1997,41.91,"[['Biography'], [' Crime'], [' Drama']]",127,7.7,269406.0
+Donnie Darko,R,2001,1.48,"[['Drama'], [' Mystery'], [' Sci-Fi']]",113,8.0,725150.0
+Down by Law,R,1986,1.44,"[['Comedy'], [' Crime'], [' Drama']]",107,7.8,46519.0
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,PG,1964,0.28,[['Comedy']],95,8.4,438256.0
+Drive,R,2011,35.06,"[['Crime'], [' Drama']]",100,7.8,554910.0
+Dunkirk,PG-13,2017,188.37,"[['Action'], [' Drama'], [' History']]",106,7.9,523611.0
+E.T. the Extra-Terrestrial,PG,1982,435.11,"[['Family'], [' Sci-Fi']]",115,7.8,360073.0
+East of Eden,PG,1955,0.0,[['Drama']],118,7.9,0.0
+Eastern Promises,R,2007,17.11,"[['Action'], [' Crime'], [' Drama']]",100,7.6,222830.0
+Ed Wood,R,1994,5.89,"[['Biography'], [' Comedy'], [' Drama']]",127,7.8,162414.0
+Edge of Tomorrow,PG-13,2014,100.21,"[['Action'], [' Adventure'], [' Sci-Fi']]",113,7.9,582292.0
+Edward Scissorhands,PG-13,1990,56.36,"[['Drama'], [' Fantasy'], [' Romance']]",105,7.9,435072.0
+After the Wedding,R,2006,0.41,[['Drama']],120,7.7,31092.0
+Pan's Labyrinth,R,2006,37.63,"[['Drama'], [' Fantasy'], [' War']]",118,8.2,603532.0
+The Secret in Their Eyes,R,2009,6.39,"[['Drama'], [' Mystery'], [' Romance']]",129,8.2,186290.0
+Empire of the Sun,PG,1987,22.24,"[['Action'], [' Drama'], [' History']]",153,7.7,112353.0
+A Man Called Ove,PG-13,2015,3.36,"[['Comedy'], [' Drama'], [' Romance']]",116,7.7,44415.0
+End of Watch,R,2012,41.0,"[['Action'], [' Crime'], [' Drama']]",109,7.6,223152.0
+Enemy at the Gates,R,2001,51.4,"[['Drama'], [' History'], [' War']]",131,7.6,236820.0
+Enter the Dragon,R,1973,25.0,"[['Action'], [' Crime'], [' Drama']]",102,7.7,93705.0
+Escape from Alcatraz,PG,1979,43.0,"[['Biography'], [' Crime'], [' Drama']]",112,7.6,115015.0
+Eternal Sunshine of the Spotless Mind,R,2004,34.4,"[['Drama'], [' Romance'], [' Sci-Fi']]",108,8.3,883000.0
+Evil Dead II,R,1987,5.92,"[['Comedy'], [' Horror']]",84,7.8,143832.0
+Ex Machina,R,2014,25.44,"[['Drama'], [' Mystery'], [' Sci-Fi']]",108,7.7,458533.0
+In the Mood for Love,PG,2000,2.73,"[['Drama'], [' Romance']]",98,8.1,117720.0
+Falling Down,R,1993,40.9,"[['Crime'], [' Drama'], [' Thriller']]",113,7.6,165174.0
+Fanny and Alexander,R,1982,4.97,[['Drama']],188,8.1,55761.0
+Fantasia,G,1940,76.41,"[['Animation'], [' Family'], [' Fantasy']]",125,7.8,86282.0
+Fantastic Mr. Fox,PG,2009,21.0,"[['Animation'], [' Adventure'], [' Comedy']]",87,7.9,191247.0
+Fargo,R,1996,24.61,"[['Crime'], [' Drama'], [' Thriller']]",98,8.1,596930.0
+Fear and Loathing in Las Vegas,R,1998,10.68,"[['Adventure'], [' Comedy'], [' Drama']]",118,7.6,253373.0
+Ferris Bueller's Day Off,PG-13,1986,70.14,[['Comedy']],103,7.8,311205.0
+The Celebration,R,1998,1.65,[['Drama']],105,8.0,76094.0
+Fiddler on the Roof,G,1971,80.5,"[['Drama'], [' Family'], [' Musical']]",181,8.0,37895.0
+Fight Club,R,1999,37.03,[['Drama']],139,8.8,1795444.0
+Finding Nemo,G,2003,380.84,"[['Animation'], [' Adventure'], [' Comedy']]",100,8.1,922547.0
+Finding Neverland,PG,2004,51.68,"[['Biography'], [' Drama'], [' Family']]",106,7.7,195692.0
+First Blood,R,1982,47.21,"[['Action'], [' Adventure']]",93,7.7,219888.0
+Fitzcarraldo,PG,1982,0.0,"[['Adventure'], [' Drama']]",158,8.1,0.0
+Flipped,PG,2010,1.75,"[['Comedy'], [' Drama'], [' Romance']]",90,7.7,79162.0
+Ford v Ferrari,PG-13,2019,117.62,"[['Action'], [' Biography'], [' Drama']]",152,8.1,233832.0
+Forrest Gump,PG-13,1994,330.25,"[['Drama'], [' Romance']]",142,8.8,1742200.0
+The Salesman,PG-13,2016,2.4,"[['Drama'], [' Thriller']]",124,7.8,47961.0
+Fried Green Tomatoes,PG-13,1991,82.42,[['Drama']],130,7.7,64970.0
+Frost/Nixon,R,2008,18.59,"[['Biography'], [' Drama'], [' History']]",122,7.7,100826.0
+Full Metal Jacket,R,1987,46.36,"[['Drama'], [' War']]",116,8.3,653254.0
+Ponyo,G,2008,15.09,"[['Animation'], [' Adventure'], [' Comedy']]",101,7.7,118546.0
+Gandhi,PG,1982,52.77,"[['Biography'], [' Drama'], [' History']]",191,8.0,214367.0
+Gangs of Wasseypur,R,2012,0.0,"[['Action'], [' Crime'], [' Drama']]",321,8.2,0.0
+Gattaca,PG-13,1997,12.34,"[['Drama'], [' Sci-Fi'], [' Thriller']]",106,7.8,274229.0
+Head-On,R,2004,0.0,"[['Drama'], [' Romance']]",121,7.9,0.0
+Get Out,R,2017,176.04,"[['Horror'], [' Mystery'], [' Thriller']]",104,7.7,466082.0
+Ghostbusters,PG,1984,238.63,"[['Action'], [' Comedy'], [' Fantasy']]",105,7.8,344900.0
+Giant,G,1956,0.0,"[['Drama'], [' Western']]",201,7.6,0.0
+Gifted,PG-13,2017,24.8,[['Drama']],101,7.6,94580.0
+Parasite,R,2019,53.37,"[['Comedy'], [' Drama'], [' Thriller']]",132,8.6,444716.0
+Duck You Sucker,PG,1971,0.7,"[['Drama'], [' War'], [' Western']]",138,7.6,28889.0
+Gladiator,R,2000,187.71,"[['Action'], [' Adventure'], [' Drama']]",155,8.5,1298577.0
+Glengarry Glen Ross,R,1992,10.73,"[['Crime'], [' Drama'], [' Mystery']]",100,7.7,93252.0
+Glory,R,1989,26.83,"[['Biography'], [' Drama'], [' History']]",122,7.8,118047.0
+Goldfinger,PG,1964,51.08,"[['Action'], [' Adventure'], [' Thriller']]",110,7.7,167812.0
+Gone Baby Gone,R,2007,20.3,"[['Crime'], [' Drama'], [' Mystery']]",114,7.6,244272.0
+Gone Girl,R,2014,167.77,"[['Drama'], [' Mystery'], [' Thriller']]",149,8.1,826030.0
+Gone with the Wind,Passed,1939,198.68,"[['Drama'], [' History'], [' Romance']]",238,8.1,281597.0
+Good Bye Lenin!,R,2003,4.06,"[['Comedy'], [' Drama'], [' Romance']]",121,7.7,135054.0
+Good Will Hunting,R,1997,138.43,"[['Drama'], [' Romance']]",126,8.3,830710.0
+Goodfellas,R,1990,46.84,"[['Biography'], [' Crime'], [' Drama']]",146,8.7,983422.0
+Gran Torino,R,2008,148.1,[['Drama']],116,8.1,703417.0
+Gravity,PG-13,2013,274.09,"[['Drama'], [' Sci-Fi'], [' Thriller']]",91,7.7,751628.0
+Green Book,PG-13,2018,85.08,"[['Biography'], [' Comedy'], [' Drama']]",130,8.2,333039.0
+Groundhog Day,PG,1993,70.91,"[['Comedy'], [' Fantasy'], [' Romance']]",101,8.0,566457.0
+Guardians of the Galaxy,PG-13,2014,333.18,"[['Action'], [' Adventure'], [' Comedy']]",121,8.0,1017875.0
+Guardians of the Galaxy Vol. 2,PG-13,2017,389.81,"[['Action'], [' Adventure'], [' Comedy']]",136,7.6,544815.0
+Talk to Her,R,2002,9.28,"[['Drama'], [' Mystery'], [' Romance']]",112,7.9,102225.0
+Hachi: A Dog's Tale,G,2009,0.0,"[['Drama'], [' Family']]",93,8.1,0.0
+Hacksaw Ridge,R,2016,67.21,"[['Biography'], [' Drama'], [' History']]",139,8.1,413331.0
+Halloween,R,1978,47.0,"[['Horror'], [' Thriller']]",91,7.8,220863.0
+Hamlet,PG-13,1996,4.41,[['Drama']],242,7.7,35395.0
+Fireworks,103 min,1997,0.23,"[['Crime'], [' Drama'], [' Romance']]",103,7.8,26746.0
+Hannah and Her Sisters,PG-13,1986,40.08,"[['Comedy'], [' Drama']]",107,7.9,65292.0
+Harold and Maude,PG,1971,0.0,"[['Comedy'], [' Drama'], [' Romance']]",91,7.9,0.0
+Harry Potter and the Deathly Hallows: Part 1,PG-13,2010,295.98,"[['Adventure'], [' Family'], [' Fantasy']]",146,7.7,459454.0
+Harry Potter and the Deathly Hallows: Part 2,PG-13,2011,381.01,"[['Adventure'], [' Drama'], [' Fantasy']]",130,8.1,738101.0
+Harry Potter and the Goblet of Fire,PG-13,2005,290.01,"[['Adventure'], [' Family'], [' Fantasy']]",157,7.7,526460.0
+Harry Potter and the Half-Blood Prince,PG,2009,301.96,"[['Action'], [' Adventure'], [' Family']]",153,7.6,454210.0
+Harry Potter and the Prisoner of Azkaban,PG,2004,249.36,"[['Adventure'], [' Family'], [' Fantasy']]",142,7.9,528870.0
+Harry Potter and the Sorcerer's Stone,PG,2001,317.58,"[['Adventure'], [' Family'], [' Fantasy']]",152,7.6,619290.0
+Howl's Moving Castle,PG,2004,4.71,"[['Animation'], [' Adventure'], [' Family']]",119,8.2,314413.0
+Heat,R,1995,67.44,"[['Crime'], [' Drama'], [' Thriller']]",170,8.2,558073.0
+Hedwig and the Angry Inch,R,2001,3.03,"[['Comedy'], [' Drama'], [' Music']]",95,7.7,31288.0
+Hell or High Water,R,2016,26.86,"[['Action'], [' Crime'], [' Drama']]",102,7.6,195999.0
+Her,R,2013,25.57,"[['Drama'], [' Romance'], [' Sci-Fi']]",126,8.0,518746.0
+Hidden Figures,PG,2016,169.61,"[['Biography'], [' Drama'], [' History']]",127,7.8,191351.0
+High Noon,PG,1952,9.45,"[['Drama'], [' Thriller'], [' Western']]",85,7.9,95065.0
+Home Alone,PG,1990,285.76,"[['Comedy'], [' Family']]",103,7.6,448990.0
+Hot Fuzz,R,2007,23.64,"[['Action'], [' Comedy'], [' Mystery']]",121,7.8,450573.0
+Hotel Rwanda,PG-13,2004,23.53,"[['Biography'], [' Drama'], [' History']]",121,8.1,327627.0
+How to Train Your Dragon,PG,2010,217.58,"[['Animation'], [' Action'], [' Adventure']]",98,8.1,647587.0
+How to Train Your Dragon 2,PG,2014,177.0,"[['Animation'], [' Action'], [' Adventure']]",102,7.8,296678.0
+Hunt for the Wilderpeople,PG-13,2016,5.2,"[['Adventure'], [' Comedy'], [' Drama']]",101,7.9,103065.0
+Fearless,PG-13,2006,24.63,"[['Action'], [' Biography'], [' Drama']]",104,7.6,71813.0
+In a Better World,R,2010,1.01,"[['Drama'], [' Romance']]",118,7.6,37842.0
+I Am Sam,PG-13,2001,40.31,[['Drama']],132,7.7,140623.0
+"I, Daniel Blake",R,2016,0.26,[['Drama']],100,7.9,50902.0
+"The Good, the Bad and the Ugly",R,1966,6.1,[['Western']],178,8.8,667434.0
+The Conformist,R,1970,0.54,[['Drama']],113,8.0,25754.0
+Il Postino,PG,1994,21.85,"[['Biography'], [' Comedy'], [' Drama']]",108,7.7,32604.0
+In America,PG-13,2002,15.54,[['Drama']],105,7.7,39947.0
+In Bruges,R,2008,7.76,"[['Comedy'], [' Crime'], [' Drama']]",107,7.9,381561.0
+In the Name of the Father,R,1993,25.01,"[['Biography'], [' Drama']]",133,8.1,151450.0
+Incendies,R,2010,6.86,"[['Drama'], [' Mystery'], [' War']]",131,8.3,140325.0
+Inception,PG-13,2010,292.58,"[['Action'], [' Adventure'], [' Sci-Fi']]",148,8.8,1983198.0
+Incredibles 2,PG,2018,608.58,"[['Animation'], [' Action'], [' Adventure']]",118,7.6,236479.0
+Indiana Jones and the Last Crusade,PG-13,1989,197.17,"[['Action'], [' Adventure']]",127,8.2,672551.0
+Indiana Jones and the Temple of Doom,PG,1984,179.87,"[['Action'], [' Adventure']]",118,7.6,434736.0
+Inglourious Basterds,R,2009,120.54,"[['Adventure'], [' Drama'], [' War']]",153,8.3,1220178.0
+Inside Man,R,2006,88.51,"[['Crime'], [' Drama'], [' Mystery']]",129,7.6,329485.0
+Inside Out,PG,2015,356.46,"[['Animation'], [' Adventure'], [' Comedy']]",95,8.1,587391.0
+Interstate 60: Episodes of the Road,R,2002,0.0,"[['Adventure'], [' Comedy'], [' Drama']]",116,7.7,0.0
+Interstellar,PG-13,2014,188.02,"[['Adventure'], [' Drama'], [' Sci-Fi']]",169,8.6,1432073.0
+Into the Wild,R,2007,18.35,"[['Adventure'], [' Biography'], [' Drama']]",148,8.1,556845.0
+The Intouchables,R,2011,13.18,"[['Biography'], [' Comedy'], [' Drama']]",112,8.5,731531.0
+Iron Man,PG-13,2008,318.41,"[['Action'], [' Adventure'], [' Sci-Fi']]",126,7.9,916038.0
+Isle of Dogs,PG-13,2018,32.02,"[['Animation'], [' Adventure'], [' Comedy']]",101,7.9,130796.0
+JFK,R,1991,70.41,"[['Drama'], [' History'], [' Thriller']]",189,8.0,137520.0
+The Hunt,R,2012,0.69,[['Drama']],115,8.3,266707.0
+Jaws,PG,1975,260.0,"[['Adventure'], [' Thriller']]",124,8.0,532303.0
+Love Me If You Dare,R,2003,0.55,"[['Comedy'], [' Drama'], [' Romance']]",93,7.6,66091.0
+A Separation,PG-13,2011,7.1,[['Drama']],123,8.3,212459.0
+Jojo Rabbit,PG-13,2019,0.35,"[['Comedy'], [' Drama'], [' War']]",108,7.9,235860.0
+Joker,R,2019,335.45,"[['Crime'], [' Drama'], [' Thriller']]",122,8.5,824817.0
+Joyeux Noel,PG-13,2005,1.05,"[['Drama'], [' History'], [' Music']]",116,7.7,27017.0
+Jurassic Park,PG-13,1993,402.45,"[['Action'], [' Adventure'], [' Sci-Fi']]",127,8.1,837429.0
+Kagemusha,PG,1980,0.0,"[['Drama'], [' History'], [' War']]",162,8.0,0.0
+The Tale of The Princess Kaguya,PG,2013,1.51,"[['Animation'], [' Adventure'], [' Drama']]",137,8.0,35521.0
+The Secret World of Arrietty,G,2010,19.2,"[['Animation'], [' Adventure'], [' Family']]",94,7.6,76488.0
+Nausicaä of the Valley of the Wind,PG,1984,0.5,"[['Animation'], [' Adventure'], [' Fantasy']]",117,8.1,142995.0
+The Wind Rises,PG-13,2013,5.21,"[['Animation'], [' Biography'], [' Drama']]",126,7.8,68989.0
+Kick-Ass,R,2010,48.07,"[['Action'], [' Comedy'], [' Crime']]",117,7.6,515931.0
+Kill Bill: Vol. 1,R,2003,70.1,"[['Action'], [' Crime'], [' Thriller']]",111,8.1,970928.0
+Kill Bill: Vol. 2,R,2004,66.21,"[['Action'], [' Crime'], [' Thriller']]",137,8.0,663914.0
+Your Name.,PG,2016,5.02,"[['Animation'], [' Drama'], [' Fantasy']]",106,8.4,173592.0
+Kingsman: The Secret Service,R,2014,128.26,"[['Action'], [' Adventure'], [' Comedy']]",129,7.7,576185.0
+Klaus,PG,2019,0.0,"[['Animation'], [' Adventure'], [' Comedy']]",96,8.2,0.0
+Knives Out,PG-13,2019,165.36,"[['Comedy'], [' Crime'], [' Drama']]",130,7.9,344320.0
+Kramer vs. Kramer,PG,1979,106.26,[['Drama']],105,7.8,128237.0
+Kubo and the Two Strings,PG,2016,48.02,"[['Animation'], [' Action'], [' Adventure']]",101,7.8,114175.0
+Kung Fu Hustle,R,2004,17.11,"[['Action'], [' Comedy'], [' Fantasy']]",99,7.7,123928.0
+Porco Rosso,PG,1992,0.0,"[['Animation'], [' Adventure'], [' Comedy']]",94,7.7,0.0
+L.A. Confidential,R,1997,64.62,"[['Crime'], [' Drama'], [' Mystery']]",138,8.2,518628.0
+La La Land,PG-13,2016,151.1,"[['Comedy'], [' Drama'], [' Music']]",128,8.0,483328.0
+La Vie En Rose,PG-13,2007,10.3,"[['Biography'], [' Drama'], [' Music']]",140,7.6,81004.0
+The Double Life of Véronique,R,1991,2.0,"[['Drama'], [' Fantasy'], [' Music']]",98,7.8,39981.0
+La leggenda del pianista sull'oceano,R,1998,0.26,"[['Drama'], [' Music'], [' Romance']]",169,8.1,56941.0
+The Best Offer,R,2013,0.09,"[['Crime'], [' Drama'], [' Mystery']]",131,7.8,104373.0
+The Holy Mountain,R,1973,0.06,"[['Adventure'], [' Drama'], [' Fantasy']]",114,7.9,34988.0
+The Skin I Live In,R,2011,3.19,"[['Drama'], [' Horror'], [' Thriller']]",120,7.6,133876.0
+Blue Is the Warmest Colour,NC-17,2013,2.2,"[['Drama'], [' Romance']]",180,7.7,134267.0
+Life Is Beautiful,PG-13,1997,57.6,"[['Comedy'], [' Drama'], [' Romance']]",116,8.6,600883.0
+Lagaan: Once Upon a Time in India,PG,2001,0.07,"[['Adventure'], [' Drama'], [' Musical']]",224,8.1,101496.0
+Lage Raho Munna Bhai,PG-13,2006,2.22,"[['Comedy'], [' Drama'], [' Romance']]",144,8.1,41497.0
+Hard Boiled,R,1992,0.0,"[['Action'], [' Crime'], [' Thriller']]",128,7.8,0.0
+Lawrence of Arabia,Approved,1962,44.82,"[['Adventure'], [' Biography'], [' Drama']]",228,8.3,259498.0
+Le Petit Prince,PG,2015,1.34,"[['Animation'], [' Adventure'], [' Drama']]",108,7.7,54555.0
+The Discreet Charm of the Bourgeoisie,PG,1972,0.2,[['Comedy']],102,7.9,36985.0
+Le Dîner de Cons,PG-13,1998,4.07,[['Comedy']],80,7.7,36404.0
+Amélie,R,2001,33.23,"[['Comedy'], [' Romance']]",122,8.3,686994.0
+The Tenant,R,1976,1.92,"[['Drama'], [' Thriller']]",126,7.7,37997.0
+The Past,PG-13,2013,1.33,"[['Drama'], [' Mystery']]",130,7.8,43839.0
+The Diving Bell and the Butterfly,PG-13,2007,5.99,"[['Biography'], [' Drama']]",112,8.0,101611.0
+The Chorus,PG-13,2004,3.64,"[['Drama'], [' Music']]",97,7.9,55867.0
+The Triplets of Belleville,PG-13,2003,7.0,"[['Animation'], [' Comedy'], [' Drama']]",80,7.8,49754.0
+Lethal Weapon,R,1987,65.21,"[['Action'], [' Crime'], [' Thriller']]",109,7.6,231089.0
+Letters from Iwo Jima,R,2006,13.76,"[['Action'], [' Adventure'], [' Drama']]",141,7.9,151506.0
+Leviathan,R,2014,1.09,"[['Crime'], [' Drama']]",140,7.6,47538.0
+Monty Python's Life of Brian,R,1979,20.05,[['Comedy']],94,8.1,356813.0
+Life of Pi,PG,2012,124.99,"[['Adventure'], [' Drama'], [' Fantasy']]",127,7.9,567277.0
+Lilya 4-Ever,R,2002,0.18,"[['Crime'], [' Drama']]",109,7.8,41565.0
+Lion,PG-13,2016,51.74,"[['Biography'], [' Drama']]",118,8.0,204466.0
+Little Miss Sunshine,R,2006,59.89,"[['Comedy'], [' Drama']]",101,7.8,429341.0
+Little Women,PG,2019,108.1,"[['Drama'], [' Romance']]",135,7.9,114383.0
+"Lock, Stock and Two Smoking Barrels",R,1998,3.9,"[['Action'], [' Comedy'], [' Crime']]",107,8.2,521283.0
+Logan,R,2017,226.28,"[['Action'], [' Drama'], [' Sci-Fi']]",137,8.1,621638.0
+Run Lola Run,R,1998,7.27,"[['Crime'], [' Drama'], [' Thriller']]",80,7.6,185190.0
+Lord of War,R,2005,24.15,"[['Action'], [' Crime'], [' Drama']]",122,7.6,288655.0
+Lost Highway,R,1997,3.8,"[['Mystery'], [' Thriller']]",134,7.6,126695.0
+Lost in Translation,R,2003,44.59,"[['Comedy'], [' Drama']]",102,7.7,399423.0
+Love Actually,R,2003,59.7,"[['Comedy'], [' Drama'], [' Romance']]",135,7.6,413986.0
+Love and Death,PG,1975,0.0,"[['Comedy'], [' War']]",85,7.7,0.0
+Loving Vincent,PG-13,2017,6.74,"[['Animation'], [' Biography'], [' Crime']]",94,7.8,47515.0
+Lucky Number Slevin,R,2006,22.49,"[['Crime'], [' Drama'], [' Mystery']]",110,7.7,295956.0
+Let the Right One In,R,2008,2.12,"[['Crime'], [' Drama'], [' Fantasy']]",114,7.9,201833.0
+Léon: The Professional,R,1994,19.5,"[['Action'], [' Crime'], [' Drama']]",110,8.5,1000215.0
+Mad Max 2: The Road Warrior,R,1981,12.47,"[['Action'], [' Adventure'], [' Sci-Fi']]",96,7.6,162486.0
+Mad Max: Fury Road,R,2015,154.06,"[['Action'], [' Adventure'], [' Sci-Fi']]",120,8.1,848663.0
+Mother,R,2009,0.55,"[['Crime'], [' Drama'], [' Thriller']]",129,7.8,47891.0
+Magnolia,R,1999,22.46,[['Drama']],188,8.0,283081.0
+Kiki's Delivery Service,G,1989,0.0,"[['Animation'], [' Adventure'], [' Drama']]",103,7.8,0.0
+Malcolm X,PG-13,1992,48.17,"[['Biography'], [' Drama'], [' History']]",202,7.7,82625.0
+Man on Fire,R,2004,77.91,"[['Action'], [' Crime'], [' Drama']]",146,7.7,322159.0
+Shoplifters,R,2018,3.31,"[['Crime'], [' Drama']]",121,8.0,54804.0
+Manchester by the Sea,R,2016,47.7,[['Drama']],137,7.8,236191.0
+Manhattan,R,1979,45.7,"[['Comedy'], [' Drama'], [' Romance']]",96,7.9,128395.0
+The Sea Inside,PG-13,2004,2.09,"[['Biography'], [' Drama']]",126,8.0,75907.0
+Marriage Story,R,2019,0.0,"[['Comedy'], [' Drama'], [' Romance']]",137,8.0,0.0
+Mary Poppins,G,1964,102.27,"[['Comedy'], [' Family'], [' Fantasy']]",139,7.8,153347.0
+Match Point,R,2005,23.09,"[['Drama'], [' Romance'], [' Thriller']]",124,7.6,201829.0
+Me and Earl and the Dying Girl,PG-13,2015,6.74,"[['Comedy'], [' Drama']]",105,7.7,119813.0
+Memento,R,2000,25.54,"[['Mystery'], [' Thriller']]",113,8.4,1090847.0
+Midnight Cowboy,R,1969,44.79,[['Drama']],113,7.8,97877.0
+Midnight Express,R,1978,35.0,"[['Biography'], [' Crime'], [' Drama']]",121,7.6,71124.0
+Midnight in Paris,PG-13,2011,56.82,"[['Comedy'], [' Fantasy'], [' Romance']]",94,7.7,376896.0
+Miller's Crossing,R,1990,5.08,"[['Crime'], [' Drama'], [' Thriller']]",115,7.7,123182.0
+Million Dollar Baby,PG-13,2004,100.49,"[['Drama'], [' Sport']]",132,8.1,619332.0
+Whisper of the Heart,G,1995,0.0,"[['Animation'], [' Drama'], [' Family']]",111,7.9,0.0
+Minority Report,PG-13,2002,132.07,"[['Action'], [' Crime'], [' Mystery']]",145,7.6,495837.0
+Misery,R,1990,61.28,"[['Drama'], [' Thriller']]",107,7.8,177745.0
+Mission: Impossible - Fallout,PG-13,2018,220.16,"[['Action'], [' Adventure'], [' Thriller']]",147,7.7,276855.0
+Mississippi Burning,R,1988,34.6,"[['Crime'], [' Drama'], [' History']]",128,7.8,84670.0
+Moana,PG,2016,248.76,"[['Animation'], [' Adventure'], [' Comedy']]",107,7.6,256569.0
+Modern Times,G,1936,0.16,"[['Comedy'], [' Drama'], [' Family']]",87,8.5,209190.0
+Mommy,R,2014,3.49,[['Drama']],139,8.1,48110.0
+Moneyball,PG-13,2011,75.61,"[['Biography'], [' Drama'], [' Sport']]",133,7.6,350895.0
+Princess Mononoke,PG-13,1997,2.38,"[['Animation'], [' Adventure'], [' Fantasy']]",134,8.4,326871.0
+"Monsters, Inc.",G,2001,289.92,"[['Animation'], [' Adventure'], [' Comedy']]",92,8.0,790185.0
+Monty Python and the Holy Grail,PG,1975,1.23,"[['Adventure'], [' Comedy'], [' Fantasy']]",91,8.2,488731.0
+Moon,R,2009,5.01,"[['Drama'], [' Mystery'], [' Sci-Fi']]",97,7.9,327792.0
+Moonrise Kingdom,PG-13,2012,45.51,"[['Comedy'], [' Drama'], [' Romance']]",94,7.8,309496.0
+Infernal Affairs,R,2002,0.17,"[['Action'], [' Crime'], [' Drama']]",101,8.0,115879.0
+Mr. Nobody,R,2009,0.0,"[['Drama'], [' Fantasy'], [' Romance']]",141,7.8,210414.0
+Mulan,G,1998,120.62,"[['Animation'], [' Adventure'], [' Family']]",88,7.6,242330.0
+Mulholland Dr.,R,2001,7.22,"[['Drama'], [' Mystery'], [' Thriller']]",147,8.0,310078.0
+Mustang,PG-13,2015,0.85,[['Drama']],97,7.6,34218.0
+My Cousin Vinny,R,1992,52.93,"[['Comedy'], [' Crime']]",120,7.6,102951.0
+My Fair Lady,G,1964,72.0,"[['Drama'], [' Family'], [' Musical']]",170,7.8,84259.0
+My Left Foot,R,1989,14.74,"[['Biography'], [' Drama']]",103,7.9,65674.0
+My Name Is Khan,PG-13,2010,4.02,[['Drama']],165,8.0,95899.0
+Mystic River,R,2003,90.14,"[['Crime'], [' Drama'], [' Mystery']]",138,7.9,409168.0
+The Girl with the Dragon Tattoo,R,2009,10.1,"[['Crime'], [' Drama'], [' Mystery']]",152,7.8,205317.0
+National Lampoon's Christmas Vacation,PG-13,1989,71.32,[['Comedy']],97,7.6,147849.0
+Nebraska,R,2013,17.65,"[['Adventure'], [' Comedy'], [' Drama']]",115,7.7,110067.0
+Loveless,R,2017,0.57,[['Drama']],127,7.6,27966.0
+Network,R,1976,0.0,[['Drama']],121,8.1,0.0
+Night on Earth,R,1991,2.02,"[['Comedy'], [' Drama']]",129,7.8,53638.0
+Nightcrawler,R,2014,32.38,"[['Crime'], [' Drama'], [' Thriller']]",117,7.9,444002.0
+No Country for Old Men,R,2007,74.28,"[['Crime'], [' Drama'], [' Thriller']]",122,8.1,823724.0
+No Man's Land,R,2001,1.06,"[['Comedy'], [' Drama'], [' War']]",98,7.9,43773.0
+Nine Queens,R,2000,1.22,"[['Crime'], [' Drama'], [' Thriller']]",114,7.9,48469.0
+Cinema Paradiso,R,1988,11.99,[['Drama']],155,8.5,220527.0
+"O Brother, Where Art Thou?",PG-13,2000,45.51,"[['Adventure'], [' Comedy'], [' Crime']]",107,7.7,277395.0
+Ocean's Eleven,PG-13,2001,183.42,"[['Crime'], [' Thriller']]",116,7.7,501187.0
+October Sky,PG,1999,32.48,"[['Biography'], [' Drama'], [' Family']]",108,7.8,79588.0
+Office Space,R,1999,10.82,[['Comedy']],89,7.7,236502.0
+Departures,PG-13,2008,1.5,"[['Drama'], [' Music']]",130,8.1,47376.0
+Oldboy,R,2003,0.71,"[['Action'], [' Drama'], [' Mystery']]",120,8.4,496993.0
+When Marnie Was There,PG,2014,0.77,"[['Animation'], [' Drama'], [' Family']]",103,7.7,29755.0
+On Golden Pond,PG,1981,119.29,[['Drama']],109,7.6,26813.0
+Once,R,2007,9.44,"[['Drama'], [' Music'], [' Romance']]",86,7.8,108671.0
+Once Upon a Time in America,R,1984,5.32,"[['Crime'], [' Drama']]",229,8.4,299657.0
+Once Upon a Time... in Hollywood,R,2019,142.5,"[['Comedy'], [' Drama']]",161,7.7,489662.0
+Once Were Warriors,R,1994,2.2,"[['Crime'], [' Drama']]",102,7.9,30754.0
+One Flew Over the Cuckoo's Nest,R,1975,112.0,[['Drama']],133,8.7,885260.0
+Only the Brave,PG-13,2017,18.34,"[['Action'], [' Biography'], [' Drama']]",134,7.6,54104.0
+Ookami kodomo no Ame to Yuki,PG,2012,0.0,"[['Animation'], [' Drama'], [' Family']]",117,8.1,0.0
+Ordinary People,R,1980,54.8,[['Drama']],124,7.7,45282.0
+Paddington 2,PG,2017,40.44,"[['Adventure'], [' Comedy'], [' Family']]",103,7.8,57197.0
+Paper Moon,PG,1973,30.93,"[['Comedy'], [' Drama']]",102,8.1,40905.0
+Papillon,R,1973,53.27,"[['Biography'], [' Crime'], [' Drama']]",151,8.0,118607.0
+Paprika,R,2006,0.88,"[['Animation'], [' Drama'], [' Fantasy']]",90,7.7,67545.0
+"Paris, Texas",R,1984,2.18,[['Drama']],145,8.1,84972.0
+Patton,GP,1970,61.7,"[['Biography'], [' Drama'], [' War']]",172,7.9,91961.0
+For a Few Dollars More,R,1965,15.0,[['Western']],132,8.3,223753.0
+A Fistful of Dollars,R,1964,14.5,"[['Action'], [' Drama'], [' Western']]",99,8.0,190598.0
+Persepolis,PG-13,2007,4.45,"[['Animation'], [' Biography'], [' Drama']]",96,8.0,86518.0
+Philadelphia,PG-13,1993,77.32,[['Drama']],125,7.7,218301.0
+Philomena,PG-13,2013,37.71,"[['Biography'], [' Comedy'], [' Drama']]",98,7.6,92376.0
+Pink Floyd: The Wall,R,1982,22.24,"[['Animation'], [' Drama'], [' Fantasy']]",95,8.1,74204.0
+Pirates of the Caribbean: The Curse of the Black Pearl,PG-13,2003,305.41,"[['Action'], [' Adventure'], [' Fantasy']]",143,8.0,997617.0
+"Planes, Trains & Automobiles",R,1987,49.53,"[['Comedy'], [' Drama']]",93,7.6,118410.0
+Planet of the Apes,G,1968,33.4,"[['Adventure'], [' Sci-Fi']]",112,8.0,162119.0
+Platoon,R,1986,138.53,"[['Drama'], [' War']]",120,8.1,371124.0
+Portrait of a Lady on Fire,R,2019,0.0,"[['Drama'], [' Romance']]",122,8.1,0.0
+Predator,R,1987,59.74,"[['Action'], [' Adventure'], [' Sci-Fi']]",107,7.8,362621.0
+Pride,R,2014,0.0,"[['Biography'], [' Comedy'], [' Drama']]",119,7.8,0.0
+Pride & Prejudice,PG,2005,38.41,"[['Drama'], [' Romance']]",129,7.8,244870.0
+Primal Fear,R,1996,56.12,"[['Crime'], [' Drama'], [' Mystery']]",129,7.7,179104.0
+Prisoners,R,2013,61.0,"[['Crime'], [' Drama'], [' Mystery']]",153,8.1,575496.0
+Psycho,R,1960,32.0,"[['Horror'], [' Mystery'], [' Thriller']]",109,8.5,581414.0
+Pulp Fiction,R,1994,107.93,"[['Crime'], [' Drama']]",154,8.9,1768439.0
+Perfect Blue,R,1997,0.78,"[['Animation'], [' Horror'], [' Mystery']]",81,8.0,52692.0
+Raging Bull,R,1980,23.38,"[['Biography'], [' Drama'], [' Sport']]",129,8.2,311409.0
+Raiders of the Lost Ark,PG,1981,248.16,"[['Action'], [' Adventure']]",115,8.4,859980.0
+Rain Man,R,1988,178.8,[['Drama']],133,8.0,462519.0
+Ran,R,1985,4.14,"[['Action'], [' Drama'], [' War']]",162,8.2,107570.0
+Ratatouille,G,2007,206.45,"[['Animation'], [' Adventure'], [' Comedy']]",111,8.0,620699.0
+Ray,PG-13,2004,75.33,"[['Biography'], [' Drama'], [' Music']]",152,7.7,135368.0
+Rear Window,PG,1954,36.76,"[['Mystery'], [' Thriller']]",112,8.4,428941.0
+Rebel Without a Cause,PG-13,1955,0.0,[['Drama']],111,7.7,0.0
+Wild Tales,R,2014,3.11,"[['Comedy'], [' Drama'], [' Thriller']]",122,8.1,168274.0
+Remember the Titans,PG,2000,115.65,"[['Biography'], [' Drama'], [' Sport']]",113,7.8,193138.0
+Requiem for a Dream,R,2000,3.64,[['Drama']],102,8.3,743599.0
+Reservoir Dogs,R,1992,2.83,"[['Crime'], [' Drama'], [' Thriller']]",99,8.3,890461.0
+Rise of the Planet of the Apes,PG-13,2011,176.76,"[['Action'], [' Drama'], [' Sci-Fi']]",105,7.6,488869.0
+Road to Perdition,R,2002,104.45,"[['Crime'], [' Drama'], [' Thriller']]",117,7.7,241276.0
+Robin Hood,G,1973,32.06,"[['Animation'], [' Adventure'], [' Comedy']]",83,7.6,111960.0
+Rocky,PG,1976,117.24,"[['Drama'], [' Sport']]",120,8.1,503026.0
+Rogue One: A Star Wars Story,PG-13,2016,532.18,"[['Action'], [' Adventure'], [' Sci-Fi']]",133,7.8,534776.0
+Roma,R,2018,0.0,[['Drama']],135,7.7,0.0
+Room,R,2015,14.68,"[['Drama'], [' Thriller']]",118,8.1,353044.0
+Rope,Approved,1948,0.0,"[['Crime'], [' Drama'], [' Mystery']]",80,8.0,0.0
+Rosemary's Baby,R,1968,0.0,"[['Drama'], [' Horror']]",137,8.0,0.0
+Lupin the 3rd: Castle of Cagliostro,PG-13,1979,0.0,"[['Animation'], [' Adventure'], [' Family']]",102,7.7,0.0
+Rush,R,2013,26.95,"[['Biography'], [' Drama'], [' Sport']]",123,8.1,419711.0
+Rushmore,R,1998,17.11,"[['Comedy'], [' Drama']]",93,7.7,164877.0
+Saving Private Ryan,R,1998,216.54,"[['Drama'], [' War']]",169,8.6,1194966.0
+Saw,R,2004,56.0,"[['Horror'], [' Mystery']]",103,7.6,369984.0
+Scarface,R,1983,45.6,"[['Crime'], [' Drama']]",170,8.3,715573.0
+Scent of a Woman,R,1992,63.9,[['Drama']],156,8.0,250216.0
+Schindler's List,R,1993,96.9,"[['Biography'], [' Drama'], [' History']]",195,8.9,1174170.0
+Se7en,R,1995,100.13,"[['Crime'], [' Drama'], [' Mystery']]",127,8.6,1391125.0
+Searching,PG-13,2018,26.02,"[['Drama'], [' Mystery'], [' Thriller']]",102,7.6,127647.0
+Secrets & Lies,R,1996,13.42,"[['Comedy'], [' Drama']]",136,8.0,35954.0
+Spirited Away,PG,2001,10.06,"[['Animation'], [' Adventure'], [' Family']]",125,8.6,619174.0
+Sense and Sensibility,PG,1995,43.18,"[['Drama'], [' Romance']]",136,7.6,98691.0
+The Raid: Redemption,R,2011,4.11,"[['Action'], [' Thriller']]",101,7.6,186112.0
+The Raid 2,R,2014,2.63,"[['Action'], [' Crime'], [' Thriller']]",150,8.0,111334.0
+Serenity,PG-13,2005,25.51,"[['Action'], [' Adventure'], [' Sci-Fi']]",119,7.8,278812.0
+Serpico,R,1973,29.8,"[['Biography'], [' Crime'], [' Drama']]",130,7.7,105473.0
+Seven Pounds,PG-13,2008,69.95,[['Drama']],123,7.6,281142.0
+Shadow of a Doubt,PG,1943,0.0,[['Thriller']],108,7.8,0.0
+Shaun of the Dead,R,2004,13.54,"[['Comedy'], [' Horror']]",99,7.9,499470.0
+Sherlock Holmes,PG-13,2009,209.03,"[['Action'], [' Adventure'], [' Mystery']]",128,7.6,571614.0
+Shine,PG-13,1996,35.81,"[['Biography'], [' Drama'], [' Music']]",105,7.7,50307.0
+Short Cuts,R,1993,6.11,"[['Comedy'], [' Drama']]",188,7.7,41358.0
+Short Term 12,R,2013,1.01,[['Drama']],96,8.0,78841.0
+Shrek,PG,2001,267.67,"[['Animation'], [' Adventure'], [' Comedy']]",90,7.8,596783.0
+Shutter Island,R,2010,128.01,"[['Mystery'], [' Thriller']]",138,8.1,1087016.0
+Sicario,R,2015,46.89,"[['Action'], [' Crime'], [' Drama']]",121,7.6,357217.0
+Silver Linings Playbook,R,2012,132.09,"[['Comedy'], [' Drama'], [' Romance']]",122,7.7,648245.0
+Sin City,R,2005,74.1,"[['Crime'], [' Thriller']]",124,8.0,731561.0
+Sing Street,PG-13,2016,3.24,"[['Comedy'], [' Drama'], [' Music']]",106,7.9,82013.0
+Singin' in the Rain,G,1952,8.82,"[['Comedy'], [' Musical'], [' Romance']]",103,8.3,211468.0
+Skyfall,PG-13,2012,304.36,"[['Action'], [' Adventure'], [' Thriller']]",143,7.7,617834.0
+Sleepers,R,1996,49.1,"[['Crime'], [' Drama'], [' Thriller']]",147,7.6,182986.0
+Sleuth,PG,1972,4.08,"[['Mystery'], [' Thriller']]",138,8.0,43867.0
+Sling Blade,R,1996,24.48,[['Drama']],135,8.0,85373.0
+Slumdog Millionaire,R,2008,141.32,"[['Drama'], [' Romance']]",120,8.0,782929.0
+Snatch,R,2000,30.33,"[['Comedy'], [' Crime']]",102,8.3,762011.0
+Snow White and the Seven Dwarfs,Approved,1937,184.93,"[['Animation'], [' Family'], [' Fantasy']]",83,7.6,176038.0
+Solaris,PG,1972,0.0,"[['Drama'], [' Mystery'], [' Sci-Fi']]",167,8.1,0.0
+Song of the Sea,PG,2014,0.86,"[['Animation'], [' Adventure'], [' Drama']]",93,8.1,48701.0
+"South Park: Bigger, Longer & Uncut",R,1999,52.01,"[['Animation'], [' Comedy'], [' Fantasy']]",81,7.7,189195.0
+Spartacus,PG-13,1960,30.0,"[['Adventure'], [' Biography'], [' Drama']]",197,7.9,120995.0
+Spider-Man: Into the Spider-Verse,PG,2018,190.24,"[['Animation'], [' Action'], [' Adventure']]",117,8.4,327302.0
+Spotlight,R,2015,45.06,"[['Biography'], [' Crime'], [' Drama']]",129,8.1,402252.0
+Stand by Me,R,1986,52.29,"[['Adventure'], [' Drama']]",89,8.1,352834.0
+Star Trek,PG-13,2009,257.73,"[['Action'], [' Adventure'], [' Sci-Fi']]",127,7.9,570221.0
+Star Trek II: The Wrath of Khan,PG,1982,78.91,"[['Action'], [' Adventure'], [' Sci-Fi']]",113,7.7,110130.0
+Star Trek Into Darkness,PG-13,2013,228.78,"[['Action'], [' Adventure'], [' Sci-Fi']]",132,7.7,457204.0
+Star Wars: Episode IV - A New Hope,PG,1977,322.74,"[['Action'], [' Adventure'], [' Fantasy']]",121,8.6,1197678.0
+Star Wars: Episode V - The Empire Strikes Back,PG,1980,290.48,"[['Action'], [' Adventure'], [' Fantasy']]",124,8.7,1125392.0
+Star Wars: Episode VI - Return of the Jedi,PG,1983,309.13,"[['Action'], [' Adventure'], [' Fantasy']]",131,8.3,922687.0
+Star Wars: Episode VII - The Force Awakens,PG-13,2015,936.66,"[['Action'], [' Adventure'], [' Sci-Fi']]",138,7.9,841540.0
+Stardust,PG-13,2007,38.63,"[['Adventure'], [' Family'], [' Fantasy']]",127,7.6,248585.0
+Straight Outta Compton,R,2015,161.2,"[['Biography'], [' Drama'], [' History']]",147,7.9,175086.0
+Strangers on a Train,PG,1951,7.63,"[['Crime'], [' Film-Noir'], [' Thriller']]",101,8.0,120227.0
+Superbad,R,2007,121.46,[['Comedy']],113,7.6,508646.0
+"Synecdoche, New York",R,2008,3.08,"[['Comedy'], [' Drama']]",124,7.6,78705.0
+Taare Zameen Par,PG,2007,1.22,"[['Drama'], [' Family']]",165,8.4,159414.0
+Tae Guk Gi: The Brotherhood of War,R,2004,1.11,"[['Action'], [' Drama'], [' War']]",140,8.1,37180.0
+Taken,PG-13,2008,145.0,"[['Action'], [' Thriller']]",90,7.8,556002.0
+Tangled,PG,2010,200.82,"[['Animation'], [' Adventure'], [' Comedy']]",100,7.7,393511.0
+Taxi Driver,R,1976,28.26,"[['Crime'], [' Drama']]",114,8.3,697146.0
+Castle in the Sky,PG,1986,0.0,"[['Animation'], [' Adventure'], [' Drama']]",125,8.0,0.0
+Terminator 2: Judgment Day,R,1991,204.84,"[['Action'], [' Sci-Fi']]",137,8.5,968991.0
+Thank You for Smoking,R,2005,24.79,"[['Comedy'], [' Drama']]",92,7.6,210714.0
+The Adventures of Robin Hood,PG,1938,3.98,"[['Action'], [' Adventure'], [' Romance']]",102,7.9,45983.0
+The African Queen,PG,1951,0.54,"[['Adventure'], [' Drama'], [' Romance']]",105,7.7,69781.0
+The Artist,PG-13,2011,44.67,"[['Comedy'], [' Drama'], [' Romance']]",100,7.9,226258.0
+The Avengers,PG-13,2012,623.28,"[['Action'], [' Adventure'], [' Sci-Fi']]",143,8.0,1236474.0
+The Big Lebowski,R,1998,17.5,"[['Comedy'], [' Crime'], [' Sport']]",117,8.1,706631.0
+The Big Short,R,2015,70.26,"[['Biography'], [' Comedy'], [' Drama']]",130,7.8,344996.0
+The Birds,PG-13,1963,11.4,"[['Drama'], [' Horror'], [' Mystery']]",119,7.7,165858.0
+The Blind Side,PG-13,2009,255.96,"[['Biography'], [' Drama'], [' Sport']]",129,7.6,283940.0
+The Blues Brothers,R,1980,57.23,"[['Adventure'], [' Comedy'], [' Crime']]",133,7.9,177376.0
+The Boondock Saints,R,1999,0.03,"[['Action'], [' Crime'], [' Thriller']]",108,7.8,223911.0
+The Bourne Identity,PG-13,2002,121.66,"[['Action'], [' Mystery'], [' Thriller']]",119,7.9,496392.0
+The Bourne Supremacy,PG-13,2004,176.24,"[['Action'], [' Mystery'], [' Thriller']]",108,7.7,425038.0
+The Bourne Ultimatum,PG-13,2007,227.47,"[['Action'], [' Mystery'], [' Thriller']]",115,8.0,595589.0
+The Boy in the Striped Pajamas,PG-13,2008,9.03,"[['Drama'], [' War']]",94,7.8,184586.0
+The Breakfast Club,R,1985,45.88,"[['Comedy'], [' Drama']]",97,7.9,344860.0
+The Bridge on the River Kwai,PG,1957,44.91,"[['Adventure'], [' Drama'], [' War']]",161,8.1,197370.0
+The Bridges of Madison County,PG-13,1995,71.52,"[['Drama'], [' Romance']]",135,7.6,70558.0
+The Butterfly Effect,R,2004,57.94,"[['Drama'], [' Sci-Fi'], [' Thriller']]",113,7.6,442129.0
+The Circus,Passed,1928,0.0,"[['Comedy'], [' Romance']]",72,8.1,0.0
+The Color Purple,PG-13,1985,98.47,[['Drama']],154,7.8,75849.0
+The Conversation,PG,1974,4.42,"[['Drama'], [' Mystery'], [' Thriller']]",113,7.8,94691.0
+The Count of Monte Cristo,PG-13,2002,54.23,"[['Action'], [' Adventure'], [' Drama']]",131,7.8,126183.0
+The Crow,R,1994,50.69,"[['Action'], [' Drama'], [' Fantasy']]",102,7.6,162760.0
+The Curious Case of Benjamin Button,PG-13,2008,127.51,"[['Drama'], [' Fantasy'], [' Romance']]",166,7.8,572499.0
+The Dark Knight,PG-13,2008,534.86,"[['Action'], [' Crime'], [' Drama']]",152,9.0,2225768.0
+The Dark Knight Rises,PG-13,2012,448.14,"[['Action'], [' Adventure']]",164,8.4,1471095.0
+The Day of the Jackal,PG,1973,16.06,"[['Crime'], [' Drama'], [' Thriller']]",143,7.8,36282.0
+The Day the Earth Stood Still,G,1951,0.0,"[['Drama'], [' Sci-Fi']]",92,7.7,0.0
+The Deer Hunter,R,1978,48.98,"[['Drama'], [' War']]",183,8.1,302223.0
+The Departed,R,2006,132.38,"[['Crime'], [' Drama'], [' Thriller']]",151,8.5,1151446.0
+The Elephant Man,PG,1980,0.0,"[['Biography'], [' Drama']]",124,8.1,0.0
+The Exorcist,R,1973,232.91,[['Horror']],122,8.0,352231.0
+The Fall,R,2006,2.28,"[['Adventure'], [' Drama'], [' Fantasy']]",117,7.9,105387.0
+The Farewell,PG,2019,16.88,"[['Comedy'], [' Drama']]",100,7.6,42408.0
+The Fault in Our Stars,PG-13,2014,124.87,"[['Drama'], [' Romance']]",126,7.7,334400.0
+The Fifth Element,PG-13,1997,63.54,"[['Action'], [' Adventure'], [' Sci-Fi']]",126,7.7,423637.0
+The Fighter,R,2010,93.62,"[['Biography'], [' Drama'], [' Sport']]",116,7.8,332293.0
+The Florida Project,R,2017,5.9,[['Drama']],111,7.6,87922.0
+The Fly,R,1986,40.46,"[['Drama'], [' Horror'], [' Sci-Fi']]",96,7.6,154380.0
+The French Connection,R,1971,15.63,"[['Action'], [' Crime'], [' Drama']]",104,7.7,106509.0
+The Fugitive,PG-13,1993,183.88,"[['Action'], [' Crime'], [' Drama']]",130,7.8,260173.0
+The Game,R,1997,48.32,"[['Drama'], [' Mystery'], [' Thriller']]",129,7.8,334311.0
+The Gentlemen,R,2019,0.0,"[['Action'], [' Comedy'], [' Crime']]",113,7.9,0.0
+The Girl with the Dragon Tattoo,R,2011,102.52,"[['Crime'], [' Drama'], [' Mystery']]",158,7.8,409177.0
+The Godfather,R,1972,134.97,"[['Crime'], [' Drama']]",175,9.2,1559671.0
+The Godfather: Part II,R,1974,57.3,"[['Crime'], [' Drama']]",202,9.0,1089985.0
+The Godfather: Part III,R,1990,66.67,"[['Crime'], [' Drama']]",162,7.6,347909.0
+The Goonies,PG,1985,61.5,"[['Adventure'], [' Comedy'], [' Family']]",114,7.8,234710.0
+The Graduate,PG,1967,104.95,"[['Comedy'], [' Drama'], [' Romance']]",106,8.0,248577.0
+The Grand Budapest Hotel,R,2014,59.1,"[['Adventure'], [' Comedy'], [' Crime']]",99,8.1,682350.0
+The Great Dictator,Passed,1940,0.29,"[['Comedy'], [' Drama'], [' War']]",125,8.4,195626.0
+The Green Mile,R,1999,136.8,"[['Crime'], [' Drama'], [' Fantasy']]",189,8.6,1102624.0
+The Hangover,R,2009,277.32,[['Comedy']],100,7.7,702656.0
+The Hateful Eight,R,2015,54.12,"[['Crime'], [' Drama'], [' Mystery']]",168,7.8,494213.0
+The Help,PG-13,2011,169.71,[['Drama']],146,8.1,416993.0
+The Hobbit: An Unexpected Journey,PG-13,2012,303.0,"[['Adventure'], [' Family'], [' Fantasy']]",169,7.8,743572.0
+The Hobbit: The Desolation of Smaug,PG-13,2013,258.37,"[['Adventure'], [' Fantasy']]",161,7.8,588501.0
+The Hunt for Red October,PG,1990,122.01,"[['Action'], [' Adventure'], [' Thriller']]",135,7.6,173756.0
+The Hurricane,R,1999,50.67,"[['Biography'], [' Drama'], [' Sport']]",146,7.6,89712.0
+The Hurt Locker,R,2008,17.02,"[['Drama'], [' Thriller'], [' War']]",131,7.6,412081.0
+The Illusionist,PG-13,2006,39.87,"[['Drama'], [' Fantasy'], [' History']]",110,7.6,349273.0
+The Imitation Game,PG-13,2014,91.13,"[['Biography'], [' Drama'], [' Thriller']]",114,8.0,662723.0
+The Incredibles,PG,2004,261.44,"[['Animation'], [' Action'], [' Adventure']]",115,8.0,639238.0
+The Insider,R,1999,28.97,"[['Biography'], [' Drama'], [' Thriller']]",157,7.8,156241.0
+The Irishman,R,2019,0.0,"[['Biography'], [' Crime'], [' Drama']]",209,7.9,0.0
+The Iron Giant,PG,1999,23.16,"[['Animation'], [' Action'], [' Adventure']]",86,8.0,167160.0
+The Jungle Book,G,1967,141.84,"[['Animation'], [' Adventure'], [' Family']]",78,7.6,161369.0
+The Killing Fields,R,1984,34.7,"[['Biography'], [' Drama'], [' History']]",141,7.8,50069.0
+The King of Comedy,PG,1982,2.5,"[['Comedy'], [' Crime'], [' Drama']]",109,7.8,82966.0
+The King's Speech,R,2010,138.8,"[['Biography'], [' Drama'], [' History']]",118,8.0,625104.0
+The Last Emperor,PG-13,1987,43.98,"[['Biography'], [' Drama'], [' History']]",163,7.7,91111.0
+The Last King of Scotland,R,2006,17.61,"[['Biography'], [' Drama'], [' History']]",123,7.7,172093.0
+The Last Picture Show,R,1971,29.13,"[['Drama'], [' Romance']]",118,8.0,40846.0
+The Last Samurai,R,2003,111.11,"[['Action'], [' Drama'], [' War']]",154,7.7,389443.0
+The Last of the Mohicans,R,1992,75.51,"[['Action'], [' Adventure'], [' Drama']]",112,7.7,144611.0
+The Lego Movie,PG,2014,257.76,"[['Animation'], [' Action'], [' Adventure']]",100,7.7,317968.0
+The Lighthouse,R,2019,0.43,"[['Drama'], [' Fantasy'], [' Horror']]",109,7.6,112462.0
+The Lion King,G,1994,422.78,"[['Animation'], [' Adventure'], [' Drama']]",88,8.5,910744.0
+The Lion in Winter,PG,1968,22.28,"[['Biography'], [' Drama'], [' History']]",134,7.9,28279.0
+The Little Mermaid,G,1989,111.54,"[['Animation'], [' Family'], [' Fantasy']]",83,7.6,230062.0
+The Longest Day,G,1962,39.1,"[['Action'], [' Drama'], [' History']]",178,7.8,51200.0
+The Lord of the Rings: The Fellowship of the Ring,PG-13,2001,315.54,"[['Action'], [' Adventure'], [' Drama']]",178,8.8,1610034.0
+The Lord of the Rings: The Return of the King,PG-13,2003,377.85,"[['Adventure'], [' Drama'], [' Fantasy']]",201,8.9,1594692.0
+The Lord of the Rings: The Two Towers,PG-13,2002,342.55,"[['Adventure'], [' Drama'], [' Fantasy']]",179,8.7,1440955.0
+The Lunchbox,PG,2013,4.23,"[['Drama'], [' Romance']]",104,7.8,48214.0
+The Machinist,R,2004,1.08,"[['Drama'], [' Thriller']]",101,7.7,348820.0
+The Magdalene Sisters,R,2002,4.89,[['Drama']],114,7.7,25504.0
+The Man Who Would Be King,PG,1975,0.0,"[['Adventure'], [' History'], [' War']]",129,7.8,0.0
+The Manchurian Candidate,PG-13,1962,0.0,"[['Drama'], [' Thriller']]",126,7.9,0.0
+The Martian,PG-13,2015,228.43,"[['Adventure'], [' Drama'], [' Sci-Fi']]",144,8.0,735363.0
+The Matrix,R,1999,171.48,"[['Action'], [' Sci-Fi']]",136,8.7,1620706.0
+The Message,PG,1976,0.0,"[['Biography'], [' Drama'], [' History']]",177,8.2,0.0
+The Muppet Christmas Carol,G,1992,27.28,"[['Comedy'], [' Drama'], [' Family']]",85,7.7,46179.0
+The Muppet Movie,G,1979,76.66,"[['Adventure'], [' Comedy'], [' Family']]",95,7.6,31610.0
+The Naked Gun: From the Files of Police Squad!,PG-13,1988,78.76,"[['Comedy'], [' Crime']]",85,7.6,146751.0
+The Nightmare Before Christmas,PG,1993,75.08,"[['Animation'], [' Family'], [' Fantasy']]",76,8.0,283796.0
+The Notebook,PG-13,2004,81.0,"[['Drama'], [' Romance']]",123,7.8,504163.0
+The Odd Couple,G,1968,44.53,[['Comedy']],105,7.7,30652.0
+The Others,PG-13,2001,96.52,"[['Horror'], [' Mystery'], [' Thriller']]",104,7.6,328770.0
+The Outlaw Josey Wales,PG,1976,31.8,[['Western']],135,7.8,63648.0
+The Peanut Butter Falcon,PG-13,2019,13.12,"[['Comedy'], [' Drama']]",97,7.6,43211.0
+The Perks of Being a Wallflower,PG-13,2012,17.74,"[['Drama'], [' Romance']]",103,8.0,448418.0
+The Pianist,R,2002,32.57,"[['Biography'], [' Drama'], [' Music']]",150,8.5,702032.0
+The Prestige,PG-13,2006,53.09,"[['Drama'], [' Mystery'], [' Sci-Fi']]",130,8.5,1145273.0
+The Princess Bride,PG,1987,30.86,"[['Adventure'], [' Family'], [' Fantasy']]",98,8.1,382366.0
+The Purple Rose of Cairo,PG,1985,10.63,"[['Comedy'], [' Fantasy'], [' Romance']]",82,7.7,45807.0
+The Pursuit of Happyness,PG-13,2006,163.57,"[['Biography'], [' Drama']]",117,8.0,434018.0
+The Remains of the Day,PG,1993,22.95,"[['Drama'], [' Romance']]",134,7.8,63434.0
+The Revenant,R,2015,183.64,"[['Action'], [' Adventure'], [' Drama']]",156,8.0,679312.0
+The Right Stuff,PG,1983,21.5,"[['Adventure'], [' Biography'], [' Drama']]",193,7.8,54674.0
+The Royal Tenenbaums,R,2001,52.36,"[['Comedy'], [' Drama']]",110,7.6,259511.0
+The Sandlot,PG,1993,32.42,"[['Comedy'], [' Drama'], [' Family']]",101,7.8,76456.0
+The Secret of NIMH,G,1982,10.14,"[['Animation'], [' Adventure'], [' Drama']]",82,7.6,35211.0
+The Shawshank Redemption,R,1994,28.34,[['Drama']],142,9.3,2260419.0
+The Shining,R,1980,44.02,"[['Drama'], [' Horror']]",146,8.4,860984.0
+The Silence of the Lambs,R,1991,130.74,"[['Crime'], [' Drama'], [' Thriller']]",118,8.6,1224287.0
+The Sixth Sense,PG-13,1999,293.51,"[['Drama'], [' Mystery'], [' Thriller']]",107,8.1,889332.0
+The Social Network,PG-13,2010,96.96,"[['Biography'], [' Drama']]",120,7.7,604626.0
+The Sound of Music,G,1965,163.21,"[['Biography'], [' Drama'], [' Family']]",172,8.0,197344.0
+The Station Agent,R,2003,5.74,"[['Comedy'], [' Drama']]",89,7.6,66357.0
+The Sting,PG,1973,159.6,"[['Comedy'], [' Crime'], [' Drama']]",129,8.3,234701.0
+The Straight Story,G,1999,6.2,"[['Biography'], [' Drama']]",112,8.0,79412.0
+The Taking of Pelham One Two Three,R,1974,0.0,"[['Action'], [' Crime'], [' Thriller']]",104,7.7,0.0
+The Ten Commandments,G,1956,93.74,"[['Adventure'], [' Drama']]",220,7.8,62000.0
+The Terminator,R,1984,38.4,"[['Action'], [' Sci-Fi']]",107,8.0,779463.0
+The Theory of Everything,PG-13,2014,35.89,"[['Biography'], [' Drama'], [' Romance']]",123,7.7,387612.0
+The Thin Red Line,R,1998,36.4,"[['Drama'], [' War']]",170,7.6,168329.0
+The Thing,R,1982,13.78,"[['Horror'], [' Mystery'], [' Sci-Fi']]",109,8.1,357033.0
+The Truman Show,PG,1998,125.62,"[['Comedy'], [' Drama'], [' Sci-Fi']]",103,8.1,901928.0
+The Untouchables,R,1987,76.27,"[['Crime'], [' Drama'], [' Thriller']]",119,7.9,271043.0
+The Usual Suspects,R,1995,23.34,"[['Crime'], [' Mystery'], [' Thriller']]",106,8.5,962292.0
+The Verdict,R,1982,54.0,[['Drama']],129,7.7,34627.0
+The Visitor,PG-13,2007,9.42,[['Drama']],104,7.6,41044.0
+The Warriors,R,1979,22.49,"[['Action'], [' Crime'], [' Thriller']]",92,7.6,91070.0
+The Wild Bunch,R,1969,12.06,"[['Action'], [' Adventure'], [' Western']]",135,7.9,75651.0
+The Wizard of Oz,PG,1939,2.08,"[['Adventure'], [' Family'], [' Fantasy']]",102,8.0,365037.0
+The Wolf of Wall Street,R,2013,116.9,"[['Biography'], [' Crime'], [' Drama']]",180,8.2,1129378.0
+The World's Fastest Indian,PG-13,2005,5.13,"[['Biography'], [' Drama'], [' Sport']]",127,7.8,50971.0
+The Wrestler,R,2008,26.24,"[['Drama'], [' Sport']]",109,7.9,285341.0
+There Will Be Blood,R,2007,40.22,[['Drama']],158,8.2,498629.0
+This Is Spinal Tap,R,1984,0.19,"[['Comedy'], [' Music']]",82,7.9,125924.0
+Thor: Ragnarok,PG-13,2017,315.06,"[['Action'], [' Adventure'], [' Comedy']]",130,7.9,558167.0
+"Three Billboards Outside Ebbing, Missouri",R,2017,54.51,"[['Comedy'], [' Crime'], [' Drama']]",115,8.2,404849.0
+Titanic,PG-13,1997,659.33,"[['Drama'], [' Romance']]",194,7.8,1017681.0
+All About My Mother,R,1999,8.26,[['Drama']],101,7.8,86421.0
+Togo,PG,2019,0.0,"[['Adventure'], [' Biography'], [' Drama']]",113,8.0,0.0
+Tombstone,R,1993,56.51,"[['Action'], [' Biography'], [' Drama']]",130,7.8,122134.0
+My Neighbor Totoro,G,1988,1.11,"[['Animation'], [' Family'], [' Fantasy']]",86,8.2,274168.0
+Touch of Evil,PG-13,1958,2.24,"[['Crime'], [' Drama'], [' Film-Noir']]",95,8.0,96386.0
+Toy Story,G,1995,191.8,"[['Animation'], [' Adventure'], [' Comedy']]",81,8.3,858746.0
+Toy Story 2,G,1999,245.85,"[['Animation'], [' Adventure'], [' Comedy']]",92,7.9,511525.0
+Toy Story 3,G,2010,415.0,"[['Animation'], [' Adventure'], [' Comedy']]",103,8.3,735338.0
+Toy Story 4,G,2019,434.04,"[['Animation'], [' Adventure'], [' Comedy']]",100,7.8,184806.0
+Traffic,R,2000,124.12,"[['Crime'], [' Drama'], [' Thriller']]",147,7.6,192328.0
+Training Day,R,2001,76.63,"[['Crime'], [' Drama'], [' Thriller']]",122,7.7,378679.0
+Trainspotting,R,1996,16.5,[['Drama']],93,8.1,620325.0
+Three Colors: White,R,1994,1.46,"[['Comedy'], [' Drama'], [' Romance']]",92,7.6,61151.0
+Three Colors: Blue,R,1993,1.32,"[['Drama'], [' Music'], [' Mystery']]",94,7.9,85475.0
+Three Colors: Red,R,1994,4.04,"[['Drama'], [' Mystery'], [' Romance']]",99,8.1,86800.0
+Elite Squad,R,2007,0.01,"[['Action'], [' Crime'], [' Drama']]",115,8.1,96044.0
+True Grit,PG-13,2010,171.24,"[['Drama'], [' Western']]",110,7.6,302690.0
+True Romance,R,1993,12.28,"[['Crime'], [' Drama'], [' Romance']]",119,7.9,200965.0
+12 Monkeys,R,1995,57.14,"[['Mystery'], [' Sci-Fi'], [' Thriller']]",129,8.0,565666.0
+Tokyo Godfathers,PG-13,2003,0.13,"[['Animation'], [' Adventure'], [' Comedy']]",92,7.8,29403.0
+A Very Long Engagement,R,2004,6.17,"[['Drama'], [' Mystery'], [' Romance']]",133,7.6,70001.0
+A Prophet,R,2009,2.08,"[['Crime'], [' Drama']]",155,7.9,91635.0
+Land of Mine,R,2015,0.44,"[['Drama'], [' History'], [' War']]",100,7.8,33238.0
+Unforgiven,R,1992,101.16,"[['Drama'], [' Western']]",130,8.2,364367.0
+Up,PG,2009,293.0,"[['Animation'], [' Adventure'], [' Comedy']]",96,8.2,905536.0
+V for Vendetta,R,2005,70.51,"[['Action'], [' Drama'], [' Sci-Fi']]",132,8.2,1003442.0
+Vampire Hunter D: Bloodlust,R,2000,0.15,"[['Animation'], [' Action'], [' Fantasy']]",103,7.7,28357.0
+Vertigo,PG,1958,3.2,"[['Mystery'], [' Romance'], [' Thriller']]",128,8.3,348812.0
+Cries & Whispers,R,1972,1.74,[['Drama']],91,8.1,28783.0
+Volver,R,2006,12.9,"[['Comedy'], [' Drama']]",121,7.6,92623.0
+WALL·E,G,2008,223.81,"[['Animation'], [' Adventure'], [' Family']]",98,8.4,968458.0
+Waking Life,R,2001,2.89,"[['Animation'], [' Drama'], [' Fantasy']]",99,7.8,59594.0
+Walk the Line,PG-13,2005,119.52,"[['Biography'], [' Drama'], [' Music']]",136,7.8,228081.0
+Warrior,PG-13,2011,13.66,"[['Action'], [' Drama'], [' Sport']]",140,8.2,425006.0
+Watchmen,R,2009,107.51,"[['Action'], [' Drama'], [' Mystery']]",162,7.6,487970.0
+Watership Down,PG,1978,0.0,"[['Animation'], [' Adventure'], [' Drama']]",91,7.6,0.0
+What We Do in the Shadows,R,2014,3.33,"[['Comedy'], [' Horror']]",86,7.7,148276.0
+What's Eating Gilbert Grape,PG-13,1993,9.17,[['Drama']],118,7.8,208883.0
+When Harry Met Sally...,R,1989,92.82,"[['Comedy'], [' Drama'], [' Romance']]",95,7.6,189160.0
+Whiplash,R,2014,13.09,"[['Drama'], [' Music']]",106,8.5,683773.0
+Who Framed Roger Rabbit,PG,1988,156.45,"[['Animation'], [' Adventure'], [' Comedy']]",104,7.7,177430.0
+Willy Wonka & the Chocolate Factory,G,1971,4.0,"[['Family'], [' Fantasy'], [' Musical']]",100,7.8,172690.0
+Wind River,R,2017,33.8,"[['Crime'], [' Drama'], [' Mystery']]",107,7.7,193240.0
+Withnail & I,R,1987,1.54,"[['Comedy'], [' Drama']]",107,7.7,39104.0
+"Crouching Tiger, Hidden Dragon",PG-13,2000,128.08,"[['Action'], [' Adventure'], [' Fantasy']]",120,7.8,248553.0
+Wonder,PG,2017,132.42,"[['Drama'], [' Family']]",113,8.0,131472.0
+Wreck-It Ralph,PG,2012,189.42,"[['Animation'], [' Adventure'], [' Comedy']]",101,7.7,369249.0
+X-Men: Days of Future Past,PG-13,2014,233.92,"[['Action'], [' Adventure'], [' Sci-Fi']]",132,8.0,647479.0
+X: First Class,PG-13,2011,146.41,"[['Action'], [' Adventure'], [' Sci-Fi']]",131,7.7,634356.0
+Y Tu Mamá También,R,2001,13.62,[['Drama']],106,7.6,112953.0
+Ying xiong,PG-13,2002,53.71,"[['Action'], [' Adventure'], [' History']]",120,7.9,171405.0
+Ip Man,R,2008,0.0,"[['Action'], [' Biography'], [' Drama']]",106,8.0,0.0
+Young Frankenstein,PG,1974,86.3,[['Comedy']],106,8.0,139628.0
+Zelig,PG,1983,11.8,[['Comedy']],79,7.7,38973.0
+The Mirror,G,1975,0.18,"[['Biography'], [' Drama']]",107,8.1,37547.0
+Cold War,R,2018,4.57,"[['Drama'], [' History'], [' Music']]",89,7.6,44910.0
+Zodiac,R,2007,33.08,"[['Crime'], [' Drama'], [' Mystery']]",157,7.7,437544.0
+Zombieland,R,2009,75.59,"[['Adventure'], [' Comedy'], [' Fantasy']]",88,7.6,507635.0
+Zootopia,PG,2016,341.27,"[['Animation'], [' Adventure'], [' Comedy']]",108,8.0,417513.0
+Black Book,R,2006,4.4,"[['Drama'], [' Thriller'], [' War']]",145,7.7,71226.0
