@@ -1,4 +1,4 @@
-Title,Movie Rating,Year,Director,Gross Income,Movie Genre,Movie Runtime,IMDb Rating,Votes,Budget,Profit percent
+Title,Movie Rating,Year,Director,Gross Income in millions (USD),Movie Genre,Movie Runtime,IMDb Rating,Votes,Budget in millions (USD),Profit percent
 12 Years a Slave,R,2013,Steve McQueen,56.67,"['Biography', ' Drama', ' History']",134,8.1,620348.0,20.0,183.35000000000002
 127 Hours,R,2010,Danny Boyle,18.34,"['Biography', ' Drama']",94,7.6,340655.0,18.0,1.8888888888888882
 2001: A Space Odyssey,G,1968,Stanley Kubrick,56.95,"['Adventure', ' Sci-Fi']",149,8.3,583340.0,10.5,442.3809523809524
