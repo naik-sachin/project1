@@ -4,30 +4,8 @@ Title,Movie Rating,Year,Gross Income in millions (USD),Movie Genre,Movie Runtime
 10 Things I Hate About You,PG-13,1999,38.18,"Comedy,Drama,Romance",97,7.3,287984.0,13.0,193.6923076923077
 102 Dalmatians,G,2000,66.96,"Adventure,Comedy,Family",100,4.9,33907.0,85.0,-21.223529411764712
 10th & Wolf,R,2006,0.05,"Crime,Drama,Thriller",107,6.3,6043.0,8.0,-99.375
-11:14,R,2003,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Crime,Drama,Mystery",86,7.2,0.0,6.0,-100.0
-12 Angry Men,PG-13,1997,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Crime,Drama",117,7.9,0.0,0.34,-100.0
+11:14,R,2003,22.810000000000002,"Crime,Drama,Mystery",86,7.2,48903.0,6.0,-100.0
+12 Angry Men,PG-13,1997,22.810000000000002,"Crime,Drama",117,7.9,48903.0,0.34,-100.0
 12 Rounds,PG-13,2009,12.23,"Action,Crime,Thriller",108,5.6,26877.0,20.0,-38.849999999999994
 12 Strong,R,2018,45.5,"Action,Drama,History",130,6.6,63650.0,35.0,30.0
 12 Years a Slave,R,2013,56.67,"Biography,Drama,History",134,8.1,620542.0,20.0,183.35000000000002
@@ -37,18 +15,7 @@ Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Crime,Dram
 15 Minutes,R,2001,24.4,"Action,Crime,Drama",120,6.1,47775.0,42.0,-41.904761904761905
 16 Blocks,PG-13,2006,36.88,"Action,Drama,Thriller",102,6.6,124885.0,45.0,-18.044444444444437
 17 Again,PG-13,2009,64.17,"Comedy,Drama,Fantasy",102,6.3,175272.0,40.0,60.425000000000004
-1982,R,2013,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Drama,90,7.0,0.0,1.0,-100.0
+1982,R,2013,22.810000000000002,Drama,90,7.0,48903.0,1.0,-100.0
 2 Fast 2 Furious,PG-13,2003,127.15,"Action,Crime,Thriller",107,5.9,245445.0,76.0,67.30263157894738
 2 Guns,R,2013,75.61,"Action,Comedy,Thriller",109,6.7,191335.0,61.0,23.950819672131146
 20 Dates,R,1998,0.54,"Biography,Comedy,Romance",87,5.4,1656.0,0.066,718.1818181818181
@@ -62,18 +29,7 @@ Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Drama,90,7.
 25th Hour,R,2002,13.06,Drama,135,7.6,167354.0,4.5,190.22222222222223
 27 Dresses,PG-13,2008,76.81,"Comedy,Romance",111,6.1,150976.0,30.0,156.03333333333333
 28 Days,PG-13,2000,37.17,"Comedy,Drama",103,6.0,43360.0,43.0,-13.558139534883718
-3 Backyards,R,2010,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Drama,88,5.0,0.0,0.3,-100.0
+3 Backyards,R,2010,22.810000000000002,Drama,88,5.0,48903.0,0.3,-100.0
 3 Days to Kill,PG-13,2014,30.7,"Action,Drama,Thriller",117,6.2,85433.0,28.0,9.64285714285714
 3 Ninjas Kick Back,PG,1994,11.78,"Action,Comedy,Family",93,4.6,8285.0,20.0,-41.1
 3 Strikes,R,2000,9.82,Comedy,82,4.8,3079.0,4.0,145.5
@@ -93,18 +49,7 @@ Fantastic Four: Rise of the Silver Surfer,PG,2007,131.92,"Action,Adventure,Fanta
 50 to 1,PG-13,2014,1.06,Drama,110,6.4,1857.0,10.0,-89.39999999999999
 50/50,R,2011,35.01,"Comedy,Drama,Romance",100,7.6,310888.0,8.0,337.625
 54,R,1998,16.57,"Drama,Music",93,5.9,31091.0,13.0,27.461538461538463
-8 Days,PG-13,2014,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Drama,Thriller",90,4.6,0.0,2.5,-100.0
+8 Days,PG-13,2014,22.810000000000002,"Drama,Thriller",90,4.6,48903.0,2.5,-100.0
 8 Heads in a Duffel Bag,R,1997,3.56,"Adventure,Comedy,Crime",95,5.4,9475.0,3.0,18.666666666666668
 8 Mile,R,2002,116.72,"Drama,Music",110,7.1,243566.0,41.0,184.68292682926827
 88 Minutes,R,2007,16.93,"Crime,Drama,Mystery",108,5.9,73378.0,30.0,-43.56666666666667
@@ -121,18 +66,7 @@ A Civil Action,PG-13,1998,56.7,Drama,115,6.6,26937.0,60.0,-5.499999999999996
 A Dangerous Method,R,2011,5.7,"Biography,Drama,Romance",99,6.4,96936.0,20.0,-71.50000000000001
 A Dog of Flanders,PG,1999,2.15,"Family,Drama",100,6.3,862.0,7.0,-69.28571428571428
 A Few Good Men,R,1992,141.34,"Drama,Thriller",138,7.7,227841.0,33.0,328.3030303030303
-A Fine Step,PG,2014,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Drama,111,5.3,0.0,1.0,-100.0
+A Fine Step,PG,2014,22.810000000000002,Drama,111,5.3,48903.0,1.0,-100.0
 A Ghost Story,R,2017,1.6,"Drama,Fantasy,Romance",92,6.9,56707.0,0.1,1500.0
 A Good Day to Die Hard,R,2013,67.35,"Action,Thriller",98,5.3,194975.0,92.0,-26.79347826086957
 A Good Year,PG-13,2006,7.46,"Comedy,Drama,Romance",117,7.0,86496.0,35.0,-78.68571428571428
@@ -182,31 +116,9 @@ About Last Night,R,2014,48.64,"Comedy,Romance",100,6.1,22184.0,13.0,274.15384615
 About Schmidt,R,2002,65.02,"Comedy,Drama",125,7.1,120797.0,30.0,116.7333333333333
 About a Boy,PG-13,2002,41.39,"Comedy,Drama,Romance",101,7.0,168318.0,27.0,53.2962962962963
 Abraham Lincoln: Vampire Hunter,R,2012,37.52,"Action,Fantasy,Horror",105,5.9,147090.0,67.5,-44.41481481481481
-Absentia,R,2011,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Drama,Horror,Mystery",87,5.8,0.0,0.07,-100.0
+Absentia,R,2011,22.810000000000002,"Drama,Horror,Mystery",87,5.8,48903.0,0.07,-100.0
 Absolute Power,R,1997,50.01,"Action,Crime,Drama",121,6.7,49052.0,50.0,0.01999999999999602
-Accidental Love,PG-13,2015,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Comedy,Romance",100,4.1,0.0,26.0,-100.0
+Accidental Love,PG-13,2015,22.810000000000002,"Comedy,Romance",100,4.1,48903.0,26.0,-100.0
 Ace Ventura: Pet Detective,PG-13,1994,72.22,Comedy,86,6.9,270902.0,12.0,501.83333333333337
 Ace Ventura: When Nature Calls,PG-13,1995,108.39,"Adventure,Comedy,Crime",90,6.4,198099.0,30.0,261.3
 Across the Universe,PG-13,2007,24.34,"Drama,Fantasy,History",133,7.3,104710.0,45.0,-45.91111111111111
@@ -214,46 +126,13 @@ Act of Valor,R,2012,70.01,"Action,Adventure,Thriller",110,6.5,65582.0,12.0,483.4
 Action Point,R,2018,5.06,Comedy,85,5.1,9218.0,19.0,-73.36842105263159
 Ad Astra,PG-13,2019,35.4,"Adventure,Drama,Mystery",123,6.6,176991.0,49.8,-28.915662650602407
 Adam,PG-13,2009,2.28,"Comedy,Drama,Romance",99,7.2,33192.0,3.2,-28.750000000000007
-Adam Resurrected,R,2008,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Drama,War",106,6.3,0.0,10.0,-100.0
+Adam Resurrected,R,2008,22.810000000000002,"Drama,War",106,6.3,48903.0,10.0,-100.0
 Addicted,R,2014,17.38,"Drama,Thriller",106,5.2,8682.0,5.0,247.6
 Admission,PG-13,2013,18.0,"Comedy,Drama,Romance",107,5.7,32919.0,13.0,38.46153846153847
 Adrift,PG-13,2018,31.45,"Action,Adventure,Biography",96,6.6,42904.0,35.0,-10.142857142857146
 Adventureland,R,2009,16.03,"Comedy,Drama,Romance",107,6.8,150414.0,9.8,63.57142857142857
-After,R,2014,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Drama,Mystery",99,5.1,0.0,0.65,-100.0
-After,PG-13,2012,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Drama,Fantasy,Mystery",90,5.5,0.0,0.65,-100.0
+After,R,2014,22.810000000000002,"Drama,Mystery",99,5.1,48903.0,0.65,-100.0
+After,PG-13,2012,22.810000000000002,"Drama,Fantasy,Mystery",90,5.5,48903.0,0.65,-100.0
 After,PG-13,2019,12.14,"Drama,Romance",105,5.4,28954.0,0.65,1767.6923076923078
 After Earth,PG-13,2013,60.52,"Action,Adventure,Sci-Fi",100,4.8,188560.0,130.0,-53.44615384615384
 After the Sunset,PG-13,2004,28.33,"Action,Comedy,Crime",97,6.3,43911.0,57.0,-50.29824561403509
@@ -268,30 +147,8 @@ Airborne,PG,1993,2.85,"Adventure,Comedy,Sport",91,6.3,6201.0,1.2,137.50000000000
 Akeelah and the Bee,PG,2006,18.81,"Drama,Family",112,7.3,18097.0,8.0,135.12499999999997
 Aladdin,G,1992,217.35,"Animation,Adventure,Comedy",90,8.0,361677.0,182.0,19.42307692307692
 Aladdin,G,1992,217.35,"Animation,Adventure,Comedy",90,8.0,361677.0,28.0,676.25
-Aladdin,G,1992,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Animation,Adventure,Comedy",49,6.0,0.0,182.0,-100.0
-Aladdin,G,1992,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Animation,Adventure,Comedy",49,6.0,0.0,28.0,-100.0
+Aladdin,G,1992,22.810000000000002,"Animation,Adventure,Comedy",49,6.0,48903.0,182.0,-100.0
+Aladdin,G,1992,22.810000000000002,"Animation,Adventure,Comedy",49,6.0,48903.0,28.0,-100.0
 Aladdin,PG,2019,355.56,"Adventure,Family,Fantasy",128,7.0,211355.0,182.0,95.36263736263736
 Aladdin,PG,2019,355.56,"Adventure,Family,Fantasy",128,7.0,211355.0,28.0,1169.857142857143
 Albert Nobbs,R,2011,3.01,"Drama,Romance",113,6.7,23031.0,7.5,-59.86666666666667
@@ -303,30 +160,8 @@ Alexander,R,2004,34.3,"Action,Biography,Drama",175,5.6,159923.0,155.0,-77.870967
 Alfie,R,2004,13.4,"Comedy,Drama,Romance",103,6.2,49933.0,40.0,-66.5
 Ali,R,2001,58.2,"Biography,Drama,Sport",157,6.8,91843.0,109.0,-46.60550458715596
 Alice Through the Looking Glass,PG,2016,77.04,"Adventure,Family,Fantasy",113,6.2,88685.0,170.0,-54.68235294117647
-Alice in Wonderland,PG,1999,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Adventure,Comedy,Family",150,6.3,0.0,200.0,-100.0
-Alice in Wonderland,PG,1999,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Adventure,Comedy,Family",150,6.3,0.0,3.0,-100.0
+Alice in Wonderland,PG,1999,22.810000000000002,"Adventure,Comedy,Family",150,6.3,48903.0,200.0,-100.0
+Alice in Wonderland,PG,1999,22.810000000000002,"Adventure,Comedy,Family",150,6.3,48903.0,3.0,-100.0
 Alice in Wonderland,PG,2010,334.19,"Adventure,Family,Fantasy",108,6.4,375159.0,200.0,67.095
 Alice in Wonderland,PG,2010,334.19,"Adventure,Family,Fantasy",108,6.4,375159.0,3.0,11039.666666666666
 Alien: Covenant,R,2017,74.26,"Horror,Sci-Fi,Thriller",122,6.4,246291.0,97.0,-23.44329896907216
@@ -340,30 +175,8 @@ All About the Benjamins,R,2002,25.48,"Action,Comedy,Crime",95,5.9,12397.0,14.0,8
 All Eyez on Me,R,2017,44.92,"Biography,Drama,Music",139,5.8,20489.0,45.0,-0.17777777777777398
 All Good Things,R,2010,0.58,"Crime,Drama,Mystery",101,6.3,51736.0,20.0,-97.10000000000001
 All Saints,PG,2017,5.8,Drama,108,6.1,1467.0,2.0,190.0
-All or Nothing,R,2001,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Drama,Musical",88,6.0,0.0,9.0,-100.0
-All the Boys Love Mandy Lane,R,2006,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Horror,90,5.5,0.0,0.75,-100.0
+All or Nothing,R,2001,22.810000000000002,"Drama,Musical",88,6.0,48903.0,9.0,-100.0
+All the Boys Love Mandy Lane,R,2006,22.810000000000002,Horror,90,5.5,48903.0,0.75,-100.0
 All the King's Men,PG-13,2006,7.22,"Drama,Thriller",128,6.2,23312.0,55.0,-86.87272727272727
 All the Pretty Horses,PG-13,2000,15.53,"Drama,Romance,Western",116,5.8,12742.0,45.0,-65.48888888888888
 All the Queen's Men,PG-13,2001,0.02,"Action,Comedy,Drama",99,4.8,2436.0,15.0,-99.86666666666667
@@ -403,18 +216,7 @@ Amigo,R,2010,0.18,"Drama,War",124,5.8,540.0,1.5,-88.0
 Amistad,R,1997,44.18,"Biography,Drama,History",155,7.3,69422.0,40.0,10.45
 An American Carol,PG-13,2008,7.0,"Comedy,Fantasy",83,4.1,9304.0,20.0,-65.0
 An American Haunting,PG-13,2005,16.3,"Drama,History,Horror",83,5.1,24389.0,14.0,16.428571428571434
-An American in Hollywood,R,2014,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Drama,89,7.0,0.0,0.125,-100.0
+An American in Hollywood,R,2014,22.810000000000002,Drama,89,7.0,48903.0,0.125,-100.0
 An Education,PG-13,2009,12.57,Drama,100,7.3,126374.0,7.5,67.60000000000001
 An Everlasting Piece,R,2000,0.08,Comedy,103,6.3,1579.0,4.0,-98.0
 An Ideal Husband,PG-13,1999,18.54,"Comedy,Romance",97,6.8,14955.0,10.7,73.27102803738318
@@ -425,61 +227,17 @@ Anacondas: The Hunt for the Blood Orchid,PG-13,2004,32.24,"Action,Adventure,Horr
 Analyze That,R,2002,32.12,"Comedy,Crime",96,5.9,81084.0,60.0,-46.466666666666676
 Analyze This,R,1999,106.89,"Comedy,Crime",103,6.7,143350.0,30.0,256.3
 Anastasia,G,1997,58.41,"Animation,Adventure,Drama",94,7.2,108714.0,53.0,10.207547169811313
-Anastasia,G,1997,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Animation,Family",48,5.5,0.0,53.0,-100.0
+Anastasia,G,1997,22.810000000000002,"Animation,Family",48,5.5,48903.0,53.0,-100.0
 Anchorman 2: The Legend Continues,PG-13,2013,127.35,Comedy,119,6.3,164876.0,50.0,154.7
 Anchorman: The Legend of Ron Burgundy,PG-13,2004,85.29,Comedy,94,7.2,323134.0,25.0,241.16000000000005
 And So It Goes,PG-13,2014,15.16,"Comedy,Drama,Romance",94,5.8,12435.0,18.0,-15.777777777777777
-Anderson's Cross,R,2010,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Comedy,Drama,Romance",98,5.1,0.0,0.3,-100.0
-Angel Eyes,R,1993,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Crime,Drama,Thriller",84,4.2,0.0,38.0,-100.0
+Anderson's Cross,R,2010,22.810000000000002,"Comedy,Drama,Romance",98,5.1,48903.0,0.3,-100.0
+Angel Eyes,R,1993,22.810000000000002,"Crime,Drama,Thriller",84,4.2,48903.0,38.0,-100.0
 Angel Eyes,R,2001,24.04,"Drama,Romance",102,5.6,22135.0,38.0,-36.736842105263165
 Angela's Ashes,R,1999,13.04,Drama,145,7.3,19854.0,25.0,-47.84
 Angels & Demons,PG-13,2009,133.38,"Action,Mystery,Thriller",138,6.7,266614.0,150.0,-11.080000000000002
 Anger Management,PG-13,2003,135.65,Comedy,106,6.3,199747.0,56.0,142.23214285714286
-Anna,R,2013,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Drama,Mystery,Sci-Fi",99,6.5,20997.0,4.357373,-100.0
+Anna,R,2013,22.810000000000002,"Drama,Mystery,Sci-Fi",99,6.5,20997.0,4.357373,-100.0
 Anna,R,2019,7.74,"Action,Thriller",118,6.6,52889.0,4.357373,77.62996190594656
 Anna Karenina,PG-13,1997,0.79,"Drama,Romance",108,6.4,5408.0,49.0,-98.38775510204081
 Anna and the King,PG-13,1999,39.26,"Drama,History,Romance",148,6.7,35171.0,75.0,-47.653333333333336
@@ -489,18 +247,7 @@ Annie,PG,2014,85.91,"Comedy,Drama,Family",118,5.3,33194.0,65.0,32.16923076923076
 Anomalisa,R,2015,3.76,"Animation,Comedy,Drama",90,7.3,63042.0,8.0,-53.0
 Anonymous,PG-13,2011,4.46,"Drama,Thriller",130,6.9,38852.0,27.5,-83.78181818181818
 Another Earth,PG-13,2011,1.32,"Drama,Romance,Sci-Fi",92,7.0,89271.0,0.175,654.2857142857143
-Another Happy Day,R,2011,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Comedy,Drama",119,6.1,0.0,4.0,-100.0
+Another Happy Day,R,2011,22.810000000000002,"Comedy,Drama",119,6.1,48903.0,4.0,-100.0
 Another Year,PG-13,2010,3.21,"Comedy,Drama",129,7.3,27270.0,8.0,-59.875
 Ant-Man,PG-13,2015,180.2,"Action,Adventure,Comedy",117,7.3,549839.0,130.0,38.615384615384606
 Ant-Man and the Wasp,PG-13,2018,216.65,"Action,Adventure,Comedy",118,7.1,291567.0,130.0,66.65384615384616
@@ -512,18 +259,7 @@ Anything Else,R,2003,3.2,"Comedy,Romance",108,6.3,29224.0,18.0,-82.2222222222222
 Anywhere But Here,PG-13,1999,18.65,"Comedy,Drama",114,6.2,16617.0,23.0,-18.913043478260878
 Apocalypto,R,2006,50.87,"Action,Adventure,Drama",139,7.8,284678.0,40.0,27.174999999999994
 Apollo 13,PG,1995,173.84,"Adventure,Drama,History",140,7.6,260838.0,65.0,167.44615384615383
-Apollo 13,PG,1995,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Documentary,49,8.1,0.0,65.0,-100.0
+Apollo 13,PG,1995,22.810000000000002,Documentary,49,8.1,48903.0,65.0,-100.0
 Apollo 18,PG-13,2011,17.69,"Horror,Mystery,Sci-Fi",86,5.2,53046.0,5.0,253.8
 Appaloosa,R,2008,20.21,"Action,Crime,Drama",115,6.7,57504.0,20.0,1.0500000000000043
 Aqua Teen Hunger Force Colon Movie Film for Theaters,R,2007,5.52,"Animation,Action,Adventure",86,6.7,13185.0,0.75,636.0
@@ -531,61 +267,17 @@ Aquaman,PG-13,2018,335.06,"Action,Adventure,Fantasy",143,7.0,342864.0,160.0,109.
 Aquamarine,PG,2006,18.6,"Comedy,Family,Fantasy",110,5.3,37136.0,12.0,55.000000000000014
 Arachnophobia,PG-13,1990,53.21,"Comedy,Fantasy,Horror",109,6.4,61555.0,31.0,71.64516129032258
 Arbitrage,R,2012,7.92,"Drama,Thriller",107,6.6,48868.0,12.0,-34.0
-Arctic Dogs,PG,2019,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Animation,Adventure,Comedy",92,4.6,0.0,50.0,-100.0
+Arctic Dogs,PG,2019,22.810000000000002,"Animation,Adventure,Comedy",92,4.6,48903.0,50.0,-100.0
 Are We There Yet?,PG,2005,82.67,"Adventure,Comedy,Family",95,4.7,28674.0,20.0,313.35
-Area 51,R,2015,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Horror,Mystery,Sci-Fi",91,4.2,0.0,5.0,-100.0
+Area 51,R,2015,22.810000000000002,"Horror,Mystery,Sci-Fi",91,4.2,48903.0,5.0,-100.0
 Argo,R,2012,136.03,"Biography,Drama,Thriller",120,7.7,560799.0,44.5,205.68539325842696
 Arlington Road,R,1999,24.36,"Crime,Drama,Thriller",117,7.2,79680.0,21.5,13.302325581395348
 Armageddon,PG-13,1998,201.57,"Action,Adventure,Sci-Fi",151,6.7,388288.0,140.0,43.97857142857142
 Armored,PG-13,2009,15.99,"Action,Crime,Thriller",88,5.7,29384.0,20.0,-20.049999999999997
 Army of Darkness,R,1992,11.5,"Comedy,Horror",81,7.5,159117.0,11.0,4.545454545454546
 Arnolds Park,PG-13,2007,0.02,"Mystery,Thriller",103,4.4,100.0,0.6,-96.66666666666667
-Around the World in 80 Days,G,1999,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Animation,181,6.7,0.0,110.0,-100.0
-Around the World in 80 Days,G,1999,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Animation,181,6.7,0.0,6.0,-100.0
+Around the World in 80 Days,G,1999,22.810000000000002,Animation,181,6.7,48903.0,110.0,-100.0
+Around the World in 80 Days,G,1999,22.810000000000002,Animation,181,6.7,48903.0,6.0,-100.0
 Around the World in 80 Days,PG,2004,24.01,"Action,Adventure,Comedy",120,5.9,82932.0,110.0,-78.17272727272727
 Around the World in 80 Days,PG,2004,24.01,"Action,Adventure,Comedy",120,5.9,82932.0,6.0,300.1666666666667
 Arrival,PG-13,2016,100.55,"Drama,Mystery,Sci-Fi",116,7.9,570674.0,47.0,113.93617021276594
@@ -599,31 +291,9 @@ Atlantis: The Lost Empire,PG,2001,84.05,"Animation,Action,Adventure",95,6.9,1005
 Atlas Shrugged: Who Is John Galt?,PG-13,2014,0.85,"Drama,Mystery,Sci-Fi",99,4.3,2915.0,5.0,-83.0
 Atomic Blonde,R,2017,51.69,"Action,Thriller",115,6.7,169046.0,30.0,72.3
 Atonement,R,2007,50.93,"Drama,Mystery,Romance",123,7.8,241960.0,30.0,69.76666666666667
-August,PG,1996,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Comedy,Drama,Romance",94,6.0,0.0,3.4,-100.0
+August,PG,1996,22.810000000000002,"Comedy,Drama,Romance",94,6.0,48903.0,3.4,-100.0
 August,R,2008,0.01,Drama,88,5.3,4005.0,3.4,-99.70588235294117
-August,G,2011,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Short,7,8.2,0.0,3.4,-100.0
+August,G,2011,22.810000000000002,Short,7,8.2,48903.0,3.4,-100.0
 August Rush,PG,2007,31.66,"Drama,Music",114,7.5,102053.0,25.0,26.640000000000004
 August: Osage County,R,2013,37.74,"Comedy,Drama",121,7.2,82979.0,25.0,50.96000000000001
 Austin Powers in Goldmember,PG-13,2002,213.31,"Action,Adventure,Comedy",94,6.2,191946.0,63.0,238.5873015873016
@@ -659,60 +329,16 @@ Baggage Claim,PG-13,2013,21.56,"Comedy,Romance",96,5.1,8622.0,8.5,153.6470588235
 Baghead,R,2008,0.14,"Comedy,Drama,Horror",84,6.0,4200.0,0.2,-30.0
 Bait,R,2000,15.33,"Action,Comedy,Crime",119,5.8,10373.0,35.0,-56.2
 Bamboozled,R,2000,2.19,"Comedy,Drama,Music",135,6.5,10163.0,10.0,-78.10000000000001
-Bandidas,PG-13,2006,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Action,Comedy,Crime",93,5.7,0.0,35.0,-100.0
+Bandidas,PG-13,2006,22.810000000000002,"Action,Comedy,Crime",93,5.7,48903.0,35.0,-100.0
 Bandits,PG-13,2001,41.58,"Comedy,Crime,Drama",123,6.5,64443.0,75.0,-44.56
 Bandslam,PG,2009,5.21,"Comedy,Drama,Family",111,6.3,13602.0,20.0,-73.94999999999999
-Bang,R,1996,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Action,85,4.1,0.0,0.01,-100.0
+Bang,R,1996,22.810000000000002,Action,85,4.1,48903.0,0.01,-100.0
 Bangkok Dangerous,R,2008,15.28,"Action,Crime,Thriller",99,5.4,54405.0,45.0,-66.04444444444444
-Banshee Chapter,R,2013,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Horror,Mystery,Sci-Fi",87,5.5,0.0,0.95,-100.0
+Banshee Chapter,R,2013,22.810000000000002,"Horror,Mystery,Sci-Fi",87,5.5,48903.0,0.95,-100.0
 Barbershop,PG-13,2002,75.78,"Comedy,Drama",102,6.3,28897.0,12.0,531.5
 Barbershop 2: Back in Business,PG-13,2004,65.11,"Comedy,Drama",106,5.7,13984.0,18.0,261.72222222222223
 Barbershop: The Next Cut,PG-13,2016,54.03,"Comedy,Drama",111,5.9,14016.0,20.0,170.15
-Barry Munday,R,2010,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Comedy,Drama,Romance",95,5.9,0.0,3.0,-100.0
+Barry Munday,R,2010,22.810000000000002,"Comedy,Drama,Romance",95,5.9,48903.0,3.0,-100.0
 Basic,R,2003,26.54,"Action,Crime,Drama",98,6.5,58233.0,50.0,-46.92
 Basic Instinct 2,R,2006,5.97,"Drama,Mystery,Thriller",114,4.3,36681.0,70.0,-91.47142857142858
 Basquiat,R,1996,2.96,"Biography,Drama",107,6.9,19131.0,3.0,-1.3333333333333344
@@ -720,18 +346,7 @@ Batman Begins,PG-13,2005,206.85,"Action,Adventure",140,8.2,1270356.0,150.0,37.89
 Batman Forever,PG-13,1995,184.03,"Action,Adventure",121,5.4,230535.0,100.0,84.03
 Batman Returns,PG-13,1992,162.83,"Action,Crime,Fantasy",126,7.0,267442.0,80.0,103.53750000000002
 Batman v Superman: Dawn of Justice,PG-13,2016,330.36,"Action,Adventure,Sci-Fi",152,6.4,608790.0,250.0,32.144000000000005
-"Batman: The Dark Knight Returns, Part 2",PG-13,2013,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Animation,Action,Adventure",76,8.4,0.0,3.5,-100.0
+"Batman: The Dark Knight Returns, Part 2",PG-13,2013,22.810000000000002,"Animation,Action,Adventure",76,8.4,48903.0,3.5,-100.0
 Battle of the Sexes,PG-13,2017,12.64,"Biography,Comedy,Drama",121,6.7,48072.0,25.0,-49.44
 Battle of the Year,PG-13,2013,8.89,"Drama,Music",110,5.0,8971.0,20.0,-55.55
 Battleship,PG-13,2012,65.42,"Action,Adventure,Sci-Fi",131,5.8,232692.0,220.0,-70.26363636363637
@@ -748,30 +363,8 @@ Beautiful Creatures,PG-13,2013,19.45,"Drama,Fantasy,Romance",124,6.1,82688.0,50.
 Beauty Shop,PG-13,2005,36.35,Comedy,105,5.5,15964.0,25.0,45.400000000000006
 Beauty and the Beast,G,1991,218.97,"Animation,Family,Fantasy",84,8.0,408938.0,160.0,36.85625
 Beauty and the Beast,G,1991,218.97,"Animation,Family,Fantasy",84,8.0,408938.0,20.0,994.8499999999999
-Beauty and the Beast,G,1992,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Animation,Adventure,Drama",49,5.3,0.0,160.0,-100.0
-Beauty and the Beast,G,1992,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Animation,Adventure,Drama",49,5.3,0.0,20.0,-100.0
+Beauty and the Beast,G,1992,22.810000000000002,"Animation,Adventure,Drama",49,5.3,48903.0,160.0,-100.0
+Beauty and the Beast,G,1992,22.810000000000002,"Animation,Adventure,Drama",49,5.3,48903.0,20.0,-100.0
 Beauty and the Beast,PG,2017,504.01,"Family,Fantasy,Musical",129,7.1,261790.0,160.0,215.00624999999997
 Beauty and the Beast,PG,2017,504.01,"Family,Fantasy,Musical",129,7.1,261790.0,20.0,2420.0499999999997
 Beavis and Butt-Head Do America,PG-13,1996,63.07,"Animation,Adventure,Comedy",81,6.8,50508.0,12.0,425.5833333333333
@@ -789,62 +382,18 @@ Before Sunset,R,2004,5.82,"Drama,Romance",80,8.0,226587.0,2.0,191.0
 Before We Go,PG-13,2014,0.04,"Comedy,Drama,Romance",95,6.8,50007.0,3.0,-98.66666666666667
 Begin Again,R,2013,16.17,"Comedy,Drama,Music",104,7.4,138655.0,8.0,102.12500000000003
 Beginners,R,2010,5.79,"Comedy,Drama,Romance",105,7.2,86464.0,3.2,80.9375
-Behind Enemy Lines,R,1997,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Action,Thriller",89,4.2,0.0,40.0,-100.0
+Behind Enemy Lines,R,1997,22.810000000000002,"Action,Thriller",89,4.2,48903.0,40.0,-100.0
 Behind Enemy Lines,PG-13,2001,59.07,"Action,Drama,Thriller",106,6.4,97342.0,40.0,47.675
 Being John Malkovich,R,1999,22.86,"Comedy,Drama,Fantasy",113,7.7,302078.0,13.0,75.84615384615384
 Being Julia,R,2004,7.74,"Comedy,Drama,Romance",104,7.0,11861.0,18.0,-56.99999999999999
-Believe,PG,2007,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Comedy,80,6.7,0.0,3.5,-100.0
-Believe,PG,2016,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Drama,119,5.1,0.0,3.5,-100.0
+Believe,PG,2007,22.810000000000002,Comedy,80,6.7,48903.0,3.5,-100.0
+Believe,PG,2016,22.810000000000002,Drama,119,5.1,48903.0,3.5,-100.0
 Bella,PG-13,2006,8.11,"Drama,Romance",91,7.2,10323.0,3.3,145.75757575757575
 Belly,R,1998,9.63,"Crime,Drama",96,6.2,9060.0,3.0,221.00000000000003
 Beloved,R,1998,22.85,"Drama,History,Horror",172,6.0,6958.0,53.0,-56.88679245283018
 Ben-Hur,PG-13,2016,26.41,"Action,Adventure,Drama",123,5.7,40590.0,95.0,-72.2
 Ben-Hur,PG-13,2016,26.41,"Action,Adventure,Drama",123,5.7,40590.0,15.0,76.06666666666668
-Beowulf,R,1999,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Action,Adventure,Fantasy",95,4.1,0.0,150.0,-100.0
+Beowulf,R,1999,22.810000000000002,"Action,Adventure,Fantasy",95,4.1,48903.0,150.0,-100.0
 Beowulf,PG-13,2007,82.16,"Animation,Action,Adventure",115,6.2,159335.0,150.0,-45.226666666666674
 Bernie,PG-13,2011,9.2,"Biography,Comedy,Crime",104,6.8,56031.0,6.0,53.33333333333332
 Best in Show,PG-13,2000,18.62,Comedy,90,7.4,53906.0,6.0,210.33333333333334
@@ -868,34 +417,12 @@ Big Momma's House 2,PG-13,2006,70.17,"Comedy,Crime",99,4.7,39806.0,40.0,75.42500
 Big Trouble,PG-13,2002,7.26,"Comedy,Crime,Thriller",85,6.5,19497.0,45.0,-83.86666666666667
 Bilal: A New Breed of Hero,PG-13,2015,0.49,"Animation,Action,Adventure",105,7.9,16930.0,30.0,-98.36666666666667
 Bill & Ted's Bogus Journey,PG,1991,38.04,"Adventure,Comedy,Fantasy",93,6.3,61807.0,20.0,90.19999999999999
-Bird Box,R,2018,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Drama,Horror,Sci-Fi",124,6.6,0.0,19.8,-100.0
+Bird Box,R,2018,22.810000000000002,"Drama,Horror,Sci-Fi",124,6.6,48903.0,19.8,-100.0
 Birdman or (The Unexpected Virtue of Ignorance),R,2014,42.34,"Comedy,Drama",119,7.7,562541.0,18.0,135.22222222222226
 Birth,R,2004,5.01,"Drama,Fantasy,Mystery",100,6.1,34137.0,20.0,-74.95
 Birth of the Dragon,PG-13,2016,6.9,"Action,Biography,Drama",95,5.5,6951.0,31.0,-77.74193548387098
 Birthday Girl,R,2001,4.92,"Comedy,Crime,Thriller",93,6.1,24007.0,13.0,-62.15384615384616
-Bitter Harvest,R,1993,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Action,Comedy,Thriller",98,4.5,0.0,21.0,-100.0
+Bitter Harvest,R,1993,22.810000000000002,"Action,Comedy,Thriller",98,4.5,48903.0,21.0,-100.0
 BlacKkKlansman,R,2018,49.28,"Biography,Crime,Drama",135,7.5,200172.0,15.0,228.53333333333333
 Black Christmas,R,2006,16.24,Horror,84,4.6,24305.0,9.0,80.44444444444443
 Black Hawk Down,R,2001,108.64,"Drama,History,War",144,7.7,356547.0,95.0,14.357894736842105
@@ -903,32 +430,10 @@ Black Knight,PG-13,2001,33.42,"Adventure,Comedy,Fantasy",95,4.9,37335.0,35.0,-4.
 Black Mass,R,2015,62.58,"Biography,Crime,Drama",123,6.9,163888.0,53.0,18.075471698113205
 Black Nativity,PG,2013,7.02,"Drama,Family,Music",93,4.6,2013.0,17.5,-59.885714285714286
 Black Panther,PG-13,2018,700.06,"Action,Adventure,Sci-Fi",134,7.3,588452.0,200.0,250.02999999999997
-Black Rock,R,2012,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Horror,Thriller",83,4.7,0.0,1.0,-100.0
+Black Rock,R,2012,22.810000000000002,"Horror,Thriller",83,4.7,48903.0,1.0,-100.0
 Black Snake Moan,R,2006,9.4,"Drama,Music",116,6.9,60177.0,15.0,-37.33333333333333
 Black Swan,R,2010,106.95,"Drama,Thriller",108,8.0,683087.0,13.0,722.6923076923077
-Black and White,R,1999,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Action,Mystery,Thriller",97,5.2,0.0,10.0,-100.0
+Black and White,R,1999,22.810000000000002,"Action,Mystery,Thriller",97,5.2,48903.0,10.0,-100.0
 Black or White,PG-13,2014,21.57,Drama,121,6.6,11406.0,9.0,139.66666666666669
 Blackhat,R,2015,7.1,"Action,Crime,Thriller",133,5.4,50972.0,70.0,-89.85714285714286
 Blade,R,1998,70.09,"Action,Horror,Sci-Fi",120,7.1,238710.0,45.0,55.75555555555556
@@ -938,18 +443,7 @@ Blades of Glory,PG-13,2007,118.59,"Comedy,Sport",93,6.3,154756.0,61.0,94.4098360
 Blair Witch,R,2016,20.78,"Horror,Mystery,Thriller",89,5.0,39892.0,10.0,107.80000000000001
 Blast from the Past,PG-13,1999,26.49,"Comedy,Drama,Romance",112,6.6,58276.0,35.0,-24.31428571428572
 Bleed for This,R,2016,4.85,"Biography,Drama,Sport",117,6.8,24210.0,16.0,-69.6875
-Bleeding Hearts,R,1994,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Drama,Romance",92,5.4,0.0,1.2,-100.0
+Bleeding Hearts,R,1994,22.810000000000002,"Drama,Romance",92,5.4,48903.0,1.2,-100.0
 Blended,PG-13,2014,46.29,"Comedy,Romance",117,6.5,114867.0,45.0,2.866666666666665
 Bless the Child,R,2000,29.37,"Crime,Drama,Horror",107,5.1,13684.0,40.0,-26.575
 Blinded by the Light,PG-13,2019,11.9,"Comedy,Drama,Music",118,6.9,17220.0,15.0,-20.666666666666664
@@ -957,18 +451,7 @@ Blockers,R,2018,60.31,Comedy,102,6.2,68230.0,21.0,187.1904761904762
 Blood Diamond,R,2006,57.37,"Adventure,Drama,Thriller",143,8.0,487167.0,100.0,-42.63
 Blood Done Sign My Name,PG-13,2010,0.08,Drama,128,6.6,513.0,10.0,-99.2
 Blood Feast,R,2016,0.01,Horror,90,4.6,724.0,1.2,-99.16666666666667
-Blood Ties,R,1991,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Horror,Thriller",84,5.3,0.0,26.0,-100.0
+Blood Ties,R,1991,22.810000000000002,"Horror,Thriller",84,5.3,48903.0,26.0,-100.0
 Blood Ties,R,2013,0.04,"Action,Crime,Drama",127,6.5,18610.0,26.0,-99.84615384615385
 Blood Work,R,2002,26.2,"Action,Crime,Drama",110,6.4,41191.0,50.0,-47.6
 Blood and Chocolate,PG-13,2007,3.53,"Drama,Fantasy,Horror",98,5.5,17030.0,15.0,-76.46666666666667
@@ -1004,36 +487,14 @@ Boyhood,R,2014,25.38,Drama,165,7.9,329345.0,4.0,534.5
 Boys Don't Cry,R,1999,11.53,"Biography,Crime,Drama",118,7.5,90700.0,2.0,476.49999999999994
 Boys and Girls,PG-13,2000,20.63,"Comedy,Drama,Romance",94,5.4,15744.0,16.0,28.937499999999993
 Boyz n the Hood,R,1991,57.5,"Crime,Drama",112,7.7,120742.0,6.5,784.6153846153845
-Braid,R,2018,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Horror,Mystery,Thriller",82,5.3,0.0,1.66,-100.0
+Braid,R,2018,22.810000000000002,"Horror,Mystery,Thriller",82,5.3,48903.0,1.66,-100.0
 Brave,PG,2012,237.28,"Animation,Adventure,Comedy",93,7.1,362324.0,185.0,28.259459459459464
 Braveheart,R,1995,75.6,"Biography,Drama,History",178,8.3,937531.0,72.0,4.999999999999992
 Breakdown,R,1997,50.13,"Crime,Drama,Mystery",93,6.9,47642.0,36.0,39.25000000000001
 Breakfast of Champions,R,1999,0.18,Comedy,110,4.6,7492.0,12.0,-98.5
 Breakin' All the Rules,PG-13,2004,11.83,"Comedy,Romance",85,5.7,5788.0,9.0,31.444444444444446
 Breaking In,PG-13,2018,46.38,"Action,Crime,Drama",88,5.4,13239.0,6.0,673.0
-Breathless,R,2012,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Comedy,Thriller",92,5.1,0.0,7.0,-100.0
+Breathless,R,2012,22.810000000000002,"Comedy,Thriller",92,5.1,48903.0,7.0,-100.0
 Brick,R,2005,2.06,"Action,Crime,Drama",110,7.3,99450.0,0.45,357.77777777777777
 Brick Mansions,PG-13,2014,20.29,"Action,Crime,Thriller",90,5.7,39117.0,28.0,-27.535714285714292
 Bride & Prejudice,PG-13,2004,6.6,"Comedy,Drama,Musical",122,6.1,19628.0,7.0,-5.71428571428572
@@ -1065,45 +526,12 @@ Bruce Almighty,PG-13,2003,242.83,"Comedy,Drama,Fantasy",101,6.8,363940.0,81.0,19
 Bubba Ho-Tep,R,2002,2.0,"Comedy,Fantasy,Horror",92,7.0,44826.0,1.0,100.0
 Bubble,R,2005,0.15,"Crime,Drama,Mystery",73,6.5,7616.0,1.6,-90.62500000000001
 Bubble Boy,PG-13,2001,5.0,"Adventure,Comedy,Romance",84,5.6,29608.0,13.0,-61.53846153846154
-Bucky and the Squirrels,PG,2015,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Comedy,82,4.4,0.0,0.5,-100.0
+Bucky and the Squirrels,PG,2015,22.810000000000002,Comedy,82,4.4,48903.0,0.5,-100.0
 Buffalo '66,R,1998,2.38,"Comedy,Drama,Romance",110,7.5,46119.0,1.5,58.66666666666666
-Buffalo Soldiers,G,1997,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Drama,History,Western",100,6.2,0.0,15.0,-100.0
+Buffalo Soldiers,G,1997,22.810000000000002,"Drama,History,Western",100,6.2,48903.0,15.0,-100.0
 Buffy the Vampire Slayer,PG-13,1992,16.62,"Action,Comedy,Fantasy",86,5.7,38681.0,7.0,137.42857142857144
 Bug,R,2006,7.01,"Drama,Horror,Thriller",102,6.1,32349.0,4.0,75.25
-Bug,PG-13,2017,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Drama,Mystery,Thriller",95,4.5,0.0,4.0,-100.0
+Bug,PG-13,2017,22.810000000000002,"Drama,Mystery,Thriller",95,4.5,48903.0,4.0,-100.0
 Bullet to the Head,R,2012,9.48,"Action,Crime,Thriller",92,5.7,46690.0,55.0,-82.76363636363637
 Bulletproof Monk,PG-13,2003,23.02,"Action,Comedy,Fantasy",104,5.5,47140.0,52.0,-55.730769230769226
 Bullets Over Broadway,R,1994,13.38,"Comedy,Crime",98,7.4,34648.0,20.0,-33.099999999999994
@@ -1111,83 +539,17 @@ Bully,R,2001,1.54,"Biography,Crime,Drama",108,6.9,33933.0,2.1,-26.66666666666666
 Bully,PG-13,2011,4.04,Documentary,98,7.3,9723.0,2.1,92.38095238095238
 Bulworth,R,1998,26.53,"Comedy,Drama,Romance",108,6.8,24350.0,30.0,-11.566666666666663
 Bumblebee,PG-13,2018,127.2,"Action,Adventure,Sci-Fi",114,6.8,128407.0,102.0,24.70588235294118
-Buried,R,2011,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Thriller,95,7.0,0.0,1.98765,-100.0
+Buried,R,2011,22.810000000000002,Thriller,95,7.0,48903.0,1.98765,-100.0
 Burlesque,PG-13,2010,39.44,"Drama,Music,Musical",119,6.4,76262.0,55.0,-28.290909090909093
-Burn,R,2019,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Thriller,88,5.7,0.0,0.225,-100.0
+Burn,R,2019,22.810000000000002,Thriller,88,5.7,48903.0,0.225,-100.0
 Burn After Reading,R,2008,60.36,"Comedy,Crime,Drama",96,7.0,302020.0,37.0,63.13513513513514
-Burn Your Maps,PG-13,2016,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Adventure,Comedy,Drama",102,6.6,0.0,8.0,-100.0
+Burn Your Maps,PG-13,2016,22.810000000000002,"Adventure,Comedy,Drama",102,6.6,48903.0,8.0,-100.0
 Burnt,R,2015,13.65,"Comedy,Drama",101,6.6,103151.0,20.0,-31.75
 But I'm a Cheerleader,R,1999,2.21,"Comedy,Drama,Romance",85,6.6,25328.0,1.2,84.16666666666667
-Butterfly,R,2000,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Documentary,79,7.2,76.0,0.25,-100.0
+Butterfly,R,2000,22.810000000000002,Documentary,79,7.2,76.0,0.25,-100.0
 By the Sea,R,2015,0.53,"Drama,Romance",122,5.3,17967.0,20.0,-97.35
-Ca$h,R,2010,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Crime,Thriller",108,6.0,0.0,13.7,-100.0
-Ca$h,R,2010,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Crime,Thriller",108,6.0,0.0,7.0,-100.0
+Ca$h,R,2010,22.810000000000002,"Crime,Thriller",108,6.0,48903.0,13.7,-100.0
+Ca$h,R,2010,22.810000000000002,"Crime,Thriller",108,6.0,48903.0,7.0,-100.0
 Cabin Fever,R,2002,21.16,"Drama,Horror",93,5.7,72780.0,1.5,1310.6666666666667
 Cadillac Records,R,2008,8.2,"Biography,Drama,Music",109,7.0,19658.0,12.0,-31.66666666666667
 Calendar Girls,PG-13,2003,31.04,"Comedy,Drama",108,6.9,22739.0,10.0,210.4
@@ -1205,32 +567,10 @@ Captain Corelli's Mandolin,R,2001,25.54,"Drama,Music,Romance",131,5.9,32427.0,57
 Captain Marvel,PG-13,2019,426.83,"Action,Adventure,Sci-Fi",123,6.9,417917.0,175.0,143.90285714285713
 Captain Phillips,PG-13,2013,107.1,"Biography,Crime,Drama",134,7.8,409673.0,55.0,94.72727272727272
 Captain Underpants: The First Epic Movie,PG,2017,73.92,"Animation,Action,Comedy",89,6.2,24155.0,38.0,94.52631578947368
-Captive,R,2008,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Thriller,45,7.7,0.0,2.0,-100.0
+Captive,R,2008,22.810000000000002,Thriller,45,7.7,48903.0,2.0,-100.0
 Captive,PG-13,2015,2.56,"Action,Crime,Drama",97,5.4,6330.0,2.0,28.000000000000004
 Captive State,PG-13,2019,5.96,"Action,Adventure,Drama",109,6.0,45451.0,25.0,-76.16
-Cargo,R,2011,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Drama,85,5.1,0.0,4.2,-100.0
+Cargo,R,2011,22.810000000000002,Drama,85,5.1,48903.0,4.2,-100.0
 Carnage,R,2011,2.55,"Comedy,Drama",80,7.2,116892.0,25.0,-89.8
 Carol,R,2015,12.71,"Drama,Romance",118,7.2,110727.0,11.8,7.711864406779662
 Carrie,R,2013,35.27,"Drama,Horror",100,5.9,130705.0,30.0,17.566666666666677
@@ -1250,18 +590,7 @@ Catch a Fire,PG-13,2006,4.29,"Biography,Drama,History",101,6.7,9903.0,14.0,-69.3
 Cats & Dogs,PG,2001,93.39,"Action,Comedy,Family",87,5.1,55371.0,60.0,55.65
 Cats & Dogs: The Revenge of Kitty Galore,PG,2010,43.59,"Action,Comedy,Family",82,4.3,13571.0,85.0,-48.71764705882352
 Cats Don't Dance,G,1997,3.56,"Animation,Comedy,Family",75,6.9,6876.0,32.0,-88.875
-Catwoman,PG-13,2011,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Animation,Short,Action",15,6.9,0.0,100.0,-100.0
+Catwoman,PG-13,2011,22.810000000000002,"Animation,Short,Action",15,6.9,48903.0,100.0,-100.0
 Cecil B. Demented,R,2000,1.28,"Comedy,Crime,Thriller",87,6.3,13332.0,10.0,-87.20000000000002
 Cedar Rapids,R,2011,6.86,Comedy,87,6.2,35697.0,10.0,-31.399999999999995
 Celebrity,R,1998,5.03,"Comedy,Drama",113,6.3,23730.0,12.0,-58.08333333333333
@@ -1271,30 +600,8 @@ Central Intelligence,PG-13,2016,127.44,"Action,Comedy,Crime",107,6.3,153691.0,50
 Centurion,R,2010,0.12,"Action,Drama,History",97,6.4,76646.0,15.0,-99.20000000000002
 Chain Letter,R,2009,0.14,Horror,96,4.1,5020.0,3.0,-95.33333333333333
 Chain Reaction,PG-13,1996,20.55,"Action,Drama,Sci-Fi",107,5.7,47077.0,55.0,-62.63636363636365
-Chain of Command,R,1994,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Action,Thriller",97,4.2,0.0,4.0,-100.0
-Chain of Command,R,2000,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Action,Adventure,Thriller",96,4.6,0.0,4.0,-100.0
+Chain of Command,R,1994,22.810000000000002,"Action,Thriller",97,4.2,48903.0,4.0,-100.0
+Chain of Command,R,2000,22.810000000000002,"Action,Adventure,Thriller",96,4.6,48903.0,4.0,-100.0
 Changeling,R,2008,35.74,"Biography,Crime,Drama",141,7.7,232310.0,55.0,-35.018181818181816
 Changing Lanes,R,2002,66.82,"Drama,Thriller",98,6.4,65814.0,45.0,48.48888888888887
 Chappie,R,2015,31.57,"Action,Crime,Drama",120,6.8,224930.0,49.0,-35.57142857142857
@@ -1303,18 +610,7 @@ Charlie St. Cloud,PG-13,2010,31.16,"Drama,Fantasy,Romance",99,6.4,57553.0,44.0,-
 Charlie Wilson's War,R,2007,66.66,"Biography,Comedy,Drama",102,7.0,108012.0,75.0,-11.120000000000005
 Charlie and the Chocolate Factory,PG,2005,206.46,"Adventure,Comedy,Family",115,6.6,414233.0,150.0,37.64000000000001
 Charlie's Angels,PG-13,2000,125.31,"Action,Adventure,Comedy",98,5.5,172784.0,90.0,39.233333333333334
-Charlie's Angels,PG-13,2019,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Action,Adventure,Comedy",118,4.7,0.0,90.0,-100.0
+Charlie's Angels,PG-13,2019,22.810000000000002,"Action,Adventure,Comedy",118,4.7,48903.0,90.0,-100.0
 Charlie's Angels: Full Throttle,PG-13,2003,100.83,"Action,Adventure,Comedy",106,4.9,118769.0,120.0,-15.975
 Charlotte's Web,G,2006,82.99,"Adventure,Comedy,Family",97,6.3,35946.0,82.5,0.5939393939393878
 Charly,PG,2002,0.81,"Comedy,Drama,Romance",103,6.6,880.0,0.95,-14.736842105263149
@@ -1326,115 +622,27 @@ Cheaper by the Dozen,PG,2003,138.61,"Comedy,Family",98,5.9,91820.0,40.0,246.525
 Cheaper by the Dozen 2,PG,2005,82.57,"Adventure,Comedy,Family",94,5.5,53372.0,60.0,37.61666666666665
 Chernobyl Diaries,R,2012,18.12,"Horror,Mystery,Thriller",86,5.0,63000.0,1.0,1712.0
 Chicago,PG-13,2002,170.69,"Comedy,Crime,Musical",113,7.1,211495.0,30.0,468.96666666666664
-Chicago Overcoat,R,2009,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Action,Adventure,Crime",94,6.0,0.0,3.0,-100.0
+Chicago Overcoat,R,2009,22.810000000000002,"Action,Adventure,Crime",94,6.0,48903.0,3.0,-100.0
 Chicken Little,G,2005,135.39,"Animation,Adventure,Comedy",81,5.7,83767.0,150.0,-9.740000000000009
 Chicken Run,G,2000,106.83,"Animation,Adventure,Comedy",84,7.0,173197.0,42.0,154.35714285714286
 Child 44,R,2015,1.21,"Crime,Drama,History",137,6.5,63854.0,50.0,-97.58
 Child's Play,R,2019,29.21,"Horror,Sci-Fi",90,5.8,39957.0,9.0,224.55555555555557
 Child's Play 2,R,1990,28.5,"Horror,Thriller",84,5.8,43571.0,13.0,119.23076923076923
-Childless,R,2008,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Drama,90,5.6,0.0,1.0,-100.0
+Childless,R,2008,22.810000000000002,Drama,90,5.6,48903.0,1.0,-100.0
 Children of Men,R,2006,35.55,"Drama,Sci-Fi,Thriller",109,7.9,453250.0,76.0,-53.22368421052632
 Chill Factor,R,1999,11.23,"Action,Adventure,Comedy",102,5.2,9120.0,34.0,-66.97058823529412
 Chloe,R,2009,3.07,"Drama,Mystery,Romance",96,6.3,68025.0,13.0,-76.38461538461539
 Chocolat,PG-13,2000,71.51,"Drama,Romance",121,7.2,174684.0,25.0,186.04000000000002
-Choke,R,2001,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Thriller,89,4.1,0.0,3.4,-100.0
+Choke,R,2001,22.810000000000002,Thriller,89,4.1,48903.0,3.4,-100.0
 Choke,R,2008,2.93,"Comedy,Drama",92,6.4,31175.0,3.4,-13.823529411764698
 Christmas with the Kranks,PG,2004,73.78,"Comedy,Family",99,5.4,40872.0,50.0,47.56
 Christopher Robin,PG,2018,99.22,"Comedy,Drama,Family",104,7.3,65120.0,75.0,32.29333333333333
 Chronicle,PG-13,2012,64.58,"Drama,Sci-Fi,Thriller",84,7.0,236569.0,12.0,438.1666666666667
-Churchill,PG,2015,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Biography,65,6.1,0.0,10.0,-100.0
-Cinderella,G,1997,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Family,Fantasy,Musical",88,6.6,0.0,95.0,-100.0
-Cinderella,G,1997,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Family,Fantasy,Musical",88,6.6,0.0,2.9,-100.0
-Cinderella,G,1990,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Animation,Short,Family",26,6.0,0.0,95.0,-100.0
-Cinderella,G,1990,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Animation,Short,Family",26,6.0,0.0,2.9,-100.0
+Churchill,PG,2015,22.810000000000002,Biography,65,6.1,48903.0,10.0,-100.0
+Cinderella,G,1997,22.810000000000002,"Family,Fantasy,Musical",88,6.6,48903.0,95.0,-100.0
+Cinderella,G,1997,22.810000000000002,"Family,Fantasy,Musical",88,6.6,48903.0,2.9,-100.0
+Cinderella,G,1990,22.810000000000002,"Animation,Short,Family",26,6.0,48903.0,95.0,-100.0
+Cinderella,G,1990,22.810000000000002,"Animation,Short,Family",26,6.0,48903.0,2.9,-100.0
 Cinderella,PG,2015,201.15,"Drama,Family,Fantasy",105,6.9,154539.0,95.0,111.73684210526315
 Cinderella,PG,2015,201.15,"Drama,Family,Fantasy",105,6.9,154539.0,2.9,6836.206896551724
 Cinderella Man,PG-13,2005,61.65,"Biography,Drama,History",144,8.0,172865.0,88.0,-29.94318181818182
@@ -1454,18 +662,7 @@ Clash of the Titans,PG-13,2010,163.21,"Action,Adventure,Fantasy",106,5.8,266143.
 Clay Pigeons,R,1998,1.79,"Comedy,Crime",104,6.6,10507.0,8.0,-77.625
 Clear and Present Danger,PG-13,1994,122.19,"Action,Crime,Drama",141,6.9,87010.0,62.0,97.08064516129032
 Clerks,R,1994,3.15,Comedy,92,7.7,208593.0,0.027,11566.666666666666
-Clerks,R,2000–2001,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Animation,Comedy",22,7.4,0.0,0.027,-100.0
+Clerks,R,2000–2001,22.810000000000002,"Animation,Comedy",22,7.4,48903.0,0.027,-100.0
 Clerks II,R,2006,24.14,Comedy,97,7.3,128544.0,5.0,382.8
 Click,PG-13,2006,137.36,"Comedy,Drama,Fantasy",107,6.4,298908.0,82.5,66.49696969696971
 Cliffhanger,R,1993,84.05,"Action,Adventure,Thriller",113,6.4,116953.0,65.0,29.3076923076923
@@ -1480,18 +677,7 @@ Clueless,PG-13,1995,56.63,"Comedy,Romance",97,6.8,174858.0,13.7,313.357664233576
 Coach Carter,PG-13,2005,67.26,"Biography,Drama,Sport",136,7.3,122536.0,45.0,49.466666666666676
 Coco,PG,2017,209.73,"Animation,Adventure,Family",105,8.4,346411.0,175.0,19.84571428571428
 Code Name: The Cleaner,PG-13,2007,8.1,"Action,Comedy,Crime",84,4.6,11145.0,20.0,-59.5
-Code of Honor,R,2016,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Action,Crime,Thriller",106,4.2,0.0,8.0,-100.0
+Code of Honor,R,2016,22.810000000000002,"Action,Crime,Thriller",106,4.2,48903.0,8.0,-100.0
 Cold Mountain,R,2003,95.64,"Adventure,Drama,History",154,7.2,137492.0,80.0,19.55
 Cold Pursuit,R,2019,32.14,"Action,Crime,Drama",119,6.2,52870.0,60.0,-46.43333333333333
 Collateral,R,2004,101.01,"Crime,Drama,Thriller",120,7.5,350439.0,60.0,68.35000000000001
@@ -1515,46 +701,13 @@ Congo,PG-13,1995,81.02,"Action,Adventure,Mystery",109,5.3,41269.0,50.0,62.039999
 Conspiracy Theory,R,1997,75.98,"Action,Mystery,Thriller",135,6.7,91691.0,80.0,-5.024999999999995
 Constantine,R,2005,75.98,"Action,Fantasy,Horror",121,7.0,297120.0,75.0,1.306666666666672
 Contact,PG,1997,100.92,"Drama,Mystery,Sci-Fi",150,7.4,247694.0,90.0,12.133333333333335
-Contagion,PG-13,2002,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Drama,Sci-Fi",95,4.0,0.0,60.0,-100.0
+Contagion,PG-13,2002,22.810000000000002,"Drama,Sci-Fi",95,4.0,48903.0,60.0,-100.0
 Contagion,PG-13,2011,75.66,"Action,Drama,Thriller",106,6.7,271638.0,60.0,26.099999999999994
 Contraband,R,2012,66.53,"Action,Crime,Drama",109,6.5,114978.0,25.0,166.12
-Control,R,2004,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Action,Crime,Thriller",104,6.2,0.0,6.4,-100.0
+Control,R,2004,22.810000000000002,"Action,Crime,Thriller",104,6.2,48903.0,6.4,-100.0
 Control,R,2007,0.87,"Biography,Drama,Music",122,7.7,60431.0,6.4,-86.40625
 Conversations with Other Women,R,2005,0.37,"Comedy,Drama,Romance",84,7.0,11846.0,0.45,-17.777777777777782
-Conviction,R,2002,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Drama,Thriller",99,6.4,0.0,12.5,-100.0
+Conviction,R,2002,22.810000000000002,"Drama,Thriller",99,6.4,48903.0,12.5,-100.0
 Conviction,R,2010,6.78,"Biography,Crime,Drama",107,7.2,41454.0,12.5,-45.76
 Cool Runnings,PG,1993,68.86,"Adventure,Comedy,Family",98,7.0,89919.0,14.0,391.85714285714283
 Cop Car,R,2015,0.13,"Crime,Thriller",88,6.3,29438.0,5.0,-97.39999999999999
@@ -1622,118 +775,30 @@ Dave Chappelle's Block Party,R,2005,11.69,"Documentary,Comedy,Music",103,7.2,871
 Dawn of the Dead,R,2004,59.02,"Action,Horror",101,7.3,229613.0,28.0,110.78571428571429
 Dawn of the Dead,R,2004,59.02,"Action,Horror",101,7.3,229613.0,1.5,3834.666666666667
 Dawn of the Planet of the Apes,PG-13,2014,208.55,"Action,Adventure,Drama",130,7.6,405209.0,170.0,22.6764705882353
-Day of the Dead,R,2008,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Action,Horror,Thriller",86,4.5,0.0,18.0,-100.0
-Day of the Dead,R,2008,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Action,Horror,Thriller",86,4.5,0.0,3.5,-100.0
+Day of the Dead,R,2008,22.810000000000002,"Action,Horror,Thriller",86,4.5,48903.0,18.0,-100.0
+Day of the Dead,R,2008,22.810000000000002,"Action,Horror,Thriller",86,4.5,48903.0,3.5,-100.0
 Daybreakers,R,2009,30.1,"Action,Fantasy,Horror",98,6.4,120482.0,20.0,50.500000000000014
 Daylight,PG-13,1996,33.02,"Action,Adventure,Drama",114,5.9,64719.0,80.0,-58.724999999999994
 Days of Thunder,PG-13,1990,82.67,"Action,Drama,Sport",107,6.0,76858.0,60.0,37.78333333333334
 Dazed and Confused,R,1993,7.99,Comedy,102,7.6,160033.0,6.9,15.797101449275358
 De-Lovely,PG-13,2004,13.34,"Biography,Drama,Music",125,6.6,10713.0,15.0,-11.066666666666668
-Dead Like Me: Life After Death,R,2009,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Comedy,Drama,Fantasy",87,6.1,0.0,5.0,-100.0
+Dead Like Me: Life After Death,R,2009,22.810000000000002,"Comedy,Drama,Fantasy",87,6.1,48903.0,5.0,-100.0
 Dead Man Down,R,2013,10.88,"Action,Crime,Drama",118,6.5,63020.0,30.0,-63.73333333333332
 Dead Man Walking,R,1995,39.39,"Crime,Drama",122,7.5,86651.0,11.0,258.0909090909091
 Dead Man on Campus,R,1998,15.06,Comedy,96,6.1,13308.0,14.0,7.571428571428575
-Dead Silence,R,1997,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Action,Drama,Thriller",105,6.1,0.0,20.0,-100.0
-Dead Silence,R,1991,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Comedy,95,6.1,0.0,20.0,-100.0
+Dead Silence,R,1997,22.810000000000002,"Action,Drama,Thriller",105,6.1,48903.0,20.0,-100.0
+Dead Silence,R,1991,22.810000000000002,Comedy,95,6.1,48903.0,20.0,-100.0
 Dead Silence,R,2007,16.81,"Horror,Mystery,Thriller",89,6.2,82961.0,20.0,-15.950000000000006
 Deadfall,R,1993,0.02,"Crime,Drama",98,4.0,2826.0,6.0,-99.66666666666667
 Deadfall,R,2012,0.07,"Crime,Drama,Thriller",95,6.3,37496.0,6.0,-98.83333333333333
-Deadline,R,2009,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Drama,Horror,Thriller",85,4.6,0.0,1.8,-100.0
-Deadline,PG-13,2012,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Drama,Mystery,Thriller",95,4.7,0.0,1.8,-100.0
+Deadline,R,2009,22.810000000000002,"Drama,Horror,Thriller",85,4.6,48903.0,1.8,-100.0
+Deadline,PG-13,2012,22.810000000000002,"Drama,Mystery,Thriller",95,4.7,48903.0,1.8,-100.0
 Deadpool,R,2016,363.07,"Action,Adventure,Comedy",108,8.0,877025.0,58.0,525.9827586206897
 Deadpool 2,R,2018,324.59,"Action,Adventure,Comedy",119,7.7,456034.0,110.0,195.08181818181816
 Dear John,PG-13,2010,80.01,"Drama,Romance,War",108,6.3,135588.0,25.0,220.04000000000002
 Dear White People,R,2014,4.4,"Comedy,Drama,Romance",108,6.1,23989.0,1.25,252.00000000000006
 Death Becomes Her,PG-13,1992,58.42,"Comedy,Fantasy,Horror",104,6.6,99860.0,55.0,6.218181818181821
-Death Calls,R,2010,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Action,Adventure,Mystery",90,4.6,0.0,0.29,-100.0
+Death Calls,R,2010,22.810000000000002,"Action,Adventure,Mystery",90,4.6,48903.0,0.29,-100.0
 Death Race,R,2008,36.32,"Action,Sci-Fi,Thriller",105,6.4,194816.0,65.0,-44.12307692307692
 Death Sentence,R,2007,9.53,"Action,Crime,Drama",105,6.8,67932.0,20.0,-52.35000000000001
 Death Wish,R,2018,34.02,"Action,Crime,Drama",107,6.4,60543.0,30.0,13.40000000000001
@@ -1742,18 +807,7 @@ Death at a Funeral,R,2007,8.58,Comedy,90,7.4,107318.0,20.0,-57.099999999999994
 Death at a Funeral,R,2010,42.74,Comedy,92,5.7,45872.0,21.0,103.52380952380953
 Death at a Funeral,R,2010,42.74,Comedy,92,5.7,45872.0,20.0,113.7
 Death to Smoochy,R,2002,8.36,"Comedy,Crime,Drama",109,6.4,38253.0,50.0,-83.28
-Deception,R,2003,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Drama,Mystery,Romance",88,5.2,0.0,25.0,-100.0
+Deception,R,2003,22.810000000000002,"Drama,Mystery,Romance",88,5.2,48903.0,25.0,-100.0
 Deception,R,2008,4.6,"Crime,Drama,Mystery",107,6.1,37242.0,25.0,-81.6
 Deck the Halls,PG,2006,35.09,"Comedy,Family",93,5.0,21959.0,51.0,-31.19607843137254
 Deconstructing Harry,R,1997,10.69,Comedy,96,7.4,41539.0,20.0,-46.550000000000004
@@ -1767,123 +821,24 @@ Defiance,R,2008,28.64,"Action,Drama,History",137,7.2,135454.0,50.0,-42.72
 Delgo,PG,2008,0.51,"Animation,Adventure,Comedy",94,4.3,2835.0,40.0,-98.72500000000001
 Deliver Us from Evil,R,2014,30.58,"Horror,Mystery,Thriller",118,6.2,68878.0,30.0,1.9333333333333276
 Delivery Man,PG-13,2013,30.66,"Comedy,Drama",105,6.4,73741.0,22.0,39.36363636363636
-Demonic,R,2015,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Horror,Mystery,Thriller",83,5.3,0.0,3.0,-100.0
+Demonic,R,2015,22.810000000000002,"Horror,Mystery,Thriller",83,5.3,48903.0,3.0,-100.0
 Den of Thieves,R,2018,44.95,"Action,Crime,Drama",140,7.0,87477.0,30.0,49.83333333333334
-Denial,R,1990,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Drama,103,5.2,0.0,10.0,-100.0
-Denial,R,1998,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Comedy,Drama,Romance",93,5.4,0.0,10.0,-100.0
+Denial,R,1990,22.810000000000002,Drama,103,5.2,48903.0,10.0,-100.0
+Denial,R,1998,22.810000000000002,"Comedy,Drama,Romance",93,5.4,48903.0,10.0,-100.0
 Denial,PG-13,2016,4.07,"Biography,Drama",109,6.7,18604.0,10.0,-59.3
-Derailed,R,2002,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Action,Thriller",89,4.0,0.0,22.0,-100.0
+Derailed,R,2002,22.810000000000002,"Action,Thriller",89,4.0,48903.0,22.0,-100.0
 Derailed,R,2005,36.02,"Crime,Drama,Thriller",108,6.6,69904.0,22.0,63.72727272727274
 Desert Blue,R,1998,0.1,Drama,90,6.2,2141.0,5.0,-98.00000000000001
 Desperado,R,1995,25.63,"Action,Crime,Thriller",104,7.2,167894.0,7.0,266.14285714285717
 Despicable Me,PG,2010,251.51,"Animation,Comedy,Family",95,7.6,489034.0,69.0,264.50724637681157
 Despicable Me 2,PG,2013,368.06,"Animation,Adventure,Comedy",98,7.3,361728.0,76.0,384.2894736842105
 Despicable Me 3,PG,2017,264.62,"Animation,Adventure,Comedy",89,6.3,107580.0,75.0,252.82666666666665
-Destiny,PG,2011,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Short,Music",4,5.5,0.0,0.75,-100.0
+Destiny,PG,2011,22.810000000000002,"Short,Music",4,5.5,48903.0,0.75,-100.0
 Destroyer,R,2018,1.53,"Action,Crime,Drama",121,6.2,23139.0,9.0,-83.0
-Detention,R,1998,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Drama,86,6.3,0.0,10.0,-100.0
-Detention,R,1998,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Drama,83,6.3,0.0,10.0,-100.0
-Detention,R,2003,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Action,Drama,Thriller",98,4.1,0.0,10.0,-100.0
-Detention,R,2011,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Comedy,Horror,Mystery",93,5.7,0.0,10.0,-100.0
+Detention,R,1998,22.810000000000002,Drama,86,6.3,48903.0,10.0,-100.0
+Detention,R,1998,22.810000000000002,Drama,83,6.3,48903.0,10.0,-100.0
+Detention,R,2003,22.810000000000002,"Action,Drama,Thriller",98,4.1,48903.0,10.0,-100.0
+Detention,R,2011,22.810000000000002,"Comedy,Horror,Mystery",93,5.7,48903.0,10.0,-100.0
 Deterrence,R,1999,0.14,"Drama,Thriller",104,6.4,2537.0,0.8,-82.5
 Detroit Rock City,R,1999,4.22,"Comedy,Music",95,6.9,34767.0,16.0,-73.625
 Deuce Bigalow: European Gigolo,R,2005,22.26,Comedy,83,4.7,47708.0,22.0,1.181818181818189
@@ -1891,18 +846,7 @@ Deuce Bigalow: Male Gigolo,R,1999,65.54,"Comedy,Romance",88,5.7,69369.0,18.0,264
 Deuces Wild,R,2002,6.04,"Action,Crime,Drama",96,5.7,6881.0,10.0,-39.6
 Devil,PG-13,2010,33.58,"Horror,Mystery,Thriller",80,6.2,127034.0,10.0,235.79999999999995
 Devil's Due,R,2014,15.82,"Horror,Mystery,Thriller",89,4.1,15882.0,7.0,126.0
-Diamond Ruff,R,2015,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Action,82,4.2,0.0,0.5,-100.0
+Diamond Ruff,R,2015,22.810000000000002,Action,82,4.2,48903.0,0.5,-100.0
 Diamonds,PG-13,1999,0.08,"Comedy,Mystery",91,5.5,1476.0,11.9,-99.32773109243698
 Diary of a Mad Black Woman,PG-13,2005,50.63,"Comedy,Drama,Romance",116,5.8,13380.0,5.5,820.5454545454545
 Diary of a Wimpy Kid,PG,2010,64.0,"Comedy,Drama,Family",120,6.2,41376.0,15.0,326.6666666666667
@@ -1917,47 +861,14 @@ Did You Hear About the Morgans?,PG-13,2009,29.58,"Comedy,Drama,Romance",103,4.8,
 Die Another Day,PG-13,2002,160.94,"Action,Adventure,Thriller",133,6.1,200784.0,142.0,13.338028169014082
 Die Hard 2,R,1990,117.54,"Action,Thriller",124,7.2,328298.0,70.0,67.91428571428573
 Digimon: The Movie,PG,2000,9.63,"Animation,Action,Adventure",82,6.1,6678.0,5.0,92.60000000000002
-Diner,PG-13,1992,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Animation,Short,Comedy",6,6.7,0.0,5.0,-100.0
+Diner,PG-13,1992,22.810000000000002,"Animation,Short,Comedy",6,6.7,48903.0,5.0,-100.0
 Dinner Rush,R,2000,0.11,"Crime,Drama,Romance",99,7.3,4817.0,2.0,-94.5
 Dinner for Schmucks,PG-13,2010,73.03,Comedy,114,5.9,97594.0,69.0,5.840579710144929
 Dinosaur,PG,2000,137.75,"Animation,Adventure,Family",82,6.5,51601.0,127.5,8.03921568627451
 Dirty Grandpa,R,2016,35.59,Comedy,102,5.9,109932.0,11.5,209.47826086956525
-Dirty Work,R,1992,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Crime,84,4.5,0.0,13.0,-100.0
+Dirty Work,R,1992,22.810000000000002,Crime,84,4.5,48903.0,13.0,-100.0
 Dirty Work,PG-13,1998,9.98,Comedy,82,6.5,23238.0,13.0,-23.230769230769226
-Dirty Work,R,2006,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Thriller,97,5.3,0.0,13.0,-100.0
+Dirty Work,R,2006,22.810000000000002,Thriller,97,5.3,48903.0,13.0,-100.0
 Disclosure,R,1994,83.02,"Drama,Thriller",128,6.1,45212.0,55.0,50.94545454545454
 District 9,R,2009,115.65,"Action,Sci-Fi,Thriller",112,7.9,628139.0,30.0,285.5
 Disturbia,PG-13,2007,80.21,"Crime,Drama,Mystery",105,6.8,216110.0,20.0,301.04999999999995
@@ -1966,18 +877,7 @@ Divergent,PG-13,2014,150.95,"Action,Adventure,Mystery",139,6.7,416699.0,85.0,77.
 Django Unchained,R,2012,162.81,"Drama,Western",165,8.4,1308796.0,100.0,62.81
 Do You Believe?,PG-13,2015,12.99,Drama,120,6.1,6941.0,2.3,464.78260869565224
 Doctor Dolittle,PG-13,1998,144.16,"Comedy,Family,Fantasy",85,5.4,89895.0,71.5,101.62237762237763
-Doctor Strange,PG-13,2007,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Animation,Action,Fantasy",76,6.7,0.0,165.0,-100.0
+Doctor Strange,PG-13,2007,22.810000000000002,"Animation,Action,Fantasy",76,6.7,48903.0,165.0,-100.0
 Doctor Strange,PG-13,2016,232.64,"Action,Adventure,Fantasy",115,7.5,574082.0,165.0,40.993939393939385
 Dogma,R,1999,30.65,"Adventure,Comedy,Drama",130,7.3,205041.0,10.0,206.5
 Dogtown and Z-Boys,PG-13,2001,1.29,"Documentary,Sport",91,7.7,12026.0,0.4,222.5
@@ -1986,32 +886,10 @@ Dolphin Tale 2,PG,2014,42.02,"Drama,Family",107,6.4,8114.0,36.0,16.7222222222222
 Dom Hemingway,R,2013,0.52,"Comedy,Crime,Drama",93,6.2,25320.0,7.0,-92.57142857142858
 Domestic Disturbance,PG-13,2001,45.25,"Crime,Mystery,Thriller",89,5.6,24016.0,53.0,-14.622641509433961
 Domino,R,2005,10.17,"Action,Biography,Crime",127,5.9,63969.0,50.0,-79.66
-Domino,R,2019,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Action,Crime,Thriller",89,4.4,0.0,50.0,-100.0
+Domino,R,2019,22.810000000000002,"Action,Crime,Thriller",89,4.4,48903.0,50.0,-100.0
 Don Jon,R,2013,24.48,"Comedy,Drama,Romance",90,6.5,225063.0,5.5,345.0909090909091
 Don Juan DeMarco,PG-13,1994,22.15,"Comedy,Drama,Romance",97,6.7,47213.0,25.0,-11.400000000000006
-Don McKay,R,2009,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Drama,Mystery,Thriller",87,5.8,0.0,6.0,-100.0
+Don McKay,R,2009,22.810000000000002,"Drama,Mystery,Thriller",87,5.8,48903.0,6.0,-100.0
 Don't Be Afraid of the Dark,R,2010,24.04,"Fantasy,Horror,Thriller",99,5.6,46147.0,25.0,-3.840000000000003
 Donnie Brasco,R,1997,41.91,"Biography,Crime,Drama",127,7.7,269688.0,35.0,19.742857142857133
 Donnie Darko,R,2001,1.48,"Drama,Mystery,Sci-Fi",113,8.0,725484.0,4.5,-67.11111111111111
@@ -2019,58 +897,14 @@ Doom,R,2005,28.21,"Action,Horror,Sci-Fi",105,5.2,104611.0,70.0,-59.6999999999999
 Doomsday,R,2008,10.96,"Action,Sci-Fi,Thriller",105,6.0,71221.0,33.0,-66.78787878787878
 Dope,R,2015,17.47,"Comedy,Crime,Drama",103,7.2,79518.0,7.0,149.57142857142856
 Double Impact,R,1991,30.1,"Action,Crime",110,5.6,37086.0,16.0,88.12500000000001
-Double Jeopardy,R,1992,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Thriller,99,5.2,0.0,40.0,-100.0
-Double Jeopardy,R,1996,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Crime,Drama,Thriller",96,6.0,0.0,40.0,-100.0
+Double Jeopardy,R,1992,22.810000000000002,Thriller,99,5.2,48903.0,40.0,-100.0
+Double Jeopardy,R,1996,22.810000000000002,"Crime,Drama,Thriller",96,6.0,48903.0,40.0,-100.0
 Double Jeopardy,R,1999,116.74,"Crime,Drama,Mystery",105,6.5,70795.0,40.0,191.85
-Double Take,R,1997,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Thriller,86,4.4,0.0,24.0,-100.0
+Double Take,R,1997,22.810000000000002,Thriller,86,4.4,48903.0,24.0,-100.0
 Double Take,PG-13,2001,0.02,"Action,Comedy,Crime",88,5.5,7960.0,24.0,-99.91666666666667
 Doubt,PG-13,2008,33.42,"Drama,Mystery",104,7.5,119186.0,20.0,67.10000000000001
 Doug's 1st Movie,G,1999,19.42,"Animation,Adventure,Comedy",77,5.0,2920.0,5.0,288.40000000000003
-Down for Life,R,2009,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Drama,92,6.4,0.0,3.8,-100.0
+Down for Life,R,2009,22.810000000000002,Drama,92,6.4,48903.0,3.8,-100.0
 Down in the Valley,R,2005,0.57,"Drama,Romance,Thriller",114,6.4,17704.0,8.0,-92.875
 Down to Earth,PG-13,2001,64.19,"Comedy,Fantasy",87,5.5,21313.0,30.0,113.96666666666665
 Down to You,PG-13,2000,20.04,"Comedy,Drama,Romance",91,5.0,14139.0,9.0,122.66666666666666
@@ -2088,73 +922,18 @@ Dreaming of Joseph Lees,R,1999,0.01,"Romance,Drama",92,6.5,769.0,3.25,-99.692307
 Dredd,R,2012,13.41,"Action,Crime,Sci-Fi",95,7.1,245211.0,45.0,-70.19999999999999
 Drillbit Taylor,PG-13,2008,32.85,"Action,Comedy,Crime",110,5.7,57356.0,40.0,-17.874999999999996
 Drinking Buddies,R,2013,0.34,"Comedy,Drama,Romance",90,6.1,55242.0,0.5,-31.999999999999996
-Drive,R,1997,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Action,Adventure,Sci-Fi",100,6.8,0.0,15.0,-100.0
+Drive,R,1997,22.810000000000002,"Action,Adventure,Sci-Fi",100,6.8,48903.0,15.0,-100.0
 Drive,R,2011,35.06,"Crime,Drama",100,7.8,555265.0,15.0,133.73333333333335
 Drive Angry,R,2011,10.71,"Action,Fantasy,Thriller",104,5.4,93051.0,50.0,-78.58
 Drive Me Crazy,PG-13,1999,17.85,"Comedy,Drama,Romance",91,5.8,17775.0,8.0,123.12500000000001
 Driven,PG-13,2001,32.62,"Action,Drama,Sport",116,4.6,38779.0,72.0,-54.69444444444444
-Driven,R,2018,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Biography,Drama,Thriller",113,6.3,0.0,72.0,-100.0
-Drones,R,2010,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Comedy,98,6.3,0.0,0.5,-100.0
-Drop Dead Gorgeous,R,1991,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Thriller,90,5.5,0.0,10.0,-100.0
+Driven,R,2018,22.810000000000002,"Biography,Drama,Thriller",113,6.3,48903.0,72.0,-100.0
+Drones,R,2010,22.810000000000002,Comedy,98,6.3,48903.0,0.5,-100.0
+Drop Dead Gorgeous,R,1991,22.810000000000002,Thriller,90,5.5,48903.0,10.0,-100.0
 Drop Dead Gorgeous,PG-13,1999,10.56,"Comedy,Romance,Thriller",97,6.6,31727.0,10.0,5.600000000000005
 Drowning Mona,PG-13,2000,15.43,"Comedy,Crime,Mystery",96,5.7,12969.0,16.0,-3.5625000000000018
 Drumline,PG-13,2002,56.4,"Comedy,Drama,Romance",118,5.8,32501.0,20.0,181.99999999999997
-Drunk Wedding,R,2015,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Comedy,81,4.6,0.0,0.6,-100.0
+Drunk Wedding,R,2015,22.810000000000002,Comedy,81,4.6,48903.0,0.6,-100.0
 "Dude, Where's My Car?",PG-13,2000,46.73,"Comedy,Mystery,Sci-Fi",83,5.5,132565.0,13.0,259.46153846153845
 Due Date,R,2010,100.54,"Comedy,Drama",95,6.5,317393.0,65.0,54.67692307692309
 Duets,R,2000,4.73,"Comedy,Drama,Music",112,6.1,9035.0,16.0,-70.4375
@@ -2164,30 +943,8 @@ Dumbo,PG,2019,114.77,"Adventure,Family,Fantasy",112,6.3,61527.0,170.0,-32.488235
 Dunkirk,PG-13,2017,188.37,"Action,Drama,History",106,7.9,524164.0,150.0,25.580000000000002
 Duplex,PG-13,2003,9.69,Comedy,89,5.9,54423.0,40.0,-75.775
 Duplicity,PG-13,2009,40.57,"Comedy,Crime,Romance",125,6.1,46437.0,60.0,-32.38333333333333
-Dwegons and Leprechauns,PG,2014,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Animation,98,4.0,0.0,20.0,-100.0
-Dying of the Light,R,2014,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Action,Drama,Thriller",94,4.4,0.0,5.0,-100.0
+Dwegons and Leprechauns,PG,2014,22.810000000000002,Animation,98,4.0,48903.0,20.0,-100.0
+Dying of the Light,R,2014,22.810000000000002,"Action,Drama,Thriller",94,4.4,48903.0,5.0,-100.0
 Dylan Dog: Dead of Night,PG-13,2010,1.18,"Action,Comedy,Crime",107,5.1,14474.0,20.0,-94.10000000000001
 Eagle Eye,PG-13,2008,101.11,"Action,Mystery,Thriller",118,6.6,173136.0,80.0,26.387499999999996
 Early Man,PG,2018,8.27,"Animation,Adventure,Comedy",89,6.1,18384.0,50.0,-83.46000000000001
@@ -2198,54 +955,10 @@ Easy A,PG-13,2010,58.4,"Comedy,Drama,Romance",92,7.0,348533.0,8.0,630.0
 Eat Pray Love,PG-13,2010,80.57,"Biography,Drama,Romance",133,5.8,85376.0,60.0,34.283333333333324
 Ed Wood,R,1994,5.89,"Biography,Comedy,Drama",127,7.8,162462.0,18.0,-67.27777777777777
 Eddie the Eagle,PG-13,2015,15.79,"Biography,Comedy,Drama",106,7.4,82207.0,23.0,-31.347826086956527
-Eden,R,1993,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Drama,Romance",107,5.1,0.0,2.3,-100.0
-Eden,R,1996,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Drama,106,5.8,0.0,2.3,-100.0
-Eden,R,2012,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Crime,Drama",98,6.6,0.0,2.3,-100.0
-Eden,R,2014,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Drama,Thriller",90,4.7,0.0,2.3,-100.0
+Eden,R,1993,22.810000000000002,"Drama,Romance",107,5.1,48903.0,2.3,-100.0
+Eden,R,1996,22.810000000000002,Drama,106,5.8,48903.0,2.3,-100.0
+Eden,R,2012,22.810000000000002,"Crime,Drama",98,6.6,48903.0,2.3,-100.0
+Eden,R,2014,22.810000000000002,"Drama,Thriller",90,4.7,48903.0,2.3,-100.0
 Edge of Darkness,R,2010,43.31,"Action,Crime,Drama",117,6.6,88307.0,60.0,-27.816666666666663
 Edge of Tomorrow,PG-13,2014,100.21,"Action,Adventure,Sci-Fi",113,7.9,582686.0,178.0,-43.70224719101124
 Edmond,R,2005,0.13,"Drama,Thriller",82,6.2,11152.0,10.0,-98.69999999999999
@@ -2258,61 +971,17 @@ El Mariachi,R,1992,2.04,"Action,Crime,Thriller",81,6.9,62017.0,0.007,29042.85714
 Election,R,1999,14.88,"Comedy,Drama,Romance",103,7.2,87578.0,8.5,75.05882352941178
 Elektra,PG-13,2005,24.41,"Action,Adventure,Crime",97,4.7,85763.0,65.0,-62.44615384615385
 Elephant,R,2003,1.23,"Crime,Drama,Thriller",81,7.2,84093.0,3.0,-59.0
-Elephant,G,2020,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Documentary,Adventure,Biography",86,7.1,0.0,3.0,-100.0
+Elephant,G,2020,22.810000000000002,"Documentary,Adventure,Biography",86,7.1,48903.0,3.0,-100.0
 Elf,PG,2003,173.4,"Comedy,Family,Fantasy",97,6.9,210709.0,32.0,441.875
-Eli,R,2019,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Drama,Horror,Mystery",98,5.7,0.0,11.0,-100.0
+Eli,R,2019,22.810000000000002,"Drama,Horror,Mystery",98,5.7,48903.0,11.0,-100.0
 Elizabeth: The Golden Age,PG-13,2007,16.29,"Biography,Drama,History",114,6.8,65597.0,55.0,-70.38181818181818
 Elizabethtown,PG-13,2005,26.84,"Comedy,Drama,Romance",123,6.4,66420.0,54.0,-50.2962962962963
 Ella Enchanted,PG,2004,22.92,"Comedy,Family,Fantasy",96,6.3,60253.0,35.0,-34.514285714285705
-Elsa & Fred,PG-13,2014,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Comedy,Drama,Romance",93,6.4,0.0,10.0,-100.0
+Elsa & Fred,PG-13,2014,22.810000000000002,"Comedy,Drama,Romance",93,6.4,48903.0,10.0,-100.0
 Elysium,R,2013,93.05,"Action,Drama,Sci-Fi",109,6.6,412242.0,120.0,-22.458333333333336
 Emma,PG,1996,22.2,"Comedy,Drama,Romance",120,6.6,35017.0,5.9,276.2711864406779
 Empire,R,2002,17.5,"Crime,Drama,Thriller",90,6.0,7187.0,3.5,400.0
-Employee of the Month,R,2004,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Comedy,Drama",97,6.2,0.0,10.0,-100.0
+Employee of the Month,R,2004,22.810000000000002,"Comedy,Drama",97,6.2,48903.0,10.0,-100.0
 Employee of the Month,PG-13,2006,28.44,"Comedy,Romance",103,5.5,43826.0,10.0,184.4
 Enchanted,PG,2007,127.81,"Animation,Comedy,Family",107,7.0,173164.0,85.0,50.36470588235294
 End of Days,R,1999,66.89,"Action,Fantasy,Horror",122,5.8,103896.0,100.0,-33.11
@@ -2324,18 +993,7 @@ Enemy at the Gates,R,2001,51.4,"Drama,History,War",131,7.6,236955.0,85.0,-39.529
 Enemy of the State,R,1998,111.55,"Action,Thriller",132,7.3,222866.0,85.0,31.235294117647054
 Enough,PG-13,2002,40.01,"Crime,Drama,Thriller",115,5.8,38554.0,38.0,5.289473684210521
 Enough Said,PG-13,2013,17.54,"Comedy,Drama,Romance",93,7.0,57793.0,8.0,119.24999999999999
-Enter Nowhere,R,2011,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Mystery,Sci-Fi,Thriller",90,6.5,0.0,0.5,-100.0
+Enter Nowhere,R,2011,22.810000000000002,"Mystery,Sci-Fi,Thriller",90,6.5,48903.0,0.5,-100.0
 Entourage,R,2015,32.36,Comedy,104,6.6,74699.0,30.0,7.8666666666666645
 Entrapment,PG-13,1999,87.7,"Action,Crime,Romance",113,6.3,104763.0,66.0,32.87878787878788
 Envy,PG-13,2004,12.18,Comedy,99,4.8,29487.0,20.0,-39.1
@@ -2358,36 +1016,14 @@ Everybody Wants to Be Italian,R,2007,0.35,"Comedy,Romance",105,5.8,1755.0,3.0,-8
 Everybody's Fine,PG-13,2009,8.86,Drama,99,7.1,57947.0,20.0,-55.7
 Everyone Says I Love You,R,1996,9.71,"Comedy,Musical,Romance",101,6.7,34694.0,20.0,-51.449999999999996
 Everything Must Go,R,2010,2.71,Drama,97,6.4,47133.0,5.0,-45.800000000000004
-Everything Put Together,R,2000,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Drama,87,6.2,0.0,0.5,-100.0
+Everything Put Together,R,2000,22.810000000000002,Drama,87,6.2,48903.0,0.5,-100.0
 "Everything, Everything",PG-13,2017,34.0,"Drama,Romance",96,6.4,31164.0,10.0,240.0
 Evil Dead,R,2013,54.24,"Fantasy,Horror,Thriller",91,6.5,153299.0,17.0,219.0588235294118
 Evita,PG,1996,50.05,"Biography,Drama,History",135,6.3,33353.0,55.0,-9.000000000000005
 Evolution,PG-13,2001,38.35,"Comedy,Sci-Fi",101,6.1,117570.0,80.0,-52.0625
 Excessive Force,R,1993,1.15,Action,87,5.4,1104.0,13.0,-91.15384615384615
 Executive Decision,R,1996,56.57,"Action,Adventure,Thriller",133,6.4,49422.0,55.0,2.854545454545455
-Exeter,R,2015,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Horror,Mystery,Thriller",91,4.5,0.0,0.025,-100.0
+Exeter,R,2015,22.810000000000002,"Horror,Mystery,Thriller",91,4.5,48903.0,0.025,-100.0
 Exit Wounds,R,2001,51.76,"Action,Crime,Thriller",101,5.6,31523.0,33.0,56.84848484848484
 Exodus: Gods and Kings,PG-13,2014,65.01,"Action,Drama,Fantasy",150,6.0,156895.0,140.0,-53.56428571428571
 Exorcist: The Beginning,R,2004,41.82,"Horror,Mystery,Thriller",114,5.1,32798.0,78.0,-46.38461538461539
@@ -2417,75 +1053,20 @@ Fantastic Four,PG-13,2005,154.7,"Action,Adventure,Fantasy",106,5.7,306846.0,87.5
 Fantastic Four,PG-13,2015,56.12,"Action,Adventure,Sci-Fi",100,4.3,148209.0,120.0,-53.233333333333334
 Fantastic Four,PG-13,2015,56.12,"Action,Adventure,Sci-Fi",100,4.3,148209.0,87.5,-35.862857142857145
 Fantastic Mr. Fox,PG,2009,21.0,"Animation,Adventure,Comedy",87,7.9,191416.0,40.0,-47.5
-Farce of the Penguins,R,2006,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Animation,Comedy",80,4.1,0.0,5.0,-100.0
+Farce of the Penguins,R,2006,22.810000000000002,"Animation,Comedy",80,4.1,48903.0,5.0,-100.0
 Fargo,R,1996,24.61,"Crime,Drama,Thriller",98,8.1,597317.0,7.0,251.57142857142856
 Fast & Furious,PG-13,2009,155.06,"Action,Thriller",107,6.6,256550.0,85.0,82.4235294117647
 Furious 7,PG-13,2015,353.01,"Action,Adventure,Thriller",137,7.1,351957.0,190.0,85.79473684210525
 Fast Five,PG-13,2011,209.84,"Action,Adventure,Crime",130,7.3,345756.0,125.0,67.872
-Faster,PG-13,2003,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Documentary,103,7.8,0.0,24.0,-100.0
+Faster,PG-13,2003,22.810000000000002,Documentary,103,7.8,48903.0,24.0,-100.0
 Faster,R,2010,23.24,"Action,Crime,Drama",98,6.4,98137.0,24.0,-3.166666666666673
 Fat Albert,PG,2004,48.12,"Animation,Comedy,Family",93,4.3,11071.0,45.0,6.933333333333327
 Father Figures,R,2017,17.5,"Comedy,Drama",113,5.5,17054.0,25.0,-30.0
-Fear Clinic,R,2014,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Horror,95,4.9,0.0,1.0,-100.0
+Fear Clinic,R,2014,22.810000000000002,Horror,95,4.9,48903.0,1.0,-100.0
 Fear and Loathing in Las Vegas,R,1998,10.68,"Adventure,Comedy,Drama",118,7.6,253507.0,18.5,-42.270270270270274
 Feast,R,2005,0.05,"Action,Comedy,Horror",95,6.3,29182.0,3.2,-98.43750000000001
-Feast,G,2014,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Animation,Short,Comedy",6,8.2,0.0,3.2,-100.0
-Femme Fatale,R,1991,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Drama,Mystery",94,4.7,0.0,35.0,-100.0
+Feast,G,2014,22.810000000000002,"Animation,Short,Comedy",6,8.2,48903.0,3.2,-100.0
+Femme Fatale,R,1991,22.810000000000002,"Drama,Mystery",94,4.7,48903.0,35.0,-100.0
 Fences,PG-13,2016,57.64,Drama,139,7.2,94627.0,24.0,140.16666666666666
 Ferdinand,PG,2017,84.41,"Animation,Adventure,Comedy",108,6.7,45881.0,111.0,-23.954954954954957
 Fever Pitch,PG-13,2005,42.07,"Comedy,Drama,Romance",104,6.2,41661.0,40.0,5.175000000000001
@@ -2537,18 +1118,7 @@ Flirting with Disaster,R,1996,14.89,Comedy,92,6.7,17388.0,7.0,112.71428571428572
 Flubber,PG,1997,92.98,"Comedy,Family,Sci-Fi",93,5.3,82640.0,80.0,16.225000000000005
 Flushed Away,PG,2006,64.67,"Animation,Adventure,Comedy",85,6.6,109756.0,149.0,-56.597315436241615
 Flyboys,PG-13,2006,13.08,"Action,Drama,History",140,6.5,40672.0,60.0,-78.2
-Flying By,PG-13,2009,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Drama,Family,Music",90,4.6,0.0,5.0,-100.0
+Flying By,PG-13,2009,22.810000000000002,"Drama,Family,Music",90,4.6,48903.0,5.0,-100.0
 Focus,PG-13,2001,0.72,"Drama,Romance",106,6.7,2895.0,65.0,-98.8923076923077
 Focus,R,2015,53.86,"Comedy,Crime,Drama",105,6.6,210700.0,65.0,-17.138461538461538
 "Food, Inc.",PG,2008,4.42,"Documentary,News",94,7.8,48909.0,1.0,342.0
@@ -2561,101 +1131,24 @@ For Love of the Game,PG-13,1999,35.17,"Drama,Romance,Sport",137,6.6,31069.0,50.0
 For Your Consideration,PG-13,2006,5.54,Comedy,86,6.3,13591.0,12.0,-53.833333333333336
 Foreign Letters,G,2012,0.08,"Comedy,Drama",99,6.8,190.0,0.04,100.0
 Forever My Girl,PG,2018,16.38,"Drama,Music,Romance",108,6.7,13571.0,3.5,368.0
-Forget Me Not,R,2009,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Horror,Romance,Thriller",103,5.2,0.0,1.3,-100.0
+Forget Me Not,R,2009,22.810000000000002,"Horror,Romance,Thriller",103,5.2,48903.0,1.3,-100.0
 Forgetting Sarah Marshall,R,2008,63.17,"Comedy,Drama,Romance",111,7.1,257701.0,30.0,110.56666666666668
 Forrest Gump,PG-13,1994,330.25,"Drama,Romance",142,8.8,1743371.0,55.0,500.4545454545455
-Forsaken,R,2015,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Action,Drama,Western",90,6.3,0.0,18.0,-100.0
+Forsaken,R,2015,22.810000000000002,"Action,Drama,Western",90,6.3,48903.0,18.0,-100.0
 Fort McCoy,R,2011,0.07,"Drama,History,War",100,5.9,357.0,3.0,-97.66666666666667
-Fortress,R,2012,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Action,Drama,War",105,5.0,0.0,12.0,-100.0
-Forty Shades of Blue,R,2005,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Drama,Music,Romance",108,6.2,0.0,1.5,-100.0
+Fortress,R,2012,22.810000000000002,"Action,Drama,War",105,5.0,48903.0,12.0,-100.0
+Forty Shades of Blue,R,2005,22.810000000000002,"Drama,Music,Romance",108,6.2,48903.0,1.5,-100.0
 Four Brothers,R,2005,74.49,"Action,Crime,Drama",109,6.8,131362.0,30.0,148.29999999999998
 Four Christmases,PG-13,2008,120.15,"Comedy,Drama,Romance",88,5.7,61506.0,80.0,50.18750000000001
 Four Rooms,R,1995,4.3,Comedy,98,6.8,96114.0,4.0,7.499999999999996
 Frailty,R,2001,13.1,"Crime,Drama,Thriller",100,7.2,74708.0,11.0,19.09090909090909
 Frances Ha,R,2012,4.06,"Comedy,Drama,Romance",86,7.5,70206.0,3.0,35.33333333333332
 Frankenstein,R,1994,22.01,"Drama,Horror,Romance",123,6.4,50056.0,45.0,-51.08888888888888
-Frankenstein,R,2015,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Horror,Sci-Fi,Thriller",89,5.1,0.0,45.0,-100.0
+Frankenstein,R,2015,22.810000000000002,"Horror,Sci-Fi,Thriller",89,5.1,48903.0,45.0,-100.0
 Frankenweenie,PG,2012,35.29,"Animation,Comedy,Family",87,6.9,94947.0,39.0,-9.512820512820515
 Freakonomics,PG-13,2010,0.1,Documentary,85,6.4,6639.0,2.9,-96.55172413793103
-Freaks of Nature,R,2015,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Comedy,Horror,Sci-Fi",92,5.9,0.0,33.0,-100.0
-Freaky Deaky,R,2012,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Comedy,Crime,Thriller",90,6.0,0.0,6.0,-100.0
+Freaks of Nature,R,2015,22.810000000000002,"Comedy,Horror,Sci-Fi",92,5.9,48903.0,33.0,-100.0
+Freaky Deaky,R,2012,22.810000000000002,"Comedy,Crime,Thriller",90,6.0,48903.0,6.0,-100.0
 Freaky Friday,PG,2003,110.23,"Comedy,Family,Fantasy",97,6.1,121765.0,26.0,323.96153846153845
 Freddy Got Fingered,R,2001,14.25,Comedy,87,4.6,45342.0,15.0,-5.0
 Freddy vs. Jason,R,2003,82.62,"Action,Horror",97,5.7,108142.0,25.0,230.48000000000002
@@ -2663,18 +1156,7 @@ Free Birds,PG,2013,55.75,"Animation,Adventure,Comedy",91,5.9,21995.0,55.0,1.3636
 Free State of Jones,R,2016,20.76,"Action,Biography,Drama",139,6.9,49481.0,50.0,-58.48
 Free Style,PG,2008,0.14,Drama,94,4.0,411.0,10.0,-98.6
 Free Willy,PG,1993,77.7,"Adventure,Drama,Family",112,6.0,67098.0,20.0,288.5
-Freedom,R,2014,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Drama,Music",94,6.4,0.0,14.5,-100.0
+Freedom,R,2014,22.810000000000002,"Drama,Music",94,6.4,48903.0,14.5,-100.0
 Freedom Writers,PG-13,2007,36.61,"Biography,Crime,Drama",123,7.5,66314.0,21.0,74.33333333333333
 Freeheld,PG-13,2015,0.53,"Biography,Drama,Romance",103,6.6,11334.0,7.0,-92.42857142857143
 Freeway,R,1996,0.3,"Comedy,Crime,Drama",102,6.8,25780.0,3.0,-90.0
@@ -2697,34 +1179,12 @@ Frozen,R,2010,0.24,"Adventure,Drama,Thriller",93,6.1,65958.0,150.0,-99.839999999
 Frozen,PG,2013,400.74,"Animation,Adventure,Comedy",102,7.4,557898.0,150.0,167.16
 Frozen River,R,2008,2.51,"Crime,Drama",97,7.1,24282.0,1.0,150.99999999999997
 Fruitvale Station,R,2013,16.1,"Biography,Crime,Drama",85,7.5,73279.0,0.9,1688.888888888889
-Full Frontal,R,2001,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Comedy,90,5.2,0.0,2.0,-100.0
+Full Frontal,R,2001,22.810000000000002,Comedy,90,5.2,48903.0,2.0,-100.0
 Full Frontal,R,2002,2.51,"Comedy,Romance",101,4.7,9388.0,2.0,25.49999999999999
 Fun Size,PG-13,2012,9.4,"Adventure,Comedy",86,5.4,13449.0,14.0,-32.857142857142854
 Funny Games,R,2007,1.29,"Crime,Drama,Thriller",111,6.6,88480.0,15.0,-91.4
 Funny People,R,2009,51.86,"Comedy,Drama",146,6.3,112732.0,72.5,-28.46896551724138
-Fury,R,2009,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Comedy,Music,Thriller",83,4.6,0.0,80.0,-100.0
+Fury,R,2009,22.810000000000002,"Comedy,Music,Thriller",83,4.6,48903.0,80.0,-100.0
 Fury,R,2014,85.82,"Action,Drama,War",134,7.6,412550.0,80.0,7.2749999999999915
 G-Force,PG,2009,119.44,"Action,Adventure,Comedy",88,5.1,41695.0,150.0,-20.373333333333335
 G.I. Jane,R,1997,48.17,"Action,Drama,War",125,5.9,71748.0,50.0,-3.6599999999999966
@@ -2741,18 +1201,7 @@ Garfield: A Tail of Two Kitties,PG,2006,28.43,"Animation,Adventure,Comedy",82,5.
 Gattaca,PG-13,1997,12.34,"Drama,Sci-Fi,Thriller",106,7.8,274379.0,36.0,-65.72222222222223
 Genius,PG-13,2016,1.36,"Biography,Drama",104,6.6,17280.0,17.0,-92.0
 Gentlemen Broncos,PG-13,2009,0.11,"Adventure,Comedy,Sci-Fi",90,6.2,10725.0,9.5,-98.8421052631579
-George and the Dragon,PG,2004,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Action,Adventure,Comedy",93,5.7,0.0,32.0,-100.0
+George and the Dragon,PG,2004,22.810000000000002,"Action,Adventure,Comedy",93,5.7,48903.0,32.0,-100.0
 Georgia Rule,R,2007,18.88,"Comedy,Drama",113,5.8,23605.0,20.0,-5.600000000000005
 Geostorm,PG-13,2017,33.7,"Action,Sci-Fi,Thriller",109,5.3,90033.0,100.0,-66.3
 Gerry,R,2002,0.24,"Adventure,Drama,Mystery",103,6.1,17588.0,7.0,-96.57142857142857
@@ -2773,18 +1222,7 @@ Ghost,PG-13,1990,217.63,"Drama,Fantasy,Romance",127,7.0,190956.0,22.0,889.227272
 Ghost Dog: The Way of the Samurai,R,1999,3.31,"Action,Crime,Drama",116,7.5,82875.0,2.0,65.5
 Ghost Rider,PG-13,2007,115.8,"Action,Fantasy,Thriller",110,5.2,219063.0,120.0,-3.500000000000002
 Ghost Rider: Spirit of Vengeance,PG-13,2011,51.77,"Action,Fantasy,Thriller",96,4.3,108637.0,57.0,-9.175438596491222
-Ghost Ship,PG,1992,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Adventure,Family",93,4.5,0.0,20.0,-100.0
+Ghost Ship,PG,1992,22.810000000000002,"Adventure,Family",93,4.5,48903.0,20.0,-100.0
 Ghost Ship,R,2002,30.11,Horror,91,5.5,91395.0,20.0,50.55
 Ghost Town,PG-13,2008,13.21,"Comedy,Drama,Fantasy",102,6.7,68744.0,20.0,-33.949999999999996
 Ghost World,R,2001,6.22,"Comedy,Drama",111,7.3,111200.0,5.5,13.090909090909086
@@ -2821,18 +1259,7 @@ Gone Girl,R,2014,167.77,"Drama,Mystery,Thriller",149,8.1,826650.0,61.0,175.03278
 Gone in 60 Seconds,PG-13,2000,101.65,"Action,Crime,Thriller",118,6.5,255812.0,103.3,-1.5972894482090914
 Tyler Perry's Good Deeds,PG-13,2012,35.03,"Comedy,Drama,Romance",110,5.5,7294.0,14.0,150.21428571428572
 Good Dick,R,2008,0.02,"Comedy,Drama,Romance",86,6.4,7657.0,0.2,-90.0
-Good Intentions,PG-13,2010,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Comedy,84,5.2,0.0,10.0,-100.0
+Good Intentions,PG-13,2010,22.810000000000002,Comedy,84,5.2,48903.0,10.0,-100.0
 Good Luck Chuck,R,2007,34.93,"Comedy,Romance",96,5.6,84488.0,25.0,39.72
 Good Will Hunting,R,1997,138.43,"Drama,Romance",126,8.3,831351.0,10.0,1284.3
 Goodfellas,R,1990,46.84,"Biography,Crime,Drama",146,8.7,984139.0,25.0,87.36000000000001
@@ -2841,47 +1268,14 @@ Goosebumps 2: Haunted Halloween,PG,2018,46.7,"Adventure,Comedy,Family",90,5.6,16
 Gosford Park,R,2001,41.31,"Comedy,Drama,Mystery",131,7.2,78417.0,18.0,129.50000000000003
 Gossip,R,2000,5.11,"Drama,Mystery,Thriller",90,5.9,14226.0,14.0,-63.5
 Gothika,R,2003,59.69,"Horror,Mystery,Thriller",98,5.8,104394.0,40.0,49.224999999999994
-Gotti,R,1996,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Biography,Crime,Drama",117,7.2,0.0,10.0,-100.0
+Gotti,R,1996,22.810000000000002,"Biography,Crime,Drama",117,7.2,48903.0,10.0,-100.0
 Gotti,R,2018,4.34,"Biography,Crime,Drama",112,4.8,12910.0,10.0,-56.60000000000001
 Grace,R,2009,0.01,"Drama,Horror,Thriller",84,5.1,7601.0,5.0,-99.8
-Grace,R,2014,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Horror,Thriller",87,4.8,0.0,5.0,-100.0
+Grace,R,2014,22.810000000000002,"Horror,Thriller",87,4.8,48903.0,5.0,-100.0
 Grace Unplugged,PG,2013,2.51,"Drama,Music",102,6.1,3190.0,1.7,47.647058823529406
 Gracie,PG-13,2007,2.96,"Biography,Drama,Sport",95,6.1,3991.0,9.0,-67.11111111111111
 Gran Torino,R,2008,148.1,Drama,116,8.1,703777.0,25.0,492.4
-Grand Theft Parsons,PG-13,2003,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Adventure,Comedy,Drama",88,6.0,0.0,1.2,-100.0
+Grand Theft Parsons,PG-13,2003,22.810000000000002,"Adventure,Comedy,Drama",88,6.0,48903.0,1.2,-100.0
 Gravity,PG-13,2013,274.09,"Drama,Sci-Fi,Thriller",91,7.7,751990.0,110.0,149.17272727272726
 Greater,PG,2016,1.99,"Biography,Family,Sport",130,7.3,4190.0,9.0,-77.88888888888889
 Green Book,PG-13,2018,85.08,"Biography,Comedy,Drama",130,8.2,333875.0,23.0,269.9130434782609
@@ -2890,18 +1284,7 @@ Green Room,R,2015,3.22,"Horror,Music,Thriller",95,7.0,102572.0,5.0,-35.6
 Green Zone,R,2010,35.05,"Action,Drama,Thriller",115,6.8,127083.0,100.0,-64.95
 Gremlins 2: The New Batch,PG-13,1990,41.48,"Comedy,Fantasy,Horror",106,6.4,90133.0,50.0,-17.040000000000006
 Gridiron Gang,PG-13,2006,38.43,"Biography,Crime,Drama",125,6.9,51601.0,30.0,28.099999999999998
-Griffin & Phoenix,PG-13,2006,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Comedy,Drama,Romance",102,7.0,0.0,0.5,-100.0
+Griffin & Phoenix,PG-13,2006,22.810000000000002,"Comedy,Drama,Romance",102,7.0,48903.0,0.5,-100.0
 The Brothers Grimsby,R,2016,6.86,"Action,Adventure,Comedy",83,6.2,88870.0,35.0,-80.4
 Grindhouse,R,2007,25.03,"Action,Horror,Thriller",191,7.5,175772.0,53.0,-52.77358490566038
 Groove,R,2000,1.11,"Drama,Music",86,6.6,3991.0,0.5,122.00000000000001
@@ -2912,18 +1295,7 @@ Grown Ups 2,PG-13,2013,133.67,Comedy,101,5.4,136833.0,80.0,67.08749999999999
 Grudge Match,PG-13,2013,29.81,"Comedy,Drama,Sport",113,6.4,56653.0,40.0,-25.475
 Guardians of the Galaxy,PG-13,2014,333.18,"Action,Adventure,Comedy",121,8.0,1018349.0,170.0,95.98823529411766
 Guess Who,PG-13,2005,68.92,"Comedy,Romance",105,5.9,39615.0,35.0,96.91428571428573
-Gulliver's Travels,PG,1996,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Adventure,Drama,Family",186,6.9,0.0,112.0,-100.0
+Gulliver's Travels,PG,1996,22.810000000000002,"Adventure,Drama,Family",186,6.9,48903.0,112.0,-100.0
 Gulliver's Travels,PG,2010,42.78,"Adventure,Comedy,Family",85,4.9,64451.0,112.0,-61.80357142857142
 Gun Shy,R,2000,1.63,"Comedy,Crime,Romance",101,5.7,6816.0,10.0,-83.7
 Hacksaw Ridge,R,2016,67.21,"Biography,Drama,History",139,8.1,413837.0,40.0,68.02499999999998
@@ -2949,30 +1321,8 @@ Hamlet,PG-13,1996,4.41,Drama,242,7.7,35405.0,18.0,-75.5
 Hamlet,PG-13,1996,4.41,Drama,242,7.7,35405.0,2.0,120.5
 Hamlet,R,2000,1.57,"Drama,Romance,Thriller",112,5.9,8958.0,18.0,-91.27777777777779
 Hamlet,R,2000,1.57,"Drama,Romance,Thriller",112,5.9,8958.0,2.0,-21.499999999999996
-Hamlet,PG,2009,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Drama,180,8.2,0.0,18.0,-100.0
-Hamlet,PG,2009,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Drama,180,8.2,0.0,2.0,-100.0
+Hamlet,PG,2009,22.810000000000002,Drama,180,8.2,48903.0,18.0,-100.0
+Hamlet,PG,2009,22.810000000000002,Drama,180,8.2,48903.0,2.0,-100.0
 Hamlet 2,R,2008,4.88,"Comedy,Music",92,6.3,16389.0,9.0,-45.77777777777778
 Hancock,PG-13,2008,227.95,"Action,Fantasy",92,6.4,435261.0,150.0,51.96666666666666
 Hands of Stone,R,2016,4.71,"Biography,Drama,Sport",111,6.6,14469.0,20.0,-76.44999999999999
@@ -2988,33 +1338,11 @@ Happy Death Day 2U,PG-13,2019,28.05,"Comedy,Horror,Mystery",100,6.2,51246.0,9.0,
 Happy Feet,PG,2006,198.0,"Animation,Adventure,Comedy",108,6.4,166045.0,85.0,132.94117647058823
 Happy Feet Two,PG,2011,64.01,"Animation,Adventure,Comedy",100,5.9,40701.0,135.0,-52.58518518518518
 Happy Gilmore,PG-13,1996,38.62,"Comedy,Sport",92,7.0,191358.0,10.0,286.2
-Happy Valley,PG-13,2007,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Drama,85,5.7,0.0,0.25,-100.0
+Happy Valley,PG-13,2007,22.810000000000002,Drama,85,5.7,48903.0,0.25,-100.0
 Happy Valley,PG-13,2008,0.07,Documentary,90,6.4,71.0,0.25,-72.0
 "Happy, Texas",PG-13,1999,1.94,"Comedy,Crime,Romance",98,6.3,9444.0,1.7,14.117647058823529
 Hardball,PG-13,2001,40.22,"Drama,Sport",106,6.4,27621.0,21.0,91.52380952380952
-Hardball,R,1997,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Action,Drama",97,4.5,0.0,21.0,-100.0
+Hardball,R,1997,22.810000000000002,"Action,Drama",97,4.5,48903.0,21.0,-100.0
 Hard Candy,R,2005,1.01,"Drama,Thriller",104,7.1,151362.0,0.95,6.315789473684216
 Hard Rain,R,1998,19.82,"Action,Crime,Drama",97,5.9,31495.0,70.0,-71.68571428571428
 Hardcore Henry,R,2015,9.25,"Action,Adventure,Sci-Fi",96,6.7,83887.0,2.0,362.5
@@ -3042,56 +1370,12 @@ Heartbreakers,PG-13,2001,40.34,"Comedy,Crime,Romance",123,6.2,50580.0,38.0,6.157
 Hearts Beat Loud,PG-13,2018,2.39,"Comedy,Drama,Music",97,6.9,8938.0,2.0,19.500000000000007
 Hearts in Atlantis,PG-13,2001,24.19,"Drama,Mystery",101,6.9,35732.0,31.0,-21.96774193548387
 Hedwig and the Angry Inch,R,2001,3.03,"Comedy,Drama,Music",95,7.7,31306.0,6.0,-49.50000000000001
-Heist,R,1998,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Crime,Thriller",95,4.0,0.0,35.0,-100.0
-Heist,R,1998,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Crime,Thriller",95,4.0,0.0,8.9,-100.0
+Heist,R,1998,22.810000000000002,"Crime,Thriller",95,4.0,48903.0,35.0,-100.0
+Heist,R,1998,22.810000000000002,"Crime,Thriller",95,4.0,48903.0,8.9,-100.0
 Heist,R,2001,0.05,"Action,Crime,Drama",109,6.5,32666.0,35.0,-99.85714285714286
 Heist,R,2001,0.05,"Action,Crime,Drama",109,6.5,32666.0,8.9,-99.438202247191
-Heist,R,2015,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Action,Crime,Drama",93,6.1,0.0,35.0,-100.0
-Heist,R,2015,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Action,Crime,Drama",93,6.1,0.0,8.9,-100.0
+Heist,R,2015,22.810000000000002,"Action,Crime,Drama",93,6.1,48903.0,35.0,-100.0
+Heist,R,2015,22.810000000000002,"Action,Crime,Drama",93,6.1,48903.0,8.9,-100.0
 Held Up,PG-13,1999,4.69,Comedy,89,5.2,3412.0,8.0,-41.37499999999999
 Hell Fest,R,2018,11.11,"Horror,Thriller",89,5.5,12594.0,5.5,101.99999999999999
 Hell or High Water,R,2016,26.86,"Action,Crime,Drama",102,7.6,196196.0,12.0,123.83333333333333
@@ -3100,30 +1384,8 @@ Hellboy,PG-13,2004,59.62,"Action,Fantasy,Horror",122,6.8,301693.0,50.0,19.239999
 Hellboy,R,2019,21.9,"Action,Adventure,Fantasy",120,5.2,73248.0,60.0,-63.5
 Hellboy,R,2019,21.9,"Action,Adventure,Fantasy",120,5.2,73248.0,50.0,-56.2
 Hellboy II: The Golden Army,PG-13,2008,75.75,"Action,Adventure,Fantasy",120,7.0,251688.0,82.5,-8.181818181818182
-Henry & Me,PG,2014,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Animation,Family",67,6.2,0.0,5.0,-100.0
-Her,PG-13,2009,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Drama,45,5.9,0.0,23.0,-100.0
+Henry & Me,PG,2014,22.810000000000002,"Animation,Family",67,6.2,48903.0,5.0,-100.0
+Her,PG-13,2009,22.810000000000002,Drama,45,5.9,48903.0,23.0,-100.0
 Her,R,2013,25.57,"Drama,Romance,Sci-Fi",126,8.0,519233.0,23.0,11.173913043478262
 Hercules,G,1997,99.05,"Animation,Adventure,Comedy",93,7.3,198800.0,100.0,-0.950000000000003
 Hercules,G,1997,99.05,"Animation,Adventure,Comedy",93,7.3,198800.0,70.0,41.5
@@ -3134,102 +1396,25 @@ Here on Earth,PG-13,2000,10.49,"Drama,Romance",96,5.2,8171.0,15.0,-30.0666666666
 Hereafter,PG-13,2010,32.75,"Drama,Fantasy,Romance",129,6.4,89321.0,50.0,-34.5
 Hereditary,R,2018,44.07,"Drama,Horror,Mystery",127,7.3,216153.0,10.0,340.7
 Hero,PG-13,1992,19.51,"Comedy,Drama,Romance",119,6.5,20683.0,42.0,-53.547619047619044
-Heroes,R,2009,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Drama,96,8.1,0.0,0.4,-100.0
-Heroes of Dirt,PG-13,2015,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Action,Drama,Sport",98,6.8,0.0,0.175,-100.0
+Heroes,R,2009,22.810000000000002,Drama,96,8.1,48903.0,0.4,-100.0
+Heroes of Dirt,PG-13,2015,22.810000000000002,"Action,Drama,Sport",98,6.8,48903.0,0.175,-100.0
 Hesher,R,2010,0.38,"Comedy,Crime,Drama",106,7.0,49965.0,7.0,-94.57142857142857
 Hey Arnold! The Movie,PG,2002,13.68,"Animation,Adventure,Comedy",76,6.0,6350.0,10.0,36.8
 Hidalgo,PG-13,2004,67.29,"Action,Adventure,Biography",136,6.7,76105.0,78.0,-13.730769230769221
-Hidden Away,PG-13,2013,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Drama,Mystery,Thriller",84,4.9,0.0,1.0,-100.0
+Hidden Away,PG-13,2013,22.810000000000002,"Drama,Mystery,Thriller",84,4.9,48903.0,1.0,-100.0
 Hidden Figures,PG,2016,169.61,"Biography,Drama,History",127,7.8,191518.0,25.0,578.44
 Hide and Seek,R,2005,51.1,"Drama,Horror,Mystery",101,6.0,80240.0,25.0,104.4
 High Crimes,PG-13,2002,41.54,"Crime,Drama,Mystery",115,6.4,37910.0,42.0,-1.0952380952380971
 High Fidelity,R,2000,27.28,"Comedy,Drama,Music",113,7.5,164807.0,20.0,36.400000000000006
 High Heels and Low Lifes,R,2001,0.23,"Action,Comedy,Drama",86,6.2,3301.0,10.0,-97.7
-High Noon,PG-13,2000,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Drama,Western",88,5.3,0.0,0.73,-100.0
-High Road,R,2011,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Comedy,87,5.3,0.0,0.546173,-100.0
+High Noon,PG-13,2000,22.810000000000002,"Drama,Western",88,5.3,48903.0,0.73,-100.0
+High Road,R,2011,22.810000000000002,Comedy,87,5.3,48903.0,0.546173,-100.0
 High School,R,2010,0.14,Comedy,99,5.8,7257.0,10.0,-98.6
 Higher Ground,R,2011,0.84,Drama,109,6.2,2924.0,1.8,-53.333333333333336
 Higher Power,R,2018,8.23,"Action,Sci-Fi,Thriller",93,4.8,2088.0,0.5,1546.0
 Highlander: Endgame,R,2000,12.8,"Action,Adventure,Fantasy",87,4.6,19066.0,15.0,-14.66666666666666
-Highway,R,2002,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Crime,Drama",97,6.2,0.0,2.0,-100.0
-Highway,R,2012,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Drama,80,6.5,0.0,2.0,-100.0
+Highway,R,2002,22.810000000000002,"Crime,Drama",97,6.2,48903.0,2.0,-100.0
+Highway,R,2012,22.810000000000002,Drama,80,6.5,48903.0,2.0,-100.0
 Hitch,PG-13,2005,179.5,"Comedy,Romance",118,6.6,290700.0,55.0,226.36363636363637
 Hitman,R,2007,39.69,"Action,Crime,Thriller",100,6.3,158365.0,24.0,65.375
 Hitman: Agent 47,R,2015,22.47,"Action,Crime,Thriller",96,5.7,83932.0,35.0,-35.800000000000004
@@ -3261,45 +1446,12 @@ Hoop Dreams,PG-13,1994,7.83,"Documentary,Drama,Sport",170,8.3,23769.0,0.7,1018.5
 Hoot,PG,2006,8.08,"Adventure,Comedy,Family",91,5.5,7756.0,15.0,-46.13333333333333
 Hop,PG,2011,108.09,"Animation,Adventure,Comedy",95,5.4,30641.0,63.0,71.57142857142857
 Hope Floats,PG-13,1998,60.05,"Drama,Romance",114,6.1,23948.0,30.0,100.16666666666664
-Hope Springs,PG-13,2003,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Comedy,Romance",92,5.4,0.0,30.0,-100.0
+Hope Springs,PG-13,2003,22.810000000000002,"Comedy,Romance",92,5.4,48903.0,30.0,-100.0
 Hope Springs,PG-13,2012,63.54,"Comedy,Drama,Romance",100,6.3,39968.0,30.0,111.79999999999998
 Horrible Bosses,R,2011,117.54,"Comedy,Crime",98,6.9,414262.0,35.0,235.82857142857145
 Horrible Bosses 2,R,2014,54.45,"Comedy,Crime",108,6.3,154088.0,40.0,36.12500000000001
-Horse Camp,PG,2017,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Family,108,6.4,0.0,0.25,-100.0
-Hostage,R,1992,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Action,Drama,Thriller",98,4.9,0.0,75.0,-100.0
+Horse Camp,PG,2017,22.810000000000002,Family,108,6.4,48903.0,0.25,-100.0
+Hostage,R,1992,22.810000000000002,"Action,Drama,Thriller",98,4.9,48903.0,75.0,-100.0
 Hostage,R,2005,34.64,"Action,Crime,Drama",113,6.6,105348.0,75.0,-53.81333333333333
 Hostel,R,2005,47.33,Horror,94,5.9,166054.0,4.8,886.0416666666667
 Hostel: Part II,R,2007,17.61,"Horror,Thriller",94,5.5,83768.0,7.5,134.79999999999998
@@ -3313,36 +1465,14 @@ Hotel Transylvania 2,PG,2015,169.7,"Animation,Comedy,Family",89,6.7,102830.0,80.
 Hotel Transylvania 3: Summer Vacation,PG,2018,167.51,"Animation,Adventure,Comedy",97,6.3,53177.0,65.0,157.7076923076923
 Hotel for Dogs,PG,2009,73.03,"Comedy,Family",100,5.4,21080.0,35.0,108.65714285714286
 House Party 2,R,1991,19.28,"Comedy,Drama,Music",94,5.3,5893.0,5.0,285.6
-House at the End of the Drive,R,2014,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Horror,Thriller",91,6.6,0.0,1.4,-100.0
+House at the End of the Drive,R,2014,22.810000000000002,"Horror,Thriller",91,6.6,48903.0,1.4,-100.0
 House at the End of the Street,PG-13,2012,31.61,"Drama,Horror,Thriller",101,5.6,70100.0,6.9,358.1159420289855
 House of D,PG-13,2004,0.37,"Comedy,Drama",97,6.9,8791.0,2.0,-81.5
 House of Sand and Fog,R,2003,13.01,"Crime,Drama",126,7.5,64071.0,16.5,-21.151515151515152
 House of Wax,R,2005,32.06,"Horror,Thriller",113,5.3,113152.0,35.0,-8.399999999999993
 House of Wax,R,2005,32.06,"Horror,Thriller",113,5.3,113152.0,0.658,4772.340425531915
 House on Haunted Hill,R,1999,40.85,"Horror,Mystery,Thriller",93,5.6,52340.0,19.0,115.00000000000001
-Housebound,R,2000,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Thriller,89,4.0,0.0,1.5,-100.0
+Housebound,R,2000,22.810000000000002,Thriller,89,4.0,48903.0,1.5,-100.0
 How High,R,2001,31.16,"Comedy,Fantasy",93,6.3,52305.0,12.0,159.66666666666666
 How Stella Got Her Groove Back,R,1998,37.67,"Comedy,Drama,Romance",124,5.7,6685.0,20.0,88.35000000000001
 How the Grinch Stole Christmas,PG,2000,260.04,"Comedy,Family,Fantasy",104,6.2,197509.0,123.0,111.41463414634147
@@ -3359,45 +1489,12 @@ Hulk,PG-13,2003,132.18,"Action,Sci-Fi",138,5.6,247937.0,137.0,-3.518248175182477
 Redemption,R,2013,0.03,"Action,Drama",100,6.2,64408.0,23.0,-99.8695652173913
 Hurricane Streets,R,1997,0.33,"Crime,Drama,Romance",86,6.4,1118.0,0.5,-34.0
 Hush,PG-13,1998,13.51,"Drama,Thriller",96,5.5,9694.0,1.0,1251.0
-Hush,G,2015,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Short,Sci-Fi,Thriller",19,5.0,0.0,1.0,-100.0
-Hush,R,2016,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Horror,Thriller",82,6.6,0.0,1.0,-100.0
+Hush,G,2015,22.810000000000002,"Short,Sci-Fi,Thriller",19,5.0,48903.0,1.0,-100.0
+Hush,R,2016,22.810000000000002,"Horror,Thriller",82,6.6,48903.0,1.0,-100.0
 Hustle & Flow,R,2005,22.2,"Crime,Drama,Music",116,7.3,38045.0,2.8,692.8571428571429
 I Am Not Your Negro,PG-13,2016,7.12,Documentary,93,7.9,17893.0,1.0,612.0
 I Am Sam,PG-13,2001,40.31,Drama,132,7.7,140662.0,22.0,83.22727272727273
-I Am Wrath,R,2016,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Action,Crime,Drama",92,5.4,0.0,18.0,-100.0
+I Am Wrath,R,2016,22.810000000000002,"Action,Crime,Drama",92,5.4,48903.0,18.0,-100.0
 I Can Only Imagine,PG,2018,83.48,"Biography,Drama,Family",110,7.3,13524.0,7.0,1092.5714285714287
 I Don't Know How She Does It,PG-13,2011,9.66,"Comedy,Romance",89,4.9,19166.0,24.0,-59.75
 I Dreamed of Africa,PG-13,2000,6.54,"Adventure,Biography,Drama",114,5.7,4290.0,34.0,-80.76470588235294
@@ -3407,18 +1504,7 @@ I Hope They Serve Beer in Hell,R,2009,1.43,Comedy,105,5.3,8168.0,7.0,-79.5714285
 I Know What You Did Last Summer,R,1997,72.59,"Horror,Mystery",101,5.7,129812.0,17.0,327.0
 "I Love You, Beth Cooper",PG-13,2009,14.79,"Comedy,Romance",102,5.3,32928.0,18.0,-17.833333333333336
 "I Love You, Man",R,2009,71.44,"Comedy,Romance",105,7.0,191146.0,40.0,78.6
-I Love Your Work,R,2003,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Drama,Mystery",111,5.3,1775.0,1.6,-100.0
+I Love Your Work,R,2003,22.810000000000002,"Drama,Mystery",111,5.3,1775.0,1.6,-100.0
 I Origins,R,2014,0.33,"Drama,Romance,Sci-Fi",106,7.4,112181.0,1.0,-67.0
 I Spit on Your Grave,R,2010,0.09,"Horror,Thriller",108,6.3,73700.0,1.75,-94.85714285714285
 I Spy,PG-13,2002,33.56,"Action,Adventure,Comedy",97,5.4,48332.0,70.0,-52.05714285714286
@@ -3447,34 +1533,12 @@ Illuminata,R,1998,0.84,"Drama,Romance",119,6.1,1551.0,10.0,-91.60000000000001
 Imaginary Heroes,R,2004,0.23,"Comedy,Drama",111,7.2,9345.0,10.0,-97.7
 Imagine That,PG,2009,16.09,"Comedy,Drama,Family",107,5.6,13433.0,55.0,-70.74545454545455
 Immortals,R,2011,83.5,"Action,Drama,Fantasy",110,6.0,158285.0,75.0,11.333333333333332
-Impact Point,R,2008,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Thriller,90,4.2,0.0,2.2,-100.0
+Impact Point,R,2008,22.810000000000002,Thriller,90,4.2,48903.0,2.2,-100.0
 Impostor,PG-13,2001,6.11,"Drama,Mystery,Sci-Fi",95,6.2,22300.0,40.0,-84.72500000000001
 In & Out,PG-13,1997,63.86,"Comedy,Romance",90,6.4,37801.0,35.0,82.45714285714286
 In Bruges,R,2008,7.76,"Comedy,Crime,Drama",107,7.9,381771.0,15.0,-48.266666666666666
 In Dreams,R,1999,12.02,"Drama,Fantasy,Thriller",100,5.5,12130.0,30.0,-59.93333333333334
-In Dubious Battle,R,2016,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Crime,Drama,History",110,6.1,0.0,15.0,-100.0
+In Dubious Battle,R,2016,22.810000000000002,"Crime,Drama,History",110,6.1,48903.0,15.0,-100.0
 In Good Company,PG-13,2004,45.81,"Comedy,Drama,Romance",109,6.4,53052.0,26.0,76.19230769230771
 In Time,PG-13,2011,37.52,"Action,Sci-Fi,Thriller",109,6.7,361928.0,35.0,7.200000000000009
 In Too Deep,R,1999,14.0,"Crime,Thriller,Drama",95,6.3,5707.0,7.0,100.0
@@ -3493,30 +1557,8 @@ Independence Day: Resurgence,PG-13,2016,103.14,"Action,Adventure,Sci-Fi",120,5.2
 Indiana Jones and the Kingdom of the Crystal Skull,PG-13,2008,317.1,"Action,Adventure",122,6.1,415022.0,185.0,71.40540540540542
 Indivisible,PG-13,2018,3.51,"Drama,War",119,5.7,1028.0,2.7,29.999999999999982
 Infamous,R,2006,1.15,"Biography,Crime,Drama",110,7.0,16074.0,13.0,-91.15384615384615
-Inferno,R,1997,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Action,82,4.0,0.0,75.0,-100.0
-Inferno,PG-13,1998,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Action,Drama",90,4.3,0.0,75.0,-100.0
+Inferno,R,1997,22.810000000000002,Action,82,4.0,48903.0,75.0,-100.0
+Inferno,PG-13,1998,22.810000000000002,"Action,Drama",90,4.3,48903.0,75.0,-100.0
 Inferno,PG-13,2016,34.34,"Action,Adventure,Crime",121,6.2,152753.0,75.0,-54.213333333333324
 Inglourious Basterds,R,2009,120.54,"Adventure,Drama,War",153,8.3,1221082.0,70.0,72.2
 Inherent Vice,R,2014,8.11,"Comedy,Crime,Drama",148,6.7,91600.0,20.0,-59.45
@@ -3525,30 +1567,8 @@ Inside Deep Throat,NC-17,2005,0.65,"Documentary,Biography,History",89,6.7,6417.0
 Inside Job,PG-13,2010,4.31,"Documentary,Crime",109,8.2,68048.0,2.0,115.49999999999999
 Inside Llewyn Davis,R,2013,13.24,"Comedy,Drama,Music",104,7.5,134782.0,11.0,20.363636363636363
 Inside Man,R,2006,88.51,"Crime,Drama,Mystery",129,7.6,329718.0,50.0,77.02000000000001
-Inside Out,R,1991,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Comedy,Drama,Romance",89,4.9,0.0,175.0,-100.0
-Inside Out,PG-13,2011,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Crime,Drama",93,4.5,0.0,175.0,-100.0
+Inside Out,R,1991,22.810000000000002,"Comedy,Drama,Romance",89,4.9,48903.0,175.0,-100.0
+Inside Out,PG-13,2011,22.810000000000002,"Crime,Drama",93,4.5,48903.0,175.0,-100.0
 Inside Out,PG,2015,356.46,"Animation,Adventure,Comedy",95,8.1,587883.0,175.0,103.69142857142857
 Insidious,PG-13,2010,54.01,"Horror,Mystery,Thriller",103,6.8,270152.0,1.5,3500.666666666667
 Insidious: The Last Key,PG-13,2018,67.75,"Horror,Mystery,Thriller",103,5.7,49703.0,10.0,577.5
@@ -3561,18 +1581,7 @@ Interstellar,PG-13,2014,188.02,"Adventure,Drama,Sci-Fi",169,8.6,1433308.0,165.0,
 Interview with the Assassin,R,2002,0.05,Drama,88,6.5,1743.0,0.75,-93.33333333333333
 Interview with the Vampire: The Vampire Chronicles,R,1994,105.26,"Drama,Horror",123,7.6,287903.0,50.0,110.52000000000002
 Into the Blue,PG-13,2005,18.47,"Action,Adventure,Crime",110,5.9,72516.0,50.0,-63.06
-Into the Grizzly Maze,R,2015,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Action,Adventure,Drama",94,5.3,0.0,10.0,-100.0
+Into the Grizzly Maze,R,2015,22.810000000000002,"Action,Adventure,Drama",94,5.3,48903.0,10.0,-100.0
 Into the Storm,PG-13,2014,47.6,"Action,Adventure,Drama",89,5.8,63570.0,50.0,-4.799999999999997
 Into the Wild,R,2007,18.35,"Adventure,Biography,Drama",148,8.1,557258.0,20.0,-8.249999999999993
 Into the Woods,PG,2014,128.0,"Adventure,Comedy,Drama",125,5.9,129202.0,56.2,127.75800711743773
@@ -3584,18 +1593,7 @@ Iris,R,2001,1.29,"Biography,Drama,Romance",91,7.0,16918.0,5.5,-76.54545454545455
 Iris,PG-13,2014,1.31,"Documentary,Biography,History",79,7.2,4109.0,5.5,-76.18181818181817
 Iron Man,PG-13,2008,318.41,"Action,Adventure,Sci-Fi",126,7.9,916487.0,186.0,71.18817204301077
 Iron Man 2,PG-13,2010,312.43,"Action,Adventure,Sci-Fi",124,7.0,702646.0,170.0,83.78235294117647
-Ironclad,R,2011,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Action,Drama,History",121,6.1,0.0,25.0,-100.0
+Ironclad,R,2011,22.810000000000002,"Action,Drama,History",121,6.1,48903.0,25.0,-100.0
 Isn't She Great,R,2000,2.96,"Biography,Comedy,Drama",95,5.4,2237.0,36.0,-91.77777777777779
 It,R,2017,327.48,Horror,135,7.3,438518.0,35.0,835.657142857143
 It Comes at Night,R,2017,13.99,"Horror,Mystery",91,6.2,79988.0,5.0,179.8
@@ -3604,30 +1602,8 @@ It's Kind of a Funny Story,PG-13,2010,6.35,"Comedy,Drama,Romance",101,7.1,131424
 J. Edgar,R,2011,37.31,"Biography,Drama,Romance",137,6.5,120195.0,35.0,6.600000000000006
 JFK,R,1991,70.41,"Drama,History,Thriller",189,8.0,137616.0,40.0,76.02499999999999
 Jack,PG-13,1996,58.62,"Comedy,Drama,Fantasy",113,5.8,55013.0,45.0,30.26666666666666
-Jack,PG-13,2004,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Drama,104,6.6,0.0,45.0,-100.0
-Jack Frost,R,1997,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Comedy,Fantasy,Horror",89,4.6,0.0,50.0,-100.0
+Jack,PG-13,2004,22.810000000000002,Drama,104,6.6,48903.0,45.0,-100.0
+Jack Frost,R,1997,22.810000000000002,"Comedy,Fantasy,Horror",89,4.6,48903.0,50.0,-100.0
 Jack Frost,PG,1998,34.55,"Comedy,Drama,Family",101,5.4,31967.0,50.0,-30.900000000000006
 Jack Reacher,PG-13,2012,80.07,"Action,Thriller",130,7.0,300420.0,60.0,33.44999999999999
 Jack Reacher: Never Go Back,PG-13,2016,58.7,"Action,Thriller",118,6.1,133245.0,60.0,-2.166666666666662
@@ -3636,18 +1612,7 @@ Jackass 3D,R,2010,117.22,"Documentary,Action,Comedy",94,7.0,55665.0,20.0,486.099
 Jackass: The Movie,R,2002,64.26,"Documentary,Action,Comedy",87,6.6,79765.0,5.0,1185.2
 Jackie,R,2016,13.96,"Biography,Drama,History",100,6.7,70965.0,9.0,55.11111111111112
 Jackie Brown,R,1997,39.67,"Crime,Drama,Thriller",154,7.5,307254.0,12.0,230.58333333333337
-Jackpot,R,2001,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Drama,Comedy",97,5.6,528.0,0.4,-100.0
+Jackpot,R,2001,22.810000000000002,"Drama,Comedy",97,5.6,528.0,0.4,-100.0
 Jade,R,1995,9.8,"Crime,Drama,Thriller",95,5.3,11135.0,50.0,-80.4
 Jakob the Liar,PG-13,1999,4.96,"Drama,War",120,6.6,14798.0,15.0,-66.93333333333332
 Jane Got a Gun,R,2015,1.51,"Action,Drama,Western",98,5.9,20343.0,25.0,-93.96
@@ -3664,46 +1629,13 @@ Jem and the Holograms,PG,2015,2.18,"Adventure,Drama,Family",118,4.1,7181.0,5.0,-
 Jennifer's Body,R,2009,16.2,"Comedy,Horror",102,5.2,112149.0,16.0,1.2499999999999956
 Jerry Maguire,R,1996,153.95,"Comedy,Drama,Romance",139,7.3,235848.0,50.0,207.89999999999998
 Jersey Boys,R,2014,47.03,"Biography,Drama,Music",134,6.8,32169.0,40.0,17.575000000000003
-Jersey Girl,PG-13,1992,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Comedy,Drama,Romance",95,6.1,0.0,35.0,-100.0
+Jersey Girl,PG-13,1992,22.810000000000002,"Comedy,Drama,Romance",95,6.1,48903.0,35.0,-100.0
 Jersey Girl,PG-13,2004,25.27,"Comedy,Drama,Romance",102,6.2,62437.0,35.0,-27.800000000000004
-Jesse,R,2011,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Action,Crime,Drama",120,4.9,0.0,0.95,-100.0
+Jesse,R,2011,22.810000000000002,"Action,Crime,Drama",120,4.9,48903.0,0.95,-100.0
 Jesus' Son,R,1999,1.28,Drama,107,6.9,6802.0,2.5,-48.8
 Jigsaw,R,2017,38.05,"Crime,Horror,Mystery",92,5.8,65359.0,10.0,280.5
 Jimmy Neutron: Boy Genius,G,2001,80.94,"Animation,Action,Adventure",82,6.0,29984.0,25.0,223.76
-Jimmy and Judy,R,2006,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Crime,Drama,Thriller",99,6.0,0.0,1.0,-100.0
+Jimmy and Judy,R,2006,22.810000000000002,"Crime,Drama,Thriller",99,6.0,48903.0,1.0,-100.0
 Jingle All the Way,PG,1996,60.57,"Adventure,Comedy,Family",89,5.6,89053.0,60.0,0.9500000000000005
 The Messenger: The Story of Joan of Arc,R,1999,14.28,"Adventure,Biography,Drama",148,6.4,63159.0,50.0,-71.44
 Jobs,PG-13,2013,16.12,"Biography,Drama",128,5.9,92275.0,18.0,-10.44444444444444
@@ -3727,30 +1659,8 @@ Joy,PG-13,2015,56.45,"Biography,Drama",124,6.6,124860.0,60.0,-5.916666666666662
 Joy Ride,R,2001,21.97,"Mystery,Thriller",97,6.6,62727.0,23.0,-4.478260869565222
 Joyful Noise,PG-13,2012,30.92,"Comedy,Drama,Music",118,5.7,7801.0,27.5,12.436363636363643
 Judge Dredd,R,1995,34.69,"Action,Crime,Sci-Fi",96,5.6,108175.0,85.0,-59.18823529411765
-Julia,R,2008,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Crime,Drama,Thriller",144,7.0,5700.0,6.0,-100.0
-Julia,R,2014,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Horror,Thriller",95,4.5,1605.0,6.0,-100.0
+Julia,R,2008,22.810000000000002,"Crime,Drama,Thriller",144,7.0,5700.0,6.0,-100.0
+Julia,R,2014,22.810000000000002,"Horror,Thriller",95,4.5,1605.0,6.0,-100.0
 Julie & Julia,PG-13,2009,94.13,"Biography,Drama,Romance",123,7.0,104220.0,40.0,135.325
 Jumanji,PG,1995,100.48,"Adventure,Comedy,Family",104,7.0,296972.0,65.0,54.58461538461539
 Jumanji: Welcome to the Jungle,PG-13,2017,404.52,"Action,Adventure,Comedy",119,6.9,305086.0,90.0,349.46666666666664
@@ -3766,18 +1676,7 @@ Jurassic World: Fallen Kingdom,PG-13,2018,417.72,"Action,Adventure,Sci-Fi",128,6
 Just Getting Started,PG-13,2017,6.07,"Comedy,Crime",91,4.5,5934.0,22.0,-72.4090909090909
 Just Like Heaven,PG-13,2005,48.32,"Comedy,Drama,Fantasy",95,6.7,97321.0,58.0,-16.689655172413794
 Just Looking,R,1999,0.04,"Comedy,Drama",97,6.7,1390.0,3.0,-98.66666666666667
-Just Looking,R,1995,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Comedy,Drama,Romance",84,5.1,0.0,3.0,-100.0
+Just Looking,R,1995,22.810000000000002,"Comedy,Drama,Romance",84,5.1,48903.0,3.0,-100.0
 Just Married,PG-13,2003,56.13,"Comedy,Romance",95,5.5,66625.0,19.0,195.42105263157896
 Just My Luck,PG-13,2006,17.32,"Comedy,Fantasy,Romance",103,5.4,52747.0,28.0,-38.14285714285714
 Just Visiting,PG-13,2001,4.78,"Comedy,Fantasy,Sci-Fi",88,5.8,18014.0,40.0,-88.05
@@ -3818,48 +1717,15 @@ King's Ransom,PG-13,2005,4.01,"Comedy,Crime",95,4.4,3564.0,25.0,-83.960000000000
 Kingdom Come,PG,2001,23.25,"Comedy,Drama,Family",94,5.6,2034.0,7.0,232.14285714285717
 Kingdom of Heaven,R,2005,47.4,"Action,Adventure,Drama",144,7.2,261504.0,110.0,-56.90909090909091
 Kingpin,PG-13,1996,24.94,"Comedy,Sport",114,6.9,75554.0,25.0,-0.2399999999999949
-Kingpin,R,2003,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Action,Crime,Drama",60,7.6,0.0,25.0,-100.0
+Kingpin,R,2003,22.810000000000002,"Action,Crime,Drama",60,7.6,48903.0,25.0,-100.0
 Kingsman: The Golden Circle,R,2017,100.23,"Action,Adventure,Comedy",141,6.7,259485.0,104.0,-3.6249999999999964
 Kingsman: The Secret Service,R,2014,128.26,"Action,Adventure,Comedy",129,7.7,576485.0,94.0,36.44680851063829
 Kinsey,R,2004,10.21,"Biography,Drama,Romance",118,7.0,46930.0,11.0,-7.181818181818174
 Kiss of Death,R,1995,14.94,"Action,Crime,Thriller",101,5.9,16612.0,40.0,-62.650000000000006
 Kiss of the Dragon,R,2001,36.85,"Action,Crime,Drama",98,6.6,59953.0,25.0,47.400000000000006
-Kiss the Bride,R,2002,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Comedy,Drama,Romance",89,5.4,0.0,0.5,-100.0
+Kiss the Bride,R,2002,22.810000000000002,"Comedy,Drama,Romance",89,5.4,48903.0,0.5,-100.0
 Kiss the Bride,R,2007,0.03,"Comedy,Romance",100,5.6,1504.0,0.5,-94.0
-Kiss the Bride,PG-13,2010,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Drama,80,4.7,0.0,0.5,-100.0
+Kiss the Bride,PG-13,2010,22.810000000000002,Drama,80,4.7,48903.0,0.5,-100.0
 Kiss the Girls,R,1997,60.53,"Crime,Drama,Mystery",115,6.6,63924.0,27.0,124.1851851851852
 Kissing Jessica Stein,R,2001,7.02,"Comedy,Drama,Romance",97,6.4,15710.0,1.5,368.0
 Kit Kittredge: An American Girl,G,2008,17.66,"Comedy,Drama,Family",101,6.5,5520.0,10.0,76.6
@@ -3869,30 +1735,8 @@ Knock Off,R,1998,10.08,"Action,Crime,Thriller",91,4.9,13619.0,35.0,-71.2
 Knockaround Guys,R,2001,11.63,"Crime,Drama,Thriller",92,6.1,22222.0,15.0,-22.46666666666666
 Knocked Up,R,2007,148.73,"Comedy,Romance",129,6.9,344168.0,27.5,440.8363636363636
 Knowing,PG-13,2009,79.96,"Action,Drama,Mystery",121,6.2,216873.0,50.0,59.91999999999999
-Knowing,G,2010,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Short,Drama,Family",24,6.1,0.0,50.0,-100.0
-Konferenz der Tiere,PG,2010,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Animation,Adventure,Comedy",93,4.9,0.0,30.0,-100.0
+Knowing,G,2010,22.810000000000002,"Short,Drama,Family",24,6.1,48903.0,50.0,-100.0
+Konferenz der Tiere,PG,2010,22.810000000000002,"Animation,Adventure,Comedy",93,4.9,48903.0,30.0,-100.0
 Kong: Skull Island,PG-13,2017,168.05,"Action,Adventure,Fantasy",118,6.6,260179.0,185.0,-9.162162162162156
 Krampus,PG-13,2015,42.59,"Comedy,Drama,Fantasy",98,6.1,59938.0,15.0,183.93333333333334
 Krisha,R,2015,0.14,Drama,83,7.2,7224.0,0.03,366.66666666666674
@@ -3920,48 +1764,15 @@ Larry Crowne,PG-13,2011,35.61,"Comedy,Drama,Romance",98,6.1,62048.0,30.0,18.6999
 Lars and the Real Girl,PG-13,2007,5.97,"Comedy,Drama,Romance",106,7.3,135974.0,12.5,-52.239999999999995
 Last Action Hero,PG-13,1993,50.02,"Action,Adventure,Comedy",130,6.4,133211.0,85.0,-41.152941176470584
 Last Holiday,PG-13,2006,38.36,"Comedy,Romance",112,6.4,27722.0,45.0,-14.755555555555558
-Once Upon a Time in Queens,R,2013,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Comedy,Drama",98,6.0,0.0,1.5,-100.0
+Once Upon a Time in Queens,R,2013,22.810000000000002,"Comedy,Drama",98,6.0,48903.0,1.5,-100.0
 Last Man Standing,R,1996,17.6,"Action,Crime,Drama",101,6.4,52340.0,67.0,-73.73134328358208
-Last Man Standing,R,1995,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Action,Drama",96,5.6,0.0,67.0,-100.0
+Last Man Standing,R,1995,22.810000000000002,"Action,Drama",96,5.6,48903.0,67.0,-100.0
 Last Vegas,PG-13,2013,63.91,"Comedy,Drama",105,6.6,125739.0,28.0,128.25
 Late Night,R,2019,15.5,"Comedy,Drama",102,6.5,24736.0,4.0,287.5
 Latter Days,R,2003,0.82,"Comedy,Drama,Romance",107,7.0,16707.0,0.85,-3.529411764705886
 Law Abiding Citizen,R,2009,73.34,"Action,Crime,Drama",109,7.4,265367.0,53.0,38.377358490566046
 Lawless,R,2012,37.4,"Crime,Drama",116,7.3,223416.0,26.0,43.84615384615384
-Lawless,PG-13,2010,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Short,Action,Biography",6,8.8,0.0,26.0,-100.0
+Lawless,PG-13,2010,22.810000000000002,"Short,Action,Biography",6,8.8,48903.0,26.0,-100.0
 Leap Year,PG,2010,25.92,"Comedy,Romance",100,6.5,91759.0,19.0,36.42105263157895
 Leatherheads,PG-13,2008,31.2,"Comedy,Drama,Romance",114,6.0,30695.0,58.0,-46.20689655172414
 Leaves of Grass,R,2009,0.07,"Comedy,Crime,Drama",105,6.4,26248.0,9.0,-99.22222222222223
@@ -3985,54 +1796,10 @@ Liar Liar,PG-13,1997,181.41,"Comedy,Fantasy",86,6.9,274582.0,45.0,303.1333333333
 License to Wed,PG-13,2007,43.8,"Comedy,Romance",91,5.3,37400.0,35.0,25.14285714285713
 Life,R,1999,63.84,"Comedy,Crime,Drama",108,6.8,44464.0,75.0,-14.879999999999995
 Life,R,1999,63.84,"Comedy,Crime,Drama",108,6.8,44464.0,58.0,10.068965517241384
-Life,PG,2007,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Short,Drama",13,7.8,0.0,75.0,-100.0
-Life,PG,2007,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Short,Drama",13,7.8,0.0,58.0,-100.0
-Life,R,2015,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Biography,Drama",111,6.1,0.0,75.0,-100.0
-Life,R,2015,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Biography,Drama",111,6.1,0.0,58.0,-100.0
+Life,PG,2007,22.810000000000002,"Short,Drama",13,7.8,48903.0,75.0,-100.0
+Life,PG,2007,22.810000000000002,"Short,Drama",13,7.8,48903.0,58.0,-100.0
+Life,R,2015,22.810000000000002,"Biography,Drama",111,6.1,48903.0,75.0,-100.0
+Life,R,2015,22.810000000000002,"Biography,Drama",111,6.1,48903.0,58.0,-100.0
 Life,R,2017,30.23,"Horror,Sci-Fi,Thriller",104,6.6,200177.0,75.0,-59.69333333333333
 Life,R,2017,30.23,"Horror,Sci-Fi,Thriller",104,6.6,200177.0,58.0,-47.87931034482759
 Life During Wartime,R,2009,0.28,"Comedy,Drama",98,6.4,6753.0,4.5,-93.77777777777777
@@ -4042,18 +1809,7 @@ Life of Pi,PG,2012,124.99,"Adventure,Drama,Fantasy",127,7.9,567574.0,120.0,4.158
 Life of the Party,PG-13,2018,52.86,Comedy,105,5.6,31619.0,30.0,76.2
 Light It Up,R,1999,5.87,"Drama,Thriller",99,6.0,3440.0,13.0,-54.84615384615385
 Light Sleeper,R,1992,1.05,"Crime,Drama",103,6.9,5642.0,5.0,-79.0
-Light from the Darkroom,PG-13,2014,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Action,Drama,Thriller",90,5.9,0.0,0.6,-100.0
+Light from the Darkroom,PG-13,2014,22.810000000000002,"Action,Drama,Thriller",90,5.9,48903.0,0.6,-100.0
 Lights Out,PG-13,2016,67.27,"Drama,Horror,Mystery",81,6.3,110782.0,5.0,1245.3999999999999
 Like Crazy,PG-13,2011,3.41,"Drama,Romance",86,6.7,58183.0,0.25,1264.0
 Like Mike,PG,2002,51.43,"Comedy,Family,Fantasy",99,5.3,18562.0,30.0,71.43333333333334
@@ -4075,34 +1831,12 @@ Little Women,PG,2019,108.1,"Drama,Romance",135,7.9,115175.0,15.0,620.66666666666
 Little Women,PG-13,2018,1.38,"Drama,Family",112,5.1,1040.0,15.0,-90.8
 Live Free or Die Hard,PG-13,2007,134.53,"Action,Thriller",128,7.1,382881.0,110.0,22.3
 Live by Night,R,2016,10.38,"Action,Crime,Drama",129,6.4,50644.0,65.0,-84.03076923076924
-Living Dark: The Story of Ted the Caver,PG-13,2013,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Horror,Mystery",112,5.2,0.0,1.75,-100.0
+Living Dark: The Story of Ted the Caver,PG-13,2013,22.810000000000002,"Horror,Mystery",112,5.2,48903.0,1.75,-100.0
 Living Out Loud,R,1998,12.9,"Comedy,Drama,Romance",100,6.5,4470.0,12.0,7.500000000000003
 The Impossible,PG-13,2012,19.02,"Drama,History,Thriller",114,7.6,191027.0,40.0,-52.449999999999996
 Loaded Weapon 1,PG-13,1993,27.98,"Action,Comedy,Crime",84,6.2,43591.0,13.0,115.23076923076923
 Locke,R,2013,1.36,Drama,85,7.1,130945.0,2.0,-31.999999999999996
-Locker 13,R,2014,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Thriller,90,4.8,289.0,0.3,-100.0
+Locker 13,R,2014,22.810000000000002,Thriller,90,4.8,289.0,0.3,-100.0
 Lockout,PG-13,2012,14.33,"Action,Sci-Fi,Thriller",95,6.1,92970.0,20.0,-28.349999999999998
 Logan,R,2017,226.28,"Action,Drama,Sci-Fi",137,8.1,622220.0,127.0,78.1732283464567
 Logan Lucky,PG-13,2017,27.78,"Comedy,Crime,Drama",118,7.0,122469.0,29.0,-4.206896551724134
@@ -4122,18 +1856,7 @@ Loser,R,1996,0.23,Drama,80,5.0,152.0,20.0,-98.85
 Loser,PG-13,2000,15.62,"Comedy,Romance",98,5.3,26203.0,20.0,-21.900000000000002
 Lost River,R,2014,0.04,"Drama,Fantasy,Mystery",95,5.8,16696.0,2.0,-98.0
 Lost Souls,R,2000,16.78,"Drama,Horror,Thriller",97,4.8,10292.0,28.0,-40.07142857142857
-Lost Souls,TV-PG,1998,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Drama,Fantasy,Mystery",90,5.3,0.0,28.0,-100.0
+Lost Souls,TV-PG,1998,22.810000000000002,"Drama,Fantasy,Mystery",90,5.3,48903.0,28.0,-100.0
 Lost in Translation,R,2003,44.59,"Comedy,Drama",102,7.7,399973.0,4.0,1014.7500000000001
 Lottery Ticket,PG-13,2010,24.71,Comedy,99,5.0,10340.0,17.0,45.352941176470594
 Love Actually,R,2003,59.7,"Comedy,Drama,Romance",135,7.6,414126.0,45.0,32.66666666666667
@@ -4151,18 +1874,7 @@ Love's Abiding Joy,PG,2006,0.25,"Drama,Family,Western",87,7.0,1641.0,3.0,-91.666
 Loving,PG-13,2016,7.7,"Biography,Drama,Romance",123,7.0,30474.0,9.0,-14.444444444444443
 Lowriders,PG-13,2016,6.16,"Adventure,Crime,Drama",98,5.7,2151.0,0.916,572.4890829694323
 Lucky Break,PG-13,2001,0.05,"Comedy,Crime,Romance",108,6.1,2101.0,6.0,-99.16666666666667
-Lucky Dog,PG,2015,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Family,88,5.2,0.0,2.0,-100.0
+Lucky Dog,PG,2015,22.810000000000002,Family,88,5.2,48903.0,2.0,-100.0
 Lucky Number Slevin,R,2006,22.49,"Crime,Drama,Mystery",110,7.7,296037.0,27.0,-16.70370370370371
 Lucky Numbers,R,2000,10.01,"Comedy,Crime",105,5.0,9723.0,65.0,-84.60000000000001
 Lucky You,PG-13,2007,5.76,"Drama,Romance,Sport",124,5.9,19892.0,55.0,-89.52727272727273
@@ -4191,30 +1903,8 @@ Magnolia,R,1999,22.46,Drama,188,8.0,283240.0,37.0,-39.2972972972973
 Maid in Manhattan,PG-13,2002,94.01,"Comedy,Drama,Romance",105,5.3,82471.0,55.0,70.92727272727274
 Malcolm X,PG-13,1992,48.17,"Biography,Drama,History",202,7.7,82732.0,35.0,37.62857142857143
 Maleficent,PG,2014,241.41,"Action,Adventure,Family",97,7.0,334845.0,180.0,34.11666666666667
-Malevolence,R,1999,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Drama,96,5.6,0.0,0.2,-100.0
-Malevolence,R,2004,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Crime,Horror,Mystery",90,5.1,0.0,0.2,-100.0
+Malevolence,R,1999,22.810000000000002,Drama,96,5.6,48903.0,0.2,-100.0
+Malevolence,R,2004,22.810000000000002,"Crime,Horror,Mystery",90,5.1,48903.0,0.2,-100.0
 Malibu's Most Wanted,PG-13,2003,34.31,"Comedy,Crime",86,5.1,18290.0,15.0,128.73333333333335
 Mallrats,R,1995,2.12,"Comedy,Romance",94,7.1,114044.0,6.1,-65.24590163934427
 Mamma Mia!,PG-13,2008,144.13,"Comedy,Musical,Romance",108,6.4,208883.0,52.0,177.1730769230769
@@ -4278,18 +1968,7 @@ Meet the Fockers,PG-13,2004,279.26,"Comedy,Romance",115,6.3,248049.0,60.0,365.43
 Meet the Mormons,PG,2014,5.88,Documentary,78,6.9,1924.0,2.0,194.0
 Meet the Parents,PG-13,2000,166.24,"Comedy,Romance",108,7.0,305065.0,55.0,202.25454545454545
 Megamind,PG,2010,148.42,"Animation,Action,Comedy",95,7.2,221474.0,130.0,14.16923076923076
-Race,PG-13,1998,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Drama,104,5.7,0.0,5.0,-100.0
+Race,PG-13,1998,22.810000000000002,Drama,104,5.7,48903.0,5.0,-100.0
 Memento,R,2000,25.54,"Mystery,Thriller",113,8.4,1091490.0,5.0,410.79999999999995
 Memoirs of a Geisha,PG-13,2005,57.49,"Drama,Romance",145,7.4,135908.0,85.0,-32.364705882352936
 Memoirs of an Invisible Man,PG-13,1992,14.36,"Comedy,Romance,Sci-Fi",99,6.0,21975.0,40.0,-64.1
@@ -4297,94 +1976,28 @@ Men in Black,PG-13,1997,250.69,"Action,Adventure,Comedy",98,7.3,504526.0,90.0,17
 Men in Black 3,PG-13,2012,179.02,"Action,Adventure,Comedy",106,6.8,327953.0,215.0,-16.734883720930227
 Men in Black: International,PG-13,2019,80.0,"Action,Adventure,Comedy",114,5.6,101122.0,110.0,-27.27272727272727
 Men of Honor,R,2000,48.82,"Biography,Drama",129,7.2,105002.0,32.0,52.5625
-Men of War,R,1994,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Action,Drama,Thriller",102,5.8,0.0,6.0,-100.0
+Men of War,R,1994,22.810000000000002,"Action,Drama,Thriller",102,5.8,48903.0,6.0,-100.0
 Menace II Society,R,1993,27.9,"Crime,Drama,Thriller",97,7.5,50126.0,3.5,697.1428571428571
 Mercury Rising,R,1998,32.94,"Action,Crime,Drama",111,6.2,66833.0,60.0,-45.1
 Mercy Streets,PG-13,2000,0.17,"Action,Drama,Crime",106,5.3,505.0,0.6,-71.66666666666666
 Message in a Bottle,PG-13,1999,52.88,"Drama,Romance",126,6.3,34919.0,30.0,76.26666666666667
 Metallica Through the Never,R,2013,3.42,Music,93,7.2,16309.0,18.0,-81.0
-Underdogs,PG,2013,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Animation,Adventure,Family",85,6.5,0.0,2.5,-100.0
+Underdogs,PG,2013,22.810000000000002,"Animation,Adventure,Family",85,6.5,48903.0,2.5,-100.0
 Metropolitan,PG-13,1990,2.94,"Comedy,Drama,Romance",98,7.4,9182.0,0.43,583.7209302325581
-Mi America,R,2015,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Crime,Drama",90,6.4,57.0,2.1,-100.0
+Mi America,R,2015,22.810000000000002,"Crime,Drama",90,6.4,57.0,2.1,-100.0
 Miami Vice,R,2006,63.45,"Action,Crime,Thriller",132,6.0,107908.0,135.0,-53.0
 Michael Clayton,R,2007,49.03,"Crime,Drama,Mystery",119,7.2,153543.0,21.5,128.046511627907
 Michael Collins,R,1996,11.09,"Biography,Drama,Thriller",133,7.2,28897.0,25.0,-55.64
 Mickey Blue Eyes,PG-13,1999,33.86,"Comedy,Crime,Romance",102,5.8,34132.0,40.0,-15.350000000000003
 Middle Men,R,2009,0.72,"Comedy,Crime,Drama",105,6.8,36163.0,20.0,-96.4
 Middle School: The Worst Years of My Life,PG,2016,19.99,"Comedy,Family",92,6.1,7366.0,8.5,135.17647058823528
-Middle of Nowhere,R,2008,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Comedy,Drama,Romance",95,6.5,0.0,0.2,-100.0
+Middle of Nowhere,R,2008,22.810000000000002,"Comedy,Drama,Romance",95,6.5,48903.0,0.2,-100.0
 Middle of Nowhere,R,2012,0.08,Drama,97,6.4,1505.0,0.2,-60.0
-Midnight Cabaret,R,1990,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Horror,94,4.5,0.0,0.3,-100.0
+Midnight Cabaret,R,1990,22.810000000000002,Horror,94,4.5,48903.0,0.3,-100.0
 Midnight Special,PG-13,2016,3.71,"Drama,Mystery,Sci-Fi",112,6.6,72851.0,18.0,-79.38888888888889
 Midnight in Paris,PG-13,2011,56.82,"Comedy,Fantasy,Romance",94,7.7,377287.0,30.0,89.4
 Midnight in the Garden of Good and Evil,R,1997,25.08,"Crime,Drama,Mystery",155,6.6,36105.0,35.0,-28.34285714285715
-Midway,PG-13,2019,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Action,Adventure,Drama",138,6.7,0.0,59.5,-100.0
+Midway,PG-13,2019,22.810000000000002,"Action,Adventure,Drama",138,6.7,48903.0,59.5,-100.0
 Mighty Joe Young,PG,1998,50.63,"Action,Adventure,Family",114,5.6,27049.0,80.0,-36.7125
 Mike and Dave Need Wedding Dates,R,2016,46.01,"Comedy,Romance",98,6.0,80275.0,33.0,39.424242424242415
 Mile 22,R,2018,36.11,"Action,Thriller",94,6.1,61810.0,35.0,3.1714285714285695
@@ -4397,32 +2010,10 @@ Minority Report,PG-13,2002,132.07,"Action,Crime,Mystery",145,7.6,496128.0,102.0,
 Miracle,PG,2004,64.38,"Biography,Drama,History",135,7.5,46511.0,28.0,129.92857142857142
 Miracle at St. Anna,R,2008,7.92,"Action,Drama,War",160,6.1,17757.0,45.0,-82.39999999999999
 Miracles from Heaven,PG,2016,61.69,"Biography,Drama,Family",109,7.1,20290.0,13.0,374.53846153846155
-Mirror Mirror,R,1990,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Horror,Thriller",104,5.7,0.0,85.0,-100.0
+Mirror Mirror,R,1990,22.810000000000002,"Horror,Thriller",104,5.7,48903.0,85.0,-100.0
 Mirror Mirror,PG,2012,64.94,"Adventure,Comedy,Drama",106,5.6,82536.0,85.0,-23.6
 Mirrors,R,2008,30.69,"Horror,Mystery",110,6.2,100566.0,35.0,-12.314285714285711
-Misconduct,R,2016,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Crime,Drama,Mystery",106,5.3,0.0,11.0,-100.0
+Misconduct,R,2016,22.810000000000002,"Crime,Drama,Mystery",106,5.3,48903.0,11.0,-100.0
 Miss Bala,PG-13,2019,15.01,"Action,Crime,Drama",104,5.7,7333.0,15.0,0.06666666666666525
 Miss Congeniality,PG-13,2000,106.81,"Action,Comedy,Crime",109,6.2,181771.0,45.0,137.35555555555555
 Miss Julie,R,1999,0.01,Drama,103,6.2,1431.0,5.5,-99.81818181818181
@@ -4434,18 +2025,7 @@ Mission: Impossible,PG-13,1996,180.98,"Action,Adventure,Thriller",110,7.1,378212
 Mission: Impossible III,PG-13,2006,134.03,"Action,Adventure,Thriller",126,6.9,322559.0,150.0,-10.646666666666665
 Mo' Better Blues,R,1990,16.15,"Drama,Music,Romance",130,6.6,10791.0,10.0,61.499999999999986
 Moana,PG,2016,248.76,"Animation,Adventure,Comedy",107,7.6,257201.0,150.0,65.84
-Moby Dick,PG,1998,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Adventure,Drama,Thriller",180,6.4,0.0,4.5,-100.0
+Moby Dick,PG,1998,22.810000000000002,"Adventure,Drama,Thriller",180,6.4,48903.0,4.5,-100.0
 Molly,PG-13,1999,0.02,"Comedy,Drama,Romance",102,5.8,2648.0,21.0,-99.90476190476191
 Mona Lisa Smile,PG-13,2003,63.86,Drama,117,6.5,75899.0,65.0,-1.7538461538461547
 Money Monster,R,2016,41.01,"Crime,Drama,Thriller",98,6.5,92057.0,27.0,51.888888888888886
@@ -4476,18 +2056,7 @@ Mother and Child,R,2009,1.11,"Drama,Romance",125,7.2,11390.0,7.0,-84.14285714285
 Motherhood,PG-13,2009,0.09,"Comedy,Drama",90,4.6,4314.0,10.0,-99.1
 Movie 43,R,2013,8.83,Comedy,94,4.3,97672.0,10.0,-11.7
 Mr. Deeds,PG-13,2002,126.29,"Comedy,Romance",96,5.8,133037.0,50.0,152.58
-Mr. Nobody,R,2009,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Drama,Fantasy,Romance",141,7.8,210558.0,46.5,-100.0
+Mr. Nobody,R,2009,22.810000000000002,"Drama,Fantasy,Romance",141,7.8,210558.0,46.5,-100.0
 Mr. Peabody & Sherman,PG,2014,111.51,"Animation,Adventure,Comedy",92,6.8,60549.0,145.0,-23.096551724137928
 Mr. Turner,R,2014,3.96,"Biography,Drama,History",150,6.8,23843.0,14.0,-71.71428571428571
 Mrs. Henderson Presents,R,2005,11.03,"Comedy,Drama,Music",103,7.0,14951.0,20.0,-44.85
@@ -4501,18 +2070,7 @@ Multiplicity,PG-13,1996,20.1,"Comedy,Romance,Sci-Fi",117,6.1,29232.0,45.0,-55.33
 Mumford,R,1999,4.55,"Comedy,Drama",112,6.8,8772.0,28.7,-84.14634146341463
 Munich,R,2005,47.4,"Action,Drama,History",164,7.5,207253.0,75.0,-36.8
 Muppets Most Wanted,PG,2014,51.18,"Adventure,Comedy,Crime",107,6.4,30725.0,55.0,-6.945454545454546
-Murder by Numbers,PG-13,1990,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Crime,Thriller",85,5.0,0.0,50.0,-100.0
+Murder by Numbers,PG-13,1990,22.810000000000002,"Crime,Thriller",85,5.0,48903.0,50.0,-100.0
 Murder by Numbers,R,2002,31.87,"Crime,Mystery,Thriller",115,6.2,52014.0,50.0,-36.26
 Murder on the Orient Express,PG-13,2017,102.83,"Crime,Drama,Mystery",114,6.5,200792.0,55.0,86.96363636363637
 Murderball,R,2005,1.52,"Documentary,Sport",88,7.7,9754.0,0.35,334.2857142857143
@@ -4533,18 +2091,7 @@ My Dog Skip,PG,2000,34.1,"Comedy,Drama,Family",95,7.0,18995.0,7.0,387.1428571428
 My Favorite Martian,PG,1999,36.83,"Comedy,Family,Sci-Fi",94,5.1,12610.0,60.0,-38.616666666666674
 My Fellow Americans,PG-13,1996,22.29,"Adventure,Comedy",101,6.5,13883.0,21.5,3.674418604651159
 My Girl,PG,1991,59.85,"Comedy,Drama,Family",102,6.9,70105.0,16.5,262.72727272727275
-My Girlfriend's Boyfriend,PG,2010,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Comedy,Romance",84,5.8,0.0,1.4,-100.0
+My Girlfriend's Boyfriend,PG,2010,22.810000000000002,"Comedy,Romance",84,5.8,48903.0,1.4,-100.0
 My Life in Ruins,PG-13,2009,8.66,"Comedy,Romance",95,5.9,18056.0,17.0,-49.05882352941177
 My Own Private Idaho,R,1991,6.4,Drama,104,7.1,48607.0,2.5,156.0
 My Sister's Keeper,PG-13,2009,49.2,"Drama,Family",109,7.4,87889.0,27.5,78.90909090909092
@@ -4570,18 +2117,7 @@ Nemesis,R,1992,2.0,"Action,Sci-Fi,Thriller",95,5.4,4877.0,2.0,0.0
 Nerve,PG-13,2016,38.58,"Adventure,Crime,Drama",96,6.5,111696.0,20.0,92.89999999999999
 Never Again,R,2001,0.3,"Comedy,Romance",98,6.3,775.0,0.5,-40.0
 Never Back Down,PG-13,2008,24.85,"Action,Drama,Sport",113,6.6,94261.0,21.0,18.33333333333334
-Never Back Down 2: The Beatdown,R,2011,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Action,Drama,Sport",90,5.7,0.0,3.0,-100.0
+Never Back Down 2: The Beatdown,R,2011,22.810000000000002,"Action,Drama,Sport",90,5.7,48903.0,3.0,-100.0
 New York Minute,PG,2004,14.02,"Comedy,Crime,Family",91,5.0,21344.0,40.0,-64.95
 New in Town,PG,2009,16.73,"Comedy,Romance",97,5.6,21269.0,8.0,109.125
 Next,PG-13,2007,18.21,"Action,Sci-Fi,Thriller",96,6.2,145842.0,70.0,-73.9857142857143
@@ -4600,18 +2136,7 @@ Night on Earth,R,1991,2.02,"Comedy,Drama",129,7.8,53690.0,2.0,1.0000000000000009
 Nightcrawler,R,2014,32.38,"Crime,Drama,Thriller",117,7.9,444439.0,8.5,280.94117647058823
 Nim's Island,PG,2008,48.01,"Adventure,Family,Fantasy",96,6.0,32832.0,37.0,29.75675675675675
 Nine,PG-13,2009,24.0,"Drama,Musical,Romance",118,5.8,41942.0,80.0,-70.0
-Nine Dead,R,2010,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Crime,Drama,Horror",98,5.5,0.0,2.0,-100.0
+Nine Dead,R,2010,22.810000000000002,"Crime,Drama,Horror",98,5.5,48903.0,2.0,-100.0
 Ninja Assassin,R,2009,38.11,"Action,Thriller",99,6.3,67013.0,50.0,-23.78
 Nixon,R,1995,13.56,"Biography,Drama,History",192,7.1,28158.0,45.0,-69.86666666666666
 No Country for Old Men,R,2007,74.28,"Crime,Drama,Thriller",122,8.1,824458.0,25.0,197.12
@@ -4620,31 +2145,9 @@ No Escape,R,2015,27.29,"Action,Thriller",103,6.8,75871.0,5.0,445.8
 No Good Deed,R,2002,0.18,"Action,Crime,Drama",103,5.5,6849.0,13.2,-98.63636363636363
 No Good Deed,PG-13,2014,52.54,"Action,Crime,Drama",84,5.6,17551.0,13.2,298.0303030303031
 No Looking Back,R,1998,0.14,"Comedy,Drama,Romance",96,6.0,1897.0,5.0,-97.2
-No Man's Land: The Rise of Reeker,R,2008,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Horror,Thriller",88,4.8,0.0,2.0,-100.0
+No Man's Land: The Rise of Reeker,R,2008,22.810000000000002,"Horror,Thriller",88,4.8,48903.0,2.0,-100.0
 No Reservations,PG,2007,43.11,"Comedy,Drama,Romance",104,6.3,69235.0,28.0,53.96428571428571
-No Strings Attached,R,1997,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Mystery,Thriller,Drama",93,4.9,0.0,25.0,-100.0
+No Strings Attached,R,1997,22.810000000000002,"Mystery,Thriller,Drama",93,4.9,48903.0,25.0,-100.0
 No Strings Attached,R,2011,70.66,"Comedy,Romance",108,6.2,208455.0,25.0,182.64
 Noah,PG-13,2014,101.2,"Action,Adventure,Drama",138,5.7,239045.0,130.0,-22.153846153846153
 Nocturnal Animals,R,2016,10.64,"Drama,Thriller",116,7.5,227260.0,22.5,-52.71111111111111
@@ -4662,33 +2165,11 @@ Novocaine,R,2001,2.04,"Comedy,Crime,Drama",95,5.8,10559.0,6.0,-66.0
 Now You See Me,PG-13,2013,117.72,"Crime,Mystery,Thriller",115,7.3,582238.0,75.0,56.96
 Now You See Me 2,PG-13,2016,65.08,"Action,Adventure,Comedy",129,6.5,238750.0,90.0,-27.68888888888889
 Nowhere to Run,R,1993,22.19,"Action,Drama,Romance",94,5.7,21194.0,15.0,47.933333333333344
-Nurse 3D,R,2013,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Horror,Thriller",84,4.5,0.0,10.0,-100.0
+Nurse 3D,R,2013,22.810000000000002,"Horror,Thriller",84,4.5,48903.0,10.0,-100.0
 Nurse Betty,R,2000,25.17,"Comedy,Crime,Drama",110,6.1,32555.0,24.0,4.875000000000007
 Nutty Professor II: The Klumps,PG-13,2000,123.31,"Comedy,Romance,Sci-Fi",106,4.4,47464.0,84.0,46.79761904761905
 "O Brother, Where Art Thou?",PG-13,2000,45.51,"Adventure,Comedy,Crime",107,7.7,277643.0,26.0,75.03846153846153
-Oblivion,PG-13,1994,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Adventure,Comedy,Horror",94,5.1,0.0,120.0,-100.0
+Oblivion,PG-13,1994,22.810000000000002,"Adventure,Comedy,Horror",94,5.1,48903.0,120.0,-100.0
 Oblivion,PG-13,2013,89.02,"Action,Adventure,Sci-Fi",124,7.0,474891.0,120.0,-25.81666666666667
 Observe and Report,R,2009,23.99,"Comedy,Crime,Drama",86,5.8,60012.0,18.0,33.277777777777764
 Obsessed,PG-13,2009,68.26,"Drama,Romance,Thriller",108,5.0,28794.0,20.0,241.3
@@ -4698,18 +2179,7 @@ Ocean's Thirteen,PG-13,2007,117.15,"Action,Crime,Thriller",122,6.9,313154.0,85.0
 Ocean's Twelve,PG-13,2004,125.54,"Crime,Thriller",125,6.5,349670.0,110.0,14.127272727272732
 October Baby,PG-13,2011,5.36,Drama,107,6.7,7203.0,1.0,436.00000000000006
 Oculus,R,2013,27.7,"Horror,Mystery",104,6.5,113719.0,5.0,454.0
-Oddball,PG,2016,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Documentary,5,6.4,0.0,7.0,-100.0
+Oddball,PG,2016,22.810000000000002,Documentary,5,6.4,48903.0,7.0,-100.0
 Office Christmas Party,R,2016,54.77,Comedy,105,5.8,65951.0,45.0,21.711111111111116
 Office Space,R,1999,10.82,Comedy,89,7.7,236622.0,10.0,8.200000000000003
 Old Dogs,PG,2009,49.49,"Comedy,Family",88,5.4,35754.0,35.0,41.400000000000006
@@ -4735,18 +2205,7 @@ Only the Brave,R,2006,0.14,"Drama,War",99,5.3,766.0,38.0,-99.63157894736841
 Only the Brave,PG-13,2017,18.34,"Action,Biography,Drama",134,7.6,54214.0,38.0,-51.73684210526316
 Only the Strong,PG-13,1993,3.27,"Action,Drama",99,6.7,5547.0,6.0,-45.5
 Open Range,R,2003,58.33,"Action,Drama,Romance",139,7.4,65233.0,26.0,124.34615384615384
-Open Season,R,1995,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>",Comedy,97,5.1,0.0,85.0,-100.0
+Open Season,R,1995,22.810000000000002,Comedy,97,5.1,48903.0,85.0,-100.0
 Open Season,PG,2006,85.11,"Animation,Adventure,Comedy",86,6.1,84153.0,85.0,0.1294117647058817
 Open Water,R,2003,30.61,"Adventure,Drama,Horror",79,5.7,50125.0,0.5,6022.0
 Orange County,PG-13,2002,41.03,"Comedy,Drama",82,6.2,46352.0,18.0,127.94444444444446
@@ -4763,33 +2222,11 @@ Our Idiot Brother,R,2011,24.81,"Comedy,Drama",90,6.4,82769.0,5.0,396.2
 Out Cold,PG-13,2001,13.9,"Comedy,Sport",89,6.3,16509.0,11.0,26.363636363636367
 Out of Sight,R,1998,37.56,"Comedy,Crime,Drama",123,7.0,83173.0,48.0,-21.749999999999993
 Out of Time,PG-13,2003,40.91,"Crime,Drama,Mystery",105,6.5,55691.0,50.0,-18.180000000000007
-Out of the Dark,R,2014,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Horror,Thriller",92,4.8,0.0,1.6,-100.0
+Out of the Dark,R,2014,22.810000000000002,"Horror,Thriller",92,4.8,48903.0,1.6,-100.0
 Out of the Furnace,R,2013,11.33,"Action,Crime,Drama",116,6.8,103999.0,22.0,-48.5
 Outbreak,R,1995,67.82,"Action,Drama,Thriller",127,6.6,116649.0,50.0,35.639999999999986
 Outlander,R,2008,0.16,"Action,Adventure,Sci-Fi",115,6.2,70904.0,50.0,-99.68
-Outlander,TV-MA,2014,"<bound method Series.median of 0        72.08
-1         0.01
-2        38.18
-3        66.96
-4         0.05
-         ...  
-2236      7.56
-2237    155.02
-2238     50.32
-2239     53.70
-2240      4.35
-Name: Gross Income in millions (USD), Length: 2234, dtype: float64>","Drama,Fantasy,Romance",64,8.4,0.0,50.0,-100.0
+Outlander,TV-MA,2014,22.810000000000002,"Drama,Fantasy,Romance",64,8.4,48903.0,50.0,-100.0
 Outside Providence,R,1999,7.29,"Comedy,Drama,Romance",96,6.4,8409.0,7.0,4.142857142857143
 Over Her Dead Body,PG-13,2008,7.56,"Comedy,Fantasy,Romance",95,5.2,23580.0,10.0,-24.400000000000006
 Over the Hedge,PG,2006,155.02,"Animation,Adventure,Comedy",83,6.7,155742.0,80.0,93.775
