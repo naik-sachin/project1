@@ -25,11 +25,3 @@ We had a few notebooks to split up how we extracted and cleaned our data.
 
 3. [EDA.ipynb](https://github.com/snaik21352/project1/blob/master/Notebooks/EDA.ipynb)
 	* In this notebook, we show the different visualization and analysis we did based on the cleaned data
-
-
-## Our Final Presentation
-
-Please check out our final presentation slides [here](https://docs.google.com/presentation/d/1679d20gadi5_Q87Sc3tBHk--LrzjMmOg7c2lTDUWyfQ/edit?usp=sharing)
-
-
-
