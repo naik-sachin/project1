@@ -18,7 +18,7 @@ We also used a webscraper to scrape data off IMDb
 We had a few notebooks to split up how we extracted and cleaned our data.
 
 1. [Web_Scraper.ipynb](https://github.com/snaik21352/project1/blob/master/Notebooks/Web_Scraper.ipynb)
-	* In this notebook, we show the steps we took to scrape [IMDb](https://www.imdb.com/) with [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+	* In this notebook, we show the steps we took to scrape [IMDb](https://www.imdb.com/) with [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/). The scraped data was saved as [df_scraped.csv](https://github.com/snaik21352/project1/blob/master/df_scraped.csv)
 
 2. [Combining Data.ipynb](https://github.com/snaik21352/project1/blob/master/Notebooks/Combining%20Data.ipynb)
 	* In this notebook, we show the steps to create the final cleaned dataset [newfulldf.csv](https://github.com/snaik21352/project1/blob/master/Notebooks/newfulldf.csv)
